@@ -1,8 +1,8 @@
 # awesome-dev-stuff
 
-dev
+## dev
 
-react
+#### react
 https://github.com/gaearon/react-makes-you-sad
 https://github.com/wojtekmaj/react-lifecycle-methods-diagram
 https://github.com/azat-co/react
@@ -10,7 +10,7 @@ https://github.com/adam-golab/react-developer-roadmap
 
 
 ---
-
+#### styling
 https://medium.com/@colebemis/styling-react-components-6dc1ac53c574
 https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
 https://hackernoon.com/styling-react-with-css-9f6cef1823cc
@@ -33,7 +33,7 @@ https://hackernoon.com/react-reusable-component-state-805163dc355
 
 ---
 
-
+#### cool github repositories
 https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md
 
 https://github.com/keyuls/Free-Programming-Tutorials/blob/master/free-programming-courses.md
@@ -68,7 +68,7 @@ https://github.com/sqreen/awesome-nodejs-projects
 https://github.com/csswizardry/CSS-Guidelines
 https://cssguidelin.es/
 
-oss
+#### oss
 https://github.com/freeCodeCamp/how-to-contribute-to-open-source
 https://github.com/stevemao/github-issue-templates
 https://github.com/github-changelog-generator/github-changelog-generator
@@ -76,6 +76,20 @@ https://github.com/sallar/github-contributions-chart
 
 
 
-ml
+#### ml
 https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
 
+https://github.com/josephmisiti/awesome-machine-learning
+https://github.com/fastai/courses
+https://github.com/topics/food-classification
+https://github.com/stratospark/food-101-keras
+https://www.techworld.com/apps-wearables/make-food-production-open-source-says-mit-media-lab-3655322/
+https://www.google.com.ua/search?safe=active&q=food+classification+deep+learning&sa=X&ved=0ahUKEwig3t-ryP7YAhXO26QKHTmgAIkQ1QIIhQEoAA&biw=1229&bih=597
+https://github.com/src-d/awesome-machine-learning-on-source-code
+https://github.com/openai/gym
+https://www.google.com.ua/search?safe=active&q=food+101+dataset&sa=X&ved=0ahUKEwig3t-ryP7YAhXO26QKHTmgAIkQ1QIIiQEoBA
+https://www.google.com.ua/search?safe=active&q=food+recognition+api&sa=X&ved=0ahUKEwig3t-ryP7YAhXO26QKHTmgAIkQ1QIIiwEoBg
+https://www.google.com.ua/search?safe=active&q=food+image+recognition+with+deep+convolutional+features&sa=X&ved=0ahUKEwig3t-ryP7YAhXO26QKHTmgAIkQ1QIIhgEoAQ
+http://news.mit.edu/2017/artificial-intelligence-suggests-recipes-based-on-food-photos-0720
+http://im2recipe.csail.mit.edu/
+https://www.fastcompany.com/40419891/these-food-computers-use-ai-to-make-climate-recipes-for-the-best-tasting-crops
