@@ -33,6 +33,12 @@ https://hackernoon.com/react-reusable-component-state-805163dc355
 
 ---
 
+#### js
+https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c
+
+---
+
+
 #### cool github repositories
 https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md
 
