@@ -7,7 +7,7 @@ https://github.com/gaearon/react-makes-you-sad
 https://github.com/wojtekmaj/react-lifecycle-methods-diagram
 https://github.com/azat-co/react
 https://github.com/adam-golab/react-developer-roadmap
-
+https://advancedreact.com/
 
 ---
 #### styling
