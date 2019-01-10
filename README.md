@@ -99,3 +99,19 @@ https://www.google.com.ua/search?safe=active&q=food+image+recognition+with+deep+
 http://news.mit.edu/2017/artificial-intelligence-suggests-recipes-based-on-food-photos-0720
 http://im2recipe.csail.mit.edu/
 https://www.fastcompany.com/40419891/these-food-computers-use-ai-to-make-climate-recipes-for-the-best-tasting-crops
+
+#### css
+https://hackr.io/tutorials/learn-css
+https://www.udemy.com/the-complete-web-developer-course-2
+https://www.udemy.com/topic/css/
+https://www.udemy.com/learn-the-basic-of-css-with-course/
+https://www.lynda.com/CSS-tutorials/CSS-Shorts-Weekly/536428-2.html
+https://www.codecademy.com/en/tracks/web
+https://cssnewbie.com/9-free-online-courses-to-learn-css/#.WyuZYeEzaJB
+https://www.udacity.com/course/intro-to-html-and-css--ud001
+
+#### css grid
+https://css-tricks.com/snippets/css/complete-guide-grid/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
+https://gridbyexample.com/examples/example15/
