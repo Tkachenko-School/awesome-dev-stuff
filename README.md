@@ -110,6 +110,8 @@ https://www.codecademy.com/en/tracks/web
 https://cssnewbie.com/9-free-online-courses-to-learn-css/#.WyuZYeEzaJB
 https://www.udacity.com/course/intro-to-html-and-css--ud001
 
+https://hackernoon.com/bem-should-not-exist-6414005765d6
+
 #### css grid
 https://css-tricks.com/snippets/css/complete-guide-grid/
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
