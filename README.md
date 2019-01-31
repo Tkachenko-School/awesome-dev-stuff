@@ -9,7 +9,9 @@
 - https://github.com/adam-golab/react-developer-roadmap
 - https://advancedreact.com/
 - https://blog.bitsrc.io/tiny-components-what-can-go-wrong-d6aa42d71370
+- https://codeburst.io/build-simple-medium-com-on-node-js-and-react-js-a278c5192f47
 
+++ https://www.educative.io/collection/5661736652767232/5629499534213120
 ---
 #### styling
 - https://medium.com/@colebemis/styling-react-components-6dc1ac53c574
