@@ -41,7 +41,11 @@ https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c
 
 https://medium.freecodecamp.org/constant-confusion-why-i-still-use-javascript-function-statements-984ece0b72fd
 
-https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa
+- https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa
+- https://codingsans.com/blog/node-config-best-practices
+- 
+
+https://medium.freecodecamp.org/how-to-deploy-a-nodejs-app-to-heroku-from-github-without-installing-heroku-on-your-machine-433bec770efe
 
 ---
 
