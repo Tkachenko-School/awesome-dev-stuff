@@ -115,6 +115,8 @@ http://news.mit.edu/2017/artificial-intelligence-suggests-recipes-based-on-food-
 http://im2recipe.csail.mit.edu/
 https://www.fastcompany.com/40419891/these-food-computers-use-ai-to-make-climate-recipes-for-the-best-tasting-crops
 
+https://www.producthunt.com/posts/papers-with-code
+
 #### css
 - https://hackr.io/tutorials/learn-css
 - https://www.udemy.com/the-complete-web-developer-course-2
