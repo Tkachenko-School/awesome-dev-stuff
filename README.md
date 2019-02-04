@@ -134,3 +134,6 @@ https://www.producthunt.com/posts/papers-with-code
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
 - https://gridbyexample.com/examples/example15/
+
+#### stories
+https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847
