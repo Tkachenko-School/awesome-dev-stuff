@@ -53,6 +53,9 @@ https://medium.freecodecamp.org/how-to-deploy-a-nodejs-app-to-heroku-from-github
 
 http://jsforcats.com/
 
+https://github.com/lukehoban/es6features#readme
+
+http://es6-features.org/
 ---
 
 
