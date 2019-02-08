@@ -16,6 +16,11 @@
 - https://medium.freecodecamp.org/a-deep-dive-into-this-in-javascript-why-its-critical-to-writing-good-code-7dca7eb489e7
 
 ++ https://www.educative.io/collection/5661736652767232/5629499534213120
+
+#### Book
+https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://reacthandbook.com/
+
+
 ---
 #### styling
 - https://medium.com/@colebemis/styling-react-components-6dc1ac53c574
