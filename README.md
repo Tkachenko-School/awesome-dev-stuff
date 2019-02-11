@@ -46,31 +46,31 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 ---
 
 #### js
-https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c
+- https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c
 
-https://medium.freecodecamp.org/constant-confusion-why-i-still-use-javascript-function-statements-984ece0b72fd
+- https://medium.freecodecamp.org/constant-confusion-why-i-still-use-javascript-function-statements-984ece0b72fd
 
 - https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa
 - https://codingsans.com/blog/node-config-best-practices
 - 
 
-https://medium.freecodecamp.org/how-to-deploy-a-nodejs-app-to-heroku-from-github-without-installing-heroku-on-your-machine-433bec770efe
+- https://medium.freecodecamp.org/how-to-deploy-a-nodejs-app-to-heroku-from-github-without-installing-heroku-on-your-machine-433bec770efe
 
-http://jsforcats.com/
+- http://jsforcats.com/
 
-https://github.com/lukehoban/es6features#readme
+- https://github.com/lukehoban/es6features#readme
 
-http://es6-features.org/
+- http://es6-features.org/
 
 #### CORB / CORS setup nodejs + react
--[axios/axios#853 (comment)](https://github.com/axios/axios/issues/853#issuecomment-351554276)
--https://enable-cors.org/server_expressjs.html
--https://enable-cors.org/server_expressjs.html
+- [axios/axios#853 (comment)](https://github.com/axios/axios/issues/853#issuecomment-351554276)
+- https://enable-cors.org/server_expressjs.html
+- https://enable-cors.org/server_expressjs.html
 
--https://medium.com/@nabil6391/avoid-cors-requests-for-a-react-app-2988e0061c1a
+- https://medium.com/@nabil6391/avoid-cors-requests-for-a-react-app-2988e0061c1a
 
--https://expressjs.com/en/resources/middleware/cors.html
--https://stackoverflow.com/a/8572637
+- https://expressjs.com/en/resources/middleware/cors.html
+- https://stackoТАКverflow.com/a/8572637
 
 ---
 
