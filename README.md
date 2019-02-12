@@ -76,41 +76,41 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 
 
 #### cool github repositories
-https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md
+- https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md
 
-https://github.com/keyuls/Free-Programming-Tutorials/blob/master/free-programming-courses.md
-
-
-https://github.com/thedaviddias/Front-End-Design-Checklist
+- https://github.com/keyuls/Free-Programming-Tutorials/blob/master/free-programming-courses.md
 
 
-https://github.com/i0natan/nodebestpractices
+- https://github.com/thedaviddias/Front-End-Design-Checklist
 
 
-https://github.com/toddmotto/public-apis
+- https://github.com/i0natan/nodebestpractices
 
-https://github.com/Yelp/service-principles
 
-https://github.com/kamranahmedse/developer-roadmap
+- https://github.com/toddmotto/public-apis
 
-https://github.com/Holmusk/Frontend-Web-Developer-Challenge
+- https://github.com/Yelp/service-principles
 
-https://github.com/tastejs/awesome-app-ideas
+- https://github.com/kamranahmedse/developer-roadmap
 
-https://github.com/enaqx/awesome-react
-https://github.com/enaqx/awesome-react#job-interview-tools
+- https://github.com/Holmusk/Frontend-Web-Developer-Challenge
+
+- https://github.com/tastejs/awesome-app-ideas
+
+- https://github.com/enaqx/awesome-react
+- https://github.com/enaqx/awesome-react#job-interview-tools
 ]
 
-https://github.com/elsewhencode/project-guidelines
+- https://github.com/elsewhencode/project-guidelines
 
-https://github.com/airbnb/javascript
+- https://github.com/airbnb/javascript
 
-https://github.com/sindresorhus/awesome-nodejs
+- https://github.com/sindresorhus/awesome-nodejs
 
-https://github.com/sqreen/awesome-nodejs-projects
+- https://github.com/sqreen/awesome-nodejs-projects
 
-https://github.com/csswizardry/CSS-Guidelines
-https://cssguidelin.es/
+- https://github.com/csswizardry/CSS-Guidelines
+- https://cssguidelin.es/
 
 #### oss
 - https://github.com/freeCodeCamp/how-to-contribute-to-open-source
@@ -121,7 +121,7 @@ https://cssguidelin.es/
 
 
 #### ml
-https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
+- https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
 
 - https://github.com/josephmisiti/awesome-machine-learning
 - https://github.com/fastai/courses
@@ -132,13 +132,13 @@ https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
 - https://github.com/src-d/awesome-machine-learning-on-source-code
 - https://github.com/openai/gym
 - https://www.google.com.ua/search?safe=active&q=food+101+dataset&sa=X&ved=0ahUKEwig3t-ryP7YAhXO26QKHTmgAIkQ1QIIiQEoBA
-https://www.google.com.ua/search?safe=active&q=food+recognition+api&sa=X&ved=0ahUKEwig3t-ryP7YAhXO26QKHTmgAIkQ1QIIiwEoBg
-https://www.google.com.ua/search?safe=active&q=food+image+recognition+with+deep+convolutional+features&sa=X&ved=0ahUKEwig3t-ryP7YAhXO26QKHTmgAIkQ1QIIhgEoAQ
-http://news.mit.edu/2017/artificial-intelligence-suggests-recipes-based-on-food-photos-0720
-http://im2recipe.csail.mit.edu/
-https://www.fastcompany.com/40419891/these-food-computers-use-ai-to-make-climate-recipes-for-the-best-tasting-crops
+- https://www.google.com.ua/search?safe=active&q=food+recognition+api&sa=X&ved=0ahUKEwig3t-ryP7YAhXO26QKHTmgAIkQ1QIIiwEoBg
+- https://www.google.com.ua/search?safe=active&q=food+image+recognition+with+deep+convolutional+features&sa=X&ved=0ahUKEwig3t-ryP7YAhXO26QKHTmgAIkQ1QIIhgEoAQ
+- http://news.mit.edu/2017/artificial-intelligence-suggests-recipes-based-on-food-photos-0720
+- http://im2recipe.csail.mit.edu/
+- https://www.fastcompany.com/40419891/these-food-computers-use-ai-to-make-climate-recipes-for-the-best-tasting-crops
 
-https://www.producthunt.com/posts/papers-with-code
+- https://www.producthunt.com/posts/papers-with-code
 
 #### css
 - https://hackr.io/tutorials/learn-css
@@ -148,7 +148,7 @@ https://www.producthunt.com/posts/papers-with-code
 - https://www.lynda.com/CSS-tutorials/CSS-Shorts-Weekly/536428-2.html
 - https://www.codecademy.com/en/tracks/web
 - https://cssnewbie.com/9-free-online-courses-to-learn-css/#.WyuZYeEzaJB
--  https://www.udacity.com/course/intro-to-html-and-css--ud001
+- https://www.udacity.com/course/intro-to-html-and-css--ud001
 
 - https://hackernoon.com/bem-should-not-exist-6414005765d6
 
@@ -159,4 +159,5 @@ https://www.producthunt.com/posts/papers-with-code
 - https://gridbyexample.com/examples/example15/
 
 #### stories
-https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847
+- https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847
+- https://hackernoon.com/tricky-javascript-interview-questions-b67d5d278344
