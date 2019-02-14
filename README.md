@@ -117,7 +117,7 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 - https://github.com/stevemao/github-issue-templates
 - https://github.com/github-changelog-generator/github-changelog-generator
 - https://github.com/sallar/github-contributions-chart
-
+- https://opensource.com/business/14/10/head-of-open-source-facebook-oscon
 
 
 #### ml
