@@ -1,5 +1,24 @@
 # awesome-dev-stuff
 
+This is a repository, where Arthur keeps some part of links, that he find useful.
+There a lot of cool information, and it's really easy to share with people, when you click on section.
+
+
+Table of Contents
+=================
+
+ * [react](#react)
+ * [React Book](#book)
+ * [React Styling](#styling)
+ * [JS](#js)
+ * [CORB / CORS setup nodejs + react](#xxx)
+ * [cool github repositories](#cool-github-repositories)
+ * [Open Source](#oss)
+ * [ML](#ml)
+ * [CSS](#css)
+ * [CSS Grid](#css-grid)
+ * [Stories](#stories)
+
 ## development
 
 #### react
@@ -118,7 +137,7 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 - https://github.com/github-changelog-generator/github-changelog-generator
 - https://github.com/sallar/github-contributions-chart
 - https://opensource.com/business/14/10/head-of-open-source-facebook-oscon
-
+- https://github.com/firstcontributions/first-contributions
 
 #### ml
 - https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
