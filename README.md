@@ -138,7 +138,7 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 - https://github.com/sallar/github-contributions-chart
 - https://opensource.com/business/14/10/head-of-open-source-facebook-oscon
 - https://github.com/firstcontributions/first-contributions
-
+- https://medium.com/evodeck/responsive-data-tables-with-css-grid-3c58ecf04723- 
 #### ml
 - https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
 
