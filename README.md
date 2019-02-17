@@ -40,69 +40,73 @@ Table of Contents
 https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://reacthandbook.com/
 
 
-REACT children
+#### REACT children
 
-https://reactjs.org/docs/composition-vs-inheritance.html
-https://github.com/facebook/react/issues/3226
+- https://reactjs.org/docs/composition-vs-inheritance.html
+- https://github.com/facebook/react/issues/3226
 
-https://gist.github.com/mikeyamadeo/6bdbbfde7ff0e1c3cf3c
-https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/
-https://medium.com/@ryandrewjohnson/redux-in-the-wild-some-practical-container-examples-6fd1016f90f3
-https://discuss.reactjs.org/t/best-approach-to-update-dynamic-children-component-on-parents-event/4442
-https://css-tricks.com/learning-react-container-components/
+- https://gist.github.com/mikeyamadeo/6bdbbfde7ff0e1c3cf3c
+- https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/
+- https://medium.com/@ryandrewjohnson/redux-in-the-wild-some-practical-container-examples-6fd1016f90f3
+- https://discuss.reactjs.org/t/best-approach-to-update-dynamic-children-component-on-parents-event/4442
+- https://css-tricks.com/learning-react-container-components/
 
-https://www.andreasreiterer.at/connect-react-app-rest-api/
-https://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/
-https://gerardnico.com/ui/container?404id=lang%3Ajavascript%3Areact%3Acontainer&404type=bestPageName
+- https://www.andreasreiterer.at/connect-react-app-rest-api/
+- https://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/
+- https://gerardnico.com/ui/container?404id=lang%3Ajavascript%3Areact%3Acontainer&404type=bestPageName
 
-https://gist.github.com/sebkouba/a5ac75153ef8d8827b98
+- https://gist.github.com/sebkouba/a5ac75153ef8d8827b98
 
-https://mxstbr.blog/2017/02/react-children-deepdive/
+- https://mxstbr.blog/2017/02/react-children-deepdive/
 
-https://stackoverflow.com/questions/40795906/onchange-event-for-react-child-component-to-update-state/40851765
+- https://stackoverflow.com/questions/40795906/onchange-event-for-react-child-component-to-update-state/40851765
 
-https://www.robinwieruch.de/conditional-rendering-react/
+- https://www.robinwieruch.de/conditional-rendering-react/
 
-https://medium.com/@yaoxiao1222/implementing-search-filter-a-list-on-redux-react-bb5de8d0a3ad
+- https://medium.com/@yaoxiao1222/implementing-search-filter-a-list-on-redux-react-bb5de8d0a3ad
 
-https://stackoverflow.com/questions/27864951/how-to-access-childs-state-in-react
+- https://stackoverflow.com/questions/27864951/how-to-access-childs-state-in-react
 
-https://reactjs.org/docs/forms.html
+- https://reactjs.org/docs/forms.html
 
-https://reactjs.org/docs/refs-and-the-dom.html#dont-overuse-refs
+- https://reactjs.org/docs/refs-and-the-dom.html#dont-overuse-refs
 
-https://codesandbox.io/s/8z5jm6x80
+- https://codesandbox.io/s/8z5jm6x80
 
 
 ---
-best stuff
+#### best stuff
 
-https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8
+- https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8
 
-https://stackoverflow.com/questions/46514351/react-dynamic-creation-of-list-item-inside-component
+- https://stackoverflow.com/questions/46514351/react-dynamic-creation-of-list-item-inside-component
 
-https://github.com/airbnb/javascript/issues/1119
+- https://github.com/airbnb/javascript/issues/1119
 
-https://github.com/Salesfloor/architecture/wiki/React-Redux-best-practices
+- https://github.com/Salesfloor/architecture/wiki/React-Redux-best-practices
 
-https://americanexpress.io/clean-code-dirty-code/
+- https://americanexpress.io/clean-code-dirty-code/
 
-https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc
-
-
-https://reactjs.org/blog/2017/09/08/dom-attributes-in-react-16.html
-
-https://codingislove.com/top-15-react-native-libraries/
-
-https://reactjs.org/docs/context.html
-
-https://www.moveoapps.com/blog/libraries-that-make-react-native-development-easier-and-faster/
-
-https://blog.kiprosh.com/9-libraries-to-consider-for-your-next-react-native-project-723f179d4764/
-
-https://www.robinwieruch.de/essential-react-libraries-framework/
+- https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc
 
 
+- https://reactjs.org/blog/2017/09/08/dom-attributes-in-react-16.html
+
+- https://codingislove.com/top-15-react-native-libraries/
+
+- https://reactjs.org/docs/context.html
+
+- https://www.moveoapps.com/blog/libraries-that-make-react-native-development-easier-and-faster/
+
+- https://blog.kiprosh.com/9-libraries-to-consider-for-your-next-react-native-project-723f179d4764/
+
+- https://www.robinwieruch.de/essential-react-libraries-framework/
+
+
+#### project structure
+- https://daveceddia.com/react-project-structure/
+
+- https://hackernoon.com/how-create-react-redux-app-structure-helps-you-to-start-a-project-faster-cf564c64689c
 
 
 ---
