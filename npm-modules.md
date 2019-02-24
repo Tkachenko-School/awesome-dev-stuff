@@ -22,7 +22,8 @@
 - https://hackernoon.com/making-of-a-component-library-for-react-e6421ea4e6c7 I like it
 - https://codeburst.io/deploy-react-component-as-an-npm-library-d396efc25122
 - https://www.robinwieruch.de/minimal-react-webpack-babel-setup/ with latest stack at Feb 2019
-- 
+
+- https://medium.com/@vmarchesin/how-to-publish-a-npm-package-in-four-steps-4344ab88e852
 - 
 - 
 - 
