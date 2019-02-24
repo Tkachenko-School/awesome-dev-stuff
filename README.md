@@ -33,6 +33,20 @@ Table of Contents
 
 - https://medium.com/@rossbulat/react-formik-a-dive-into-field-arrays-fc58fff8a791
 - https://medium.freecodecamp.org/a-deep-dive-into-this-in-javascript-why-its-critical-to-writing-good-code-7dca7eb489e7
+- https://blog.bitsrc.io/build-a-full-featured-modal-dialog-form-with-react-651dcef6c571
+- https://blog.usejournal.com/what-the-heck-is-repaint-and-reflow-in-the-browser-b2d0fb980c08
+- https://medium.com/javascript-in-plain-english/can-you-console-log-in-jsx-732f2ad46fe1 
+- https://itnext.io/rethinking-separation-of-concerns-with-react-7e5de1b5c0f7
+- https://codeburst.io/next-js-ssr-vs-create-react-app-csr-7452f71599f6
+- https://blog.brainsandbeards.com/advanced-redux-patterns-normalisation-6b9a5aa46e1f
+- https://itnext.io/a-way-to-learn-react-b95056eafebb
+- https://itnext.io/the-amazing-render-props-pattern-for-react-js-lifecycle-begone-14e520fc3821
+- https://medium.com/open-graphql/react-suspense-with-graphql-d95cdef46bfe
+
+
+
+
+
 
 ++ https://www.educative.io/collection/5661736652767232/5629499534213120
 
@@ -131,6 +145,9 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 - https://survivejs.com/react/advanced-techniques/styling-react/
 - https://hackernoon.com/react-reusable-component-state-805163dc355
 
+- https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd
+- https://levelup.gitconnected.com/building-a-reusable-component-system-with-react-js-and-styled-components-4e9f1018a31c
+
 ---
 
 #### js
@@ -149,6 +166,13 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 - https://github.com/lukehoban/es6features#readme
 
 - http://es6-features.org/
+- https://itnext.io/joi-awesome-code-validation-for-node-js-and-express-514b5570ce20
+- https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6
+- https://itnext.io/javascript-fundamentals-syntax-structure-5e9badd0cc4f
+
+
+
+
 
 #### CORB / CORS setup nodejs + react
 - [axios/axios#853 (comment)](https://github.com/axios/axios/issues/853#issuecomment-351554276)
@@ -200,7 +224,7 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 - https://github.com/csswizardry/CSS-Guidelines
 - https://cssguidelin.es/
 
-#### oss
+#### Open Source
 - https://github.com/freeCodeCamp/how-to-contribute-to-open-source
 - https://github.com/stevemao/github-issue-templates
 - https://github.com/github-changelog-generator/github-changelog-generator
@@ -208,7 +232,8 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 - https://opensource.com/business/14/10/head-of-open-source-facebook-oscon
 - https://github.com/firstcontributions/first-contributions
 - https://medium.com/evodeck/responsive-data-tables-with-css-grid-3c58ecf04723- 
-#### ml
+
+#### Machine Learning
 - https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
 
 - https://github.com/josephmisiti/awesome-machine-learning
@@ -249,3 +274,6 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 #### stories
 - https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847
 - https://hackernoon.com/tricky-javascript-interview-questions-b67d5d278344
+- https://www.indiehackers.com/interview/3d2afa0b80
+- https://medium.freecodecamp.org/what-ive-learned-six-months-into-my-first-job-as-a-self-taught-software-engineer-516b0703e86
+- https://medium.freecodecamp.org/the-code-im-still-ashamed-of-e4c021dff55e
