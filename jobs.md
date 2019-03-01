@@ -13,3 +13,5 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - https://www.productschool.com/job-portal/?ref=producthunt
 
 - https://techcrunch.com/2019/02/06/how-students-are-founding-funding-and-joining-startups/
+
+- https://www.siliconrepublic.com/advice/software-developer-tips?
