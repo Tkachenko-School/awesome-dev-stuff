@@ -43,6 +43,20 @@ Table of Contents
 - https://itnext.io/the-amazing-render-props-pattern-for-react-js-lifecycle-begone-14e520fc3821
 - https://medium.com/open-graphql/react-suspense-with-graphql-d95cdef46bfe
 
+- https://medium.freecodecamp.org/how-to-deploy-a-react-application-to-netlify-363b8a98a985
+- https://medium.com/asos-techblog/how-to-test-your-react-redux-application-48d90481a253
+- https://blog.brainsandbeards.com/advanced-redux-patterns-normalisation-6b9a5aa46e1f
+- https://blog.brainsandbeards.com/advanced-redux-patterns-selectors-cb9f88381d74
+
+
+
+- https://blog.bitsrc.io/building-a-react-autocomplete-component-from-scratch-3f4d5618aa14
+- https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e
+- https://codeburst.io/react-bake-from-scratch-or-box-javascript-version-part-1-149994a1adda
+- https://codeburst.io/react-behavior-driven-development-bdd-535afd364e5f
+- https://blog.usejournal.com/arrow-functions-are-disrupting-react-components-63662d35f97b
+- https://medium.com/codepusher/building-a-minimum-viable-ui-with-react-and-open-source-components-3961e02418ba
+- https://medium.freecodecamp.org/how-to-develop-your-react-superpowers-with-the-render-props-pattern-b74e68c6d053
 
 
 
@@ -170,8 +184,15 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 - https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6
 - https://itnext.io/javascript-fundamentals-syntax-structure-5e9badd0cc4f
 
-
-
+- https://hackernoon.com/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951
+- https://hackernoon.com/two-years-of-functional-programming-in-javascript-lessons-learned-1851667c726
+- https://blog.usejournal.com/little-known-features-of-javascript-901665291387
+- 
+- 
+- 
+- 
+- 
+- 
 
 
 #### CORB / CORS setup nodejs + react
