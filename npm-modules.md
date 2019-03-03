@@ -24,7 +24,7 @@
 - https://www.robinwieruch.de/minimal-react-webpack-babel-setup/ with latest stack at Feb 2019
 
 - https://medium.com/@vmarchesin/how-to-publish-a-npm-package-in-four-steps-4344ab88e852
-- 
+- https://hackernoon.com/npm-package-permissions-an-idea-441a02902d9b
 - 
 - 
 - 
