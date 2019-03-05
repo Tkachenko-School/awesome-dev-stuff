@@ -15,7 +15,7 @@
 - https://medium.com/@adrianli/the-idiot-s-guide-to-publishing-a-react-component-to-npm-2b66b1ac03e0
 - https://medium.com/@jdxcode/for-the-love-of-god-dont-use-npmignore-f93c08909d8d
 
-- https://itnext.io/parse-react-components-with-babel-and-visualize-them-45062046cb72
+
 - https://medium.com/dailyjs/building-a-react-component-with-webpack-publish-to-npm-deploy-to-github-guide-6927f60b3220
 - https://www.valentinog.com/blog/react-webpack-babel
 - https://medium.freecodecamp.org/how-to-use-reactjs-with-webpack-4-babel-7-and-material-design-ff754586f618
@@ -25,8 +25,14 @@
 
 - https://medium.com/@vmarchesin/how-to-publish-a-npm-package-in-four-steps-4344ab88e852
 - https://hackernoon.com/npm-package-permissions-an-idea-441a02902d9b
+
 - 
 - 
 - 
-- 
-- 
+
+
+#### Babel
+- https://medium.freecodecamp.org/were-nearing-the-7-0-babel-release-here-s-all-the-cool-stuff-we-ve-been-doing-8c1ade684039
+- https://medium.com/@tonypai/fast-way-to-upgrade-to-babel-7-3f8cf97b4b3d
+- https://itnext.io/parse-react-components-with-babel-and-visualize-them-45062046cb72
+- https://medium.com/@maicmi/babel-upgrade-from-babel-6-x-to-7-0-58809bd63d8
