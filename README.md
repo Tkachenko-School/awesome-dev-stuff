@@ -187,7 +187,7 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 - https://hackernoon.com/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951
 - https://hackernoon.com/two-years-of-functional-programming-in-javascript-lessons-learned-1851667c726
 - https://blog.usejournal.com/little-known-features-of-javascript-901665291387
-- 
+- https://hackernoon.com/understanding-micro-frontends-b1c11585a297
 - 
 - 
 - 
@@ -300,6 +300,9 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 - https://medium.freecodecamp.org/the-code-im-still-ashamed-of-e4c021dff55e
 - https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472
 - https://medium.com/swlh/how-to-improve-the-odds-of-reaching-your-goals-71aff1ccf5c9
+https://blog.codegiant.io/whats-the-difference-between-a-programmer-coder-developer-and-engineer-bd315404de7
+
+
 
 
 https://github.com/LisaDziuba/Awesome-Design-Tools
