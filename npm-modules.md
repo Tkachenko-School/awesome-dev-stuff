@@ -1,7 +1,7 @@
 - http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6
 - https://medium.com/@kelin2025/so-you-wanna-use-es6-modules-714f48b3a953
 
-- https://rollupjs.org/guide/en
+
 - https://medium.com/@kelin2025/writing-js-libraries-less-than-1tb-size-6342da0c006a
 - https://booker.codes/how-to-build-and-publish-es6-npm-modules-today-with-babel/
 - https://www.npmjs.com/package/npm-module-es6-boilerplate
@@ -36,3 +36,29 @@
 - https://medium.com/@tonypai/fast-way-to-upgrade-to-babel-7-3f8cf97b4b3d
 - https://itnext.io/parse-react-components-with-babel-and-visualize-them-45062046cb72
 - https://medium.com/@maicmi/babel-upgrade-from-babel-6-x-to-7-0-58809bd63d8
+
+#### Rollup.js
+- https://rollupjs.org/guide/en
+
+- https://github.com/sheerun/babel-plugin-file-loader
+https://github.com/sheerun/babel-plugin-file-loader#example-usage
+
+- https://github.com/rollup/rollup-plugin-json
+- https://github.com/rollup/rollup-plugin-json#usage
+
+- https://www.npmjs.com/package/shx
+
+- https://github.com/rollup/rollup/commit/c103967c6f5db503e25bbc0ae81a83742839fa53
+- https://rollupjs.org/guide/en#the-why
+- https://github.com/rollup/rollup-starter-lib
+
+- https://medium.com/tech-grandata-com/how-i-set-up-a-react-component-library-with-rollup-be6ccb700333
+- https://medium.com/@tomaszmularczyk89/guide-to-building-a-react-components-library-with-rollup-and-styled-jsx-694ec66bd2
+
+- https://github.com/rollup/rollup/issues/2518
+- https://github.com/babel/babel-eslint#installation
+- https://standardjs.com/#how-do-i-use-experimental-javascript-es-next-features
+
+- https://github.com/Microsoft/TypeScript-Babel-Starter#using-rollup
+- https://github.com/babel/minify
+  
