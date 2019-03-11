@@ -1,2 +1,3 @@
-https://blog.codegiant.io/open-letter-to-a-software-intern-817fa1ce5319
-https://blog.codegiant.io/building-products-small-vs-large-companies-6d90c8adcb80
+- https://blog.codegiant.io/open-letter-to-a-software-intern-817fa1ce5319
+- https://blog.codegiant.io/building-products-small-vs-large-companies-6d90c8adcb80
+- https://dev.to/kaydacode/tidying-up-your-code-konmari-style-3b64
