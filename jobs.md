@@ -19,3 +19,8 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - https://careerhunt.eu/
 - https://summerofcode.withgoogle.com/
 
+- https://angel.co/blog/how-to-deal-with-exploding-offers
+- https://angel.co/blog/3-obstacles-your-cs-degree-wont-prepare-you-for
+- 
+
+
