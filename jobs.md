@@ -14,5 +14,8 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 
 - https://techcrunch.com/2019/02/06/how-students-are-founding-funding-and-joining-startups/
 
-- https://www.siliconrepublic.com/advice/software-developer-tips?
-https://medium.com/@periklisgkolias/dear-technical-recruiter-f6379e7c9d2d
+- https://www.siliconrepublic.com/advice/software-developer-tips
+- https://medium.com/@periklisgkolias/dear-technical-recruiter-f6379e7c9d2d
+- https://careerhunt.eu/
+- https://summerofcode.withgoogle.com/
+
