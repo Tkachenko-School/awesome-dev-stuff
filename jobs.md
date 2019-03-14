@@ -29,3 +29,7 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - 
 
 
+https://sourcerer.io/
+https://www.microverse.org/
+
+https://angel.co/blog/why-the-gender-pay-gap-gets-worse-not-better-among-senior-engineers
