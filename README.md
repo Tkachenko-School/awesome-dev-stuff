@@ -58,9 +58,18 @@ Table of Contents
 - https://medium.com/codepusher/building-a-minimum-viable-ui-with-react-and-open-source-components-3961e02418ba
 - https://medium.freecodecamp.org/how-to-develop-your-react-superpowers-with-the-render-props-pattern-b74e68c6d053
 
+- https://medium.com/@mark.okeeffe_11887/the-rise-of-the-react-functional-component-138729aa1028
+- https://medium.freecodecamp.org/how-to-get-started-with-gatsby-2-and-redux-ae1c543571ca
+- 
+- https://medium.freecodecamp.org/introducing-react-use-database-client-side-relational-data-just-got-easier-d272c9465bf0
+- https://medium.freecodecamp.org/a-quick-intro-to-higher-order-functions-in-javascript-1a014f89c6b
+- 
+- 
+- 
+- 
+- 
 
-
-
+https://medium.com/@PrinceAshburton/how-to-get-started-with-graphql-a3fbe3d154a1
 
 ++ https://www.educative.io/collection/5661736652767232/5629499534213120
 
@@ -188,7 +197,7 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 - https://hackernoon.com/two-years-of-functional-programming-in-javascript-lessons-learned-1851667c726
 - https://blog.usejournal.com/little-known-features-of-javascript-901665291387
 - https://hackernoon.com/understanding-micro-frontends-b1c11585a297
-- 
+- https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab
 - 
 - 
 - 
