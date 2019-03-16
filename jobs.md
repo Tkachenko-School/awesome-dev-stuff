@@ -39,3 +39,7 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 
 - https://www.producthunt.com/upcoming/elin-ai-coach-for-remote-teams
 - https://www.pushfar.com
+
+- https://breakout.careers/
+- 
+- 
