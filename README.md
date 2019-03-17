@@ -198,7 +198,7 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 - https://blog.usejournal.com/little-known-features-of-javascript-901665291387
 - https://hackernoon.com/understanding-micro-frontends-b1c11585a297
 - https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab
-- 
+- https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038
 - 
 - 
 - 
