@@ -41,5 +41,5 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - https://www.pushfar.com
 
 - https://breakout.careers/
-- 
+- https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038
 - 
