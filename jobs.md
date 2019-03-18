@@ -44,3 +44,5 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038
 - https://medium.com/@rrhoover/the-problems-in-remote-working-1a6f165585d
 - https://www.educative.io/
+- https://pathbase.io/?ref=producthunt
+- https://joinblair.com/?utm_source=producthunt&ref=producthunt
