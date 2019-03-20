@@ -52,13 +52,15 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 
 - https://www.topuxschool.com/program/us?ref=producthunt
 
-- 
+- https://www.producthunt.com/posts/work-in-product
 
-- 
+- https://www.producthunt.com/jobs?ref=producthunt
 
-- 
+- https://www.producthunt.com/posts/producthired
 
-- 
+- http://remotetalent.co/
 
-- 
+- https://talent.hubstaff.com/
+- https://www.entrepreneur.com/article/309994
+- https://angel.co/blog/what-startups-really-mean-by-why-should-we-hire-you
 - 
