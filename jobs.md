@@ -47,3 +47,5 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - https://pathbase.io/?ref=producthunt
 - https://joinblair.com/?utm_source=producthunt&ref=producthunt
 - https://www.learningdollars.com/
+- https://www.hackreactor.com/
+- http://rbk.org/
