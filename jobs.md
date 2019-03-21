@@ -65,3 +65,6 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - https://angel.co/blog/what-startups-really-mean-by-why-should-we-hire-you
 - https://angel.co/blog/why-you-should-join-a-regulated-startup
 - https://angel.co/blog/why-your-job-offer-was-rescinded-and-how-to-handle-it
+- https://angel.co/blog/3-obstacles-your-cs-degree-wont-prepare-you-for
+- https://angel.co/blog/why-naval-ravikant-thinks-remote-work-is-the-future
+- https://angel.co/blog/why-your-job-offer-was-rescinded-and-how-to-handle-it
