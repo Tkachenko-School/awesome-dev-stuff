@@ -64,3 +64,4 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - https://www.entrepreneur.com/article/309994
 - https://angel.co/blog/what-startups-really-mean-by-why-should-we-hire-you
 - https://angel.co/blog/why-you-should-join-a-regulated-startup
+- https://angel.co/blog/why-your-job-offer-was-rescinded-and-how-to-handle-it
