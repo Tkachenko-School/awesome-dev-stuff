@@ -68,3 +68,7 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - https://angel.co/blog/3-obstacles-your-cs-degree-wont-prepare-you-for
 - https://angel.co/blog/why-naval-ravikant-thinks-remote-work-is-the-future
 - https://angel.co/blog/why-your-job-offer-was-rescinded-and-how-to-handle-it
+
+- https://hackernoon.com/how-my-friend-got-an-internship-at-tesla-after-only-8-months-of-coding-6578c32f3e77
+
+add freebootcamp articles like how-i=got-job
