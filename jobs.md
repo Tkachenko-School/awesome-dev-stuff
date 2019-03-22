@@ -72,3 +72,16 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - https://hackernoon.com/how-my-friend-got-an-internship-at-tesla-after-only-8-months-of-coding-6578c32f3e77
 
 add freebootcamp articles like how-i=got-job
+
+find 200 different posts at LI and repost them inside one project.
+make it embed or just clone with credits?
+https://www.linkedin.com/search/results/content/?keywords=hiring%20interns&origin=SWITCH_SEARCH_VERTICAL
+https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976
+
+https://www.cvtimeline.com/are-millennials-having-an-impact-on-job-tenure/
+
+https://angel.co/blog/how-to-switch-engineering-jobs-and-actually-like-your-new-role
+
+http://www.interns2startups.com/
+
+
