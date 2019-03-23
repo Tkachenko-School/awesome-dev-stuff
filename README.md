@@ -112,33 +112,6 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 
 
 ---
-#### best stuff
-
-- https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8
-
-- https://stackoverflow.com/questions/46514351/react-dynamic-creation-of-list-item-inside-component
-
-- https://github.com/airbnb/javascript/issues/1119
-
-- https://github.com/Salesfloor/architecture/wiki/React-Redux-best-practices
-
-- https://americanexpress.io/clean-code-dirty-code/
-
-- https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc
-
-
-- https://reactjs.org/blog/2017/09/08/dom-attributes-in-react-16.html
-
-- https://codingislove.com/top-15-react-native-libraries/
-
-- https://reactjs.org/docs/context.html
-
-- https://www.moveoapps.com/blog/libraries-that-make-react-native-development-easier-and-faster/
-
-- https://blog.kiprosh.com/9-libraries-to-consider-for-your-next-react-native-project-723f179d4764/
-
-- https://www.robinwieruch.de/essential-react-libraries-framework/
-
 
 #### project structure
 - https://daveceddia.com/react-project-structure/
@@ -173,35 +146,6 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 
 ---
 
-#### js
-- https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c
-
-- https://medium.freecodecamp.org/constant-confusion-why-i-still-use-javascript-function-statements-984ece0b72fd
-
-- https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa
-- https://codingsans.com/blog/node-config-best-practices
--
-
-- https://medium.freecodecamp.org/how-to-deploy-a-nodejs-app-to-heroku-from-github-without-installing-heroku-on-your-machine-433bec770efe
-
-- http://jsforcats.com/
-
-- https://github.com/lukehoban/es6features#readme
-
-- http://es6-features.org/
-- https://itnext.io/joi-awesome-code-validation-for-node-js-and-express-514b5570ce20
-- https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6
-- https://itnext.io/javascript-fundamentals-syntax-structure-5e9badd0cc4f
-
-- https://hackernoon.com/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951
-- https://hackernoon.com/two-years-of-functional-programming-in-javascript-lessons-learned-1851667c726
-- https://blog.usejournal.com/little-known-features-of-javascript-901665291387
-- https://hackernoon.com/understanding-micro-frontends-b1c11585a297
-- https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab
-- https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038
-- https://hackernoon.com/catch-me-if-you-can-a-guide-to-debugging-f4af08f6724d
--
--
 
 
 #### CORB / CORS setup nodejs + react
@@ -253,51 +197,3 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 
 - https://github.com/csswizardry/CSS-Guidelines
 - https://cssguidelin.es/
-
-#### Open Source
-- https://github.com/freeCodeCamp/how-to-contribute-to-open-source
-- https://github.com/stevemao/github-issue-templates
-- https://github.com/github-changelog-generator/github-changelog-generator
-- https://github.com/sallar/github-contributions-chart
-- https://opensource.com/business/14/10/head-of-open-source-facebook-oscon
-- https://github.com/firstcontributions/first-contributions
-- https://medium.com/evodeck/responsive-data-tables-with-css-grid-3c58ecf04723-
-
-#### Machine Learning
-- https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
-
-- https://github.com/josephmisiti/awesome-machine-learning
-- https://github.com/fastai/courses
-- https://github.com/topics/food-classification
-- https://github.com/stratospark/food-101-keras
-- https://www.techworld.com/apps-wearables/make-food-production-open-source-says-mit-media-lab-3655322/
-- https://www.google.com.ua/search?safe=active&q=food+classification+deep+learning&sa=X&ved=0ahUKEwig3t-ryP7YAhXO26QKHTmgAIkQ1QIIhQEoAA&biw=1229&bih=597
-- https://github.com/src-d/awesome-machine-learning-on-source-code
-- https://github.com/openai/gym
-- https://www.google.com.ua/search?safe=active&q=food+101+dataset&sa=X&ved=0ahUKEwig3t-ryP7YAhXO26QKHTmgAIkQ1QIIiQEoBA
-- https://www.google.com.ua/search?safe=active&q=food+recognition+api&sa=X&ved=0ahUKEwig3t-ryP7YAhXO26QKHTmgAIkQ1QIIiwEoBg
-- https://www.google.com.ua/search?safe=active&q=food+image+recognition+with+deep+convolutional+features&sa=X&ved=0ahUKEwig3t-ryP7YAhXO26QKHTmgAIkQ1QIIhgEoAQ
-- http://news.mit.edu/2017/artificial-intelligence-suggests-recipes-based-on-food-photos-0720
-- http://im2recipe.csail.mit.edu/
-- https://www.fastcompany.com/40419891/these-food-computers-use-ai-to-make-climate-recipes-for-the-best-tasting-crops
-
-- https://www.producthunt.com/posts/papers-with-code
-
-
-
-
-
-#### stories
-- https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847
-- https://hackernoon.com/tricky-javascript-interview-questions-b67d5d278344
-- https://www.indiehackers.com/interview/3d2afa0b80
-- https://medium.freecodecamp.org/what-ive-learned-six-months-into-my-first-job-as-a-self-taught-software-engineer-516b0703e86
-- https://medium.freecodecamp.org/the-code-im-still-ashamed-of-e4c021dff55e
-- https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472
-- https://medium.com/swlh/how-to-improve-the-odds-of-reaching-your-goals-71aff1ccf5c9
-https://blog.codegiant.io/whats-the-difference-between-a-programmer-coder-developer-and-engineer-bd315404de7
-
-
-
-
-https://github.com/LisaDziuba/Awesome-Design-Tools
