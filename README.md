@@ -35,7 +35,7 @@ Table of Contents
 - https://medium.freecodecamp.org/a-deep-dive-into-this-in-javascript-why-its-critical-to-writing-good-code-7dca7eb489e7
 - https://blog.bitsrc.io/build-a-full-featured-modal-dialog-form-with-react-651dcef6c571
 - https://blog.usejournal.com/what-the-heck-is-repaint-and-reflow-in-the-browser-b2d0fb980c08
-- https://medium.com/javascript-in-plain-english/can-you-console-log-in-jsx-732f2ad46fe1 
+- https://medium.com/javascript-in-plain-english/can-you-console-log-in-jsx-732f2ad46fe1
 - https://itnext.io/rethinking-separation-of-concerns-with-react-7e5de1b5c0f7
 - https://codeburst.io/next-js-ssr-vs-create-react-app-csr-7452f71599f6
 - https://blog.brainsandbeards.com/advanced-redux-patterns-normalisation-6b9a5aa46e1f
@@ -60,14 +60,14 @@ Table of Contents
 
 - https://medium.com/@mark.okeeffe_11887/the-rise-of-the-react-functional-component-138729aa1028
 - https://medium.freecodecamp.org/how-to-get-started-with-gatsby-2-and-redux-ae1c543571ca
-- 
+-
 - https://medium.freecodecamp.org/introducing-react-use-database-client-side-relational-data-just-got-easier-d272c9465bf0
 - https://medium.freecodecamp.org/a-quick-intro-to-higher-order-functions-in-javascript-1a014f89c6b
-- 
-- 
-- 
-- 
-- 
+-
+-
+-
+-
+-
 
 https://medium.com/@PrinceAshburton/how-to-get-started-with-graphql-a3fbe3d154a1
 
@@ -180,7 +180,7 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 
 - https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa
 - https://codingsans.com/blog/node-config-best-practices
-- 
+-
 
 - https://medium.freecodecamp.org/how-to-deploy-a-nodejs-app-to-heroku-from-github-without-installing-heroku-on-your-machine-433bec770efe
 
@@ -200,8 +200,8 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 - https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab
 - https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038
 - https://hackernoon.com/catch-me-if-you-can-a-guide-to-debugging-f4af08f6724d
-- 
-- 
+-
+-
 
 
 #### CORB / CORS setup nodejs + react
@@ -261,7 +261,7 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 - https://github.com/sallar/github-contributions-chart
 - https://opensource.com/business/14/10/head-of-open-source-facebook-oscon
 - https://github.com/firstcontributions/first-contributions
-- https://medium.com/evodeck/responsive-data-tables-with-css-grid-3c58ecf04723- 
+- https://medium.com/evodeck/responsive-data-tables-with-css-grid-3c58ecf04723-
 
 #### Machine Learning
 - https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
@@ -283,23 +283,9 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 
 - https://www.producthunt.com/posts/papers-with-code
 
-#### css
-- https://hackr.io/tutorials/learn-css
-- https://www.udemy.com/the-complete-web-developer-course-2
-- https://www.udemy.com/topic/css/
-- https://www.udemy.com/learn-the-basic-of-css-with-course/
-- https://www.lynda.com/CSS-tutorials/CSS-Shorts-Weekly/536428-2.html
-- https://www.codecademy.com/en/tracks/web
-- https://cssnewbie.com/9-free-online-courses-to-learn-css/#.WyuZYeEzaJB
-- https://www.udacity.com/course/intro-to-html-and-css--ud001
 
-- https://hackernoon.com/bem-should-not-exist-6414005765d6
 
-#### css grid
-- https://css-tricks.com/snippets/css/complete-guide-grid/
-- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
-- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
-- https://gridbyexample.com/examples/example15/
+
 
 #### stories
 - https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847
