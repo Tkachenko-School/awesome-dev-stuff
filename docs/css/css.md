@@ -1,3 +1,10 @@
+---
+id: doc1
+title: Latin-ish
+sidebar_label: Example Page
+---
+
+
 #### css
 - https://hackr.io/tutorials/learn-css
 - https://www.udemy.com/the-complete-web-developer-course-2
