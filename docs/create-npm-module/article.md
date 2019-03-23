@@ -26,9 +26,9 @@
 - https://medium.com/@vmarchesin/how-to-publish-a-npm-package-in-four-steps-4344ab88e852
 - https://hackernoon.com/npm-package-permissions-an-idea-441a02902d9b
 
-- 
-- 
-- 
+-
+-
+-
 
 
 #### Babel
@@ -61,4 +61,3 @@ https://github.com/sheerun/babel-plugin-file-loader#example-usage
 
 - https://github.com/Microsoft/TypeScript-Babel-Starter#using-rollup
 - https://github.com/babel/minify
-  
