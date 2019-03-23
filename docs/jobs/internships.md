@@ -17,3 +17,5 @@ https://www.producthunt.com/posts/slogro?fbclid=IwAR2HVuH1AqqYAPDbcSqE4wRpHcsv7x
 https://www.producthunt.com/posts/newcraft?fbclid=IwAR3G6nbmZ92SFl3y3GGyVUbT2HaZREJF7eUja9ArsLk1bmszAFMexklzDkE
 https://www.forbes.com/sites/ruthumoh/2019/03/13/diversity-in-tech-how-one-vc-firm-is-partnering-with-historically-black-colleges-to-address-the-pipeline-issue/#3b6cccca12fa
 https://medium.com/@rrhoover/the-problems-in-remote-working-1a6f165585d?fbclid=IwAR0gNoc7js_Kv_XO0OuchQHl1kfJeNBl68o-ZI8RoR1bxlbR2r8SDqTd-Ow
+
+https://github.com/christine-hu/summer-2019-internships
