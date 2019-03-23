@@ -10,3 +10,5 @@ http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course
 https://www.intercom.com/blog/traits-of-exceptional-engineers
 
 https://www.codementor.io/blog/most-common-words-job-description-4g4ax0gnw6
+
+https://techcrunch.com/2019/03/19/peakon-atomico/
