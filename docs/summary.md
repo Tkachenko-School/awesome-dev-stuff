@@ -6,7 +6,32 @@ title: summary
 Table of Contents
 =================
 
- <!-- * [react](#react)
+ <!--
+
+future sections:
+
+* Stories to read
+* Publishing your module at npm
+* Design
+* Jobs/Internships
+
+* React
+- React Children
+- React best practices
+- React project structure
+- Styled components
+
+* JS
+* Cool Github repositories
+* Open Source
+Machine Learning
+CSS
+CSS Grid
+Git
+GraphQL
+
+
+ * [react](#react)
  * [React Book](#book)
  * [React Styling](#styling)
  * [JS](#js)
@@ -16,7 +41,9 @@ Table of Contents
  * [ML](#ml)
  * [CSS](#css)
  * [CSS Grid](#css-grid)
- * [Stories](#stories) -->
+ * [Stories](#stories)
+
+ -->
 
  * [articles](best-practices/articles.md)
  * [Latin-ish](create-npm-module/article.md)
