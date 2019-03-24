@@ -1,3 +1,12 @@
+---
+id: doc1
+title: Latin-ish
+sidebar_label: Example Page
+---
+
+
+
+
 - http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6
 - https://medium.com/@kelin2025/so-you-wanna-use-es6-modules-714f48b3a953
 
@@ -37,7 +46,9 @@
 - https://itnext.io/parse-react-components-with-babel-and-visualize-them-45062046cb72
 - https://medium.com/@maicmi/babel-upgrade-from-babel-6-x-to-7-0-58809bd63d8
 
+
 #### Rollup.js
+
 - https://rollupjs.org/guide/en
 
 - https://github.com/sheerun/babel-plugin-file-loader
