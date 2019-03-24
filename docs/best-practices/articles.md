@@ -1,3 +1,7 @@
+---
+id: articles
+title: articles
+---
 
 #### best stuff
 
