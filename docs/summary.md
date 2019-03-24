@@ -27,6 +27,7 @@ future sections:
 Machine Learning
 CSS
 CSS Grid
+Flexbox
 Git
 GraphQL
 

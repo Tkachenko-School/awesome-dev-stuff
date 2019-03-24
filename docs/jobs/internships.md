@@ -71,3 +71,5 @@ https://www.google.com/search?q=hiring+interns+uk&oq=hiring+interns&aqs=chrome.3
 - https://medium.freecodecamp.org/ace-your-developer-internship-with-these-simple-steps-38134130bab1
 
 - https://uxplanet.org/the-unspoken-truths-of-your-first-ux-design-internship-272684a140c2
+
+- https://www.roberthalf.com/blog/management-tips/how-to-hire-and-retain-web-developers
