@@ -52,6 +52,8 @@ https://github.com/sheerun/babel-plugin-file-loader#example-usage
 - https://rollupjs.org/guide/en#the-why
 - https://github.com/rollup/rollup-starter-lib
 
+#### Rollup React
+
 - https://medium.com/tech-grandata-com/how-i-set-up-a-react-component-library-with-rollup-be6ccb700333
 - https://medium.com/@tomaszmularczyk89/guide-to-building-a-react-components-library-with-rollup-and-styled-jsx-694ec66bd2
 
@@ -61,3 +63,60 @@ https://github.com/sheerun/babel-plugin-file-loader#example-usage
 
 - https://github.com/Microsoft/TypeScript-Babel-Starter#using-rollup
 - https://github.com/babel/minify
+
+
+#### Rollup React
+
+ - https://medium.com/tech-grandata-com/how-i-set-up-a-react-component-library-with-rollup-be6ccb700333
+
+ - https://medium.com/@tomaszmularczyk89/guide-to-building-a-react-components-library-with-rollup-and-styled-jsx-694ec66bd2
+
+ - https://github.com/rollup/rollup/issues/2518
+
+
+- https://github.com/andyl/react-input-field/blob/master/dist.config.js
+- https://github.com/lukastaegert/check-commit
+- https://github.com/rollup/rollup-plugin-strip
+- https://github.com/yamafaktory/buble-react-rollup-starter
+
+- https://pegjs.org/
+- https://github.com/jaebradley/fruit#readme
+
+
+- https://github.com/rollup/rollup-plugin-babel/issues/162
+
+
+https://github.com/jaebradley/example-rollup-react-component-npm-package/blob/master/package.json
+
+https://medium.com/tech-grandata-com/how-i-set-up-a-react-component-library-with-rollup-be6ccb700333
+
+---
+
+ https://medium.com/groceristar/moving-out-static-food-json-files-e27f8cba003
+
+ ---
+ https://github.com/babel/babel-eslint#installation
+  https://standardjs.com/#how-do-i-use-experimental-javascript-es-next-features
+
+
+  https://github.com/babel/minify
+
+https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c
+https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e
+https://github.com/rollup/rollup/wiki/pkg.module
+
+https://github.com/defunctzombie/package-browser-field-spec
+
+https://github.com/rollup/rollup-starter-lib/blob/master/package.json
+https://github.com/rollup/rollup-plugin-babel
+
+https://developers.livechatinc.com/blog/how-to-create-javascript-libraries-in-2018-part-2/
+https://github.com/developit/microbundle/
+
+
+https://www.npmjs.com/package/rollup-plugin-local-resolve
+https://github.com/conventional-changelog/commitlint
+https://github.com/jaebradley/fruit#readme
+
+https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automating-releases-with-semantic-release
+https://github.com/semantic-release/semantic-release
