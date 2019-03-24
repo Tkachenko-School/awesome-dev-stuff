@@ -1,6 +1,6 @@
 ---
 id: doc1
-title: Latin-ish
+title: CSS Grid
 sidebar_label: Example Page
 ---
 

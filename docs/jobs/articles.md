@@ -8,15 +8,15 @@ https://www.goodnet.org/articles/this-startup-wants-to-disrupt-education-by-payi
 
 http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course
 
-https://www.intercom.com/blog/traits-of-exceptional-engineers
+- https://www.intercom.com/blog/traits-of-exceptional-engineers
 
-https://www.codementor.io/blog/most-common-words-job-description-4g4ax0gnw6
+- https://www.codementor.io/blog/most-common-words-job-description-4g4ax0gnw6
 
-https://techcrunch.com/2019/03/19/peakon-atomico/
+- https://techcrunch.com/2019/03/19/peakon-atomico/
 
-https://angel.co/blog/30-questions-to-ask-before-joining-a-startup
+- https://angel.co/blog/30-questions-to-ask-before-joining-a-startup
 
-https://turing.ly/
+- https://turing.ly/
 
 
 Here Arthur plan to keep list of projects, that can help to find a startup job
@@ -99,8 +99,10 @@ make it embed or just clone with credits?
 https://www.linkedin.com/search/results/content/?keywords=hiring%20interns&origin=SWITCH_SEARCH_VERTICAL
 https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976
 
-https://www.cvtimeline.com/are-millennials-having-an-impact-on-job-tenure/
+- https://www.cvtimeline.com/are-millennials-having-an-impact-on-job-tenure/
 
-https://angel.co/blog/how-to-switch-engineering-jobs-and-actually-like-your-new-role
+- https://angel.co/blog/how-to-switch-engineering-jobs-and-actually-like-your-new-role
 
-http://www.interns2startups.com/
+- http://www.interns2startups.com/
+
+- https://www.youtube.com/watch?v=rnP74z0n3Ms
