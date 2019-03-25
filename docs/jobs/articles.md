@@ -1,8 +1,10 @@
 ---
 id: articles
-title: Latin-ish
-sidebar_label: Example Page
+title: Startup Jobs
+sidebar_label: Startup Jobs
 ---
+
+Here Arthur plan to keep list of projects, that can help to find a startup job
 
 https://www.goodnet.org/articles/this-startup-wants-to-disrupt-education-by-paying-you-10000-learn-code
 
@@ -14,12 +16,12 @@ http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course
 
 - https://techcrunch.com/2019/03/19/peakon-atomico/
 
-- https://angel.co/blog/30-questions-to-ask-before-joining-a-startup
+
 
 - https://turing.ly/
 
 
-Here Arthur plan to keep list of projects, that can help to find a startup job
+
 - https://www.producthunt.com/posts/betalist-jobs
 - https://www.producthunt.com/posts/remote-friendly
 - https://www.producthunt.com/search?q=startup%20job
@@ -29,10 +31,6 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 
 - https://github.com/felipefialho/frontend-challenges
 
-- https://angel.co/blog/naval-ravikants-guide-to-choosing-your-first-job-in-tech
-- https://angel.co/blog/why-naval-ravikant-hires-artists
-- https://angel.co/blog/why-naval-ravikant-thinks-remote-work-is-the-future
--
 
 
 - https://jobs.hackernoon.com/
@@ -45,17 +43,13 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - https://careerhunt.eu/
 - https://summerofcode.withgoogle.com/
 
-- https://angel.co/blog/how-to-deal-with-exploding-offers
-- https://angel.co/blog/3-obstacles-your-cs-degree-wont-prepare-you-for
--
 
 
 - https://sourcerer.io/
 - https://www.microverse.org/
 
-- https://angel.co/blog/why-the-gender-pay-gap-gets-worse-not-better-among-senior-engineers
 
-- https://angel.co/blog/want-to-recruit-better-engineers-open-source-your-code
+
 - https://sugarlabs.org/
 
 - https://www.producthunt.com/upcoming/elin-ai-coach-for-remote-teams
@@ -64,6 +58,7 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - https://breakout.careers/
 - https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038
 - https://medium.com/@rrhoover/the-problems-in-remote-working-1a6f165585d
+
 - https://www.educative.io/
 - https://pathbase.io/?ref=producthunt
 - https://joinblair.com/?utm_source=producthunt&ref=producthunt
@@ -83,12 +78,38 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 
 - https://talent.hubstaff.com/
 - https://www.entrepreneur.com/article/309994
+
+
+#### AngelList Blog
+
 - https://angel.co/blog/what-startups-really-mean-by-why-should-we-hire-you
 - https://angel.co/blog/why-you-should-join-a-regulated-startup
 - https://angel.co/blog/why-your-job-offer-was-rescinded-and-how-to-handle-it
 - https://angel.co/blog/3-obstacles-your-cs-degree-wont-prepare-you-for
 - https://angel.co/blog/why-naval-ravikant-thinks-remote-work-is-the-future
-- https://angel.co/blog/why-your-job-offer-was-rescinded-and-how-to-handle-it
+
+
+
+- https://angel.co/blog/how-to-deal-with-exploding-offers
+
+
+- https://angel.co/blog/why-the-gender-pay-gap-gets-worse-not-better-among-senior-engineers
+
+- https://angel.co/blog/want-to-recruit-better-engineers-open-source-your-code
+- https://angel.co/blog/30-questions-to-ask-before-joining-a-startup
+- https://angel.co/blog/naval-ravikants-guide-to-choosing-your-first-job-in-tech
+- https://angel.co/blog/why-naval-ravikant-hires-artists
+-
+- https://angel.co/blog/how-to-switch-engineering-jobs-and-actually-like-your-new-role
+
+
+https://angel.co/blog/how-to-recruit-talent-when-youre-competing-with-giants
+
+
+https://angel.co/blog/steve-blank-how-to-keep-your-job-as-your-startup-grows
+
+
+---
 
 - https://hackernoon.com/how-my-friend-got-an-internship-at-tesla-after-only-8-months-of-coding-6578c32f3e77
 
@@ -101,7 +122,8 @@ https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976
 
 - https://www.cvtimeline.com/are-millennials-having-an-impact-on-job-tenure/
 
-- https://angel.co/blog/how-to-switch-engineering-jobs-and-actually-like-your-new-role
+
+
 
 - http://www.interns2startups.com/
 
