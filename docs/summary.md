@@ -31,6 +31,7 @@ Table of Contents
  * [Latin-ish](react/articles.md)
  * [Latin-ish](react/styling.md)
  * [Latin-ish](stories/articles.md)
+ * [images](images.md)
  <!--
 
 future sections:
