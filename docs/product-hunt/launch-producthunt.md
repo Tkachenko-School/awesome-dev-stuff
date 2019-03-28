@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: launch-producthunt
+title: Launch producthunt
+sidebar_label: Launch producthunt
 ---
 
 https://github.com/ChickenKyiv/awesome-launch-on-producthunt-guides

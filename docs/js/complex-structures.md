@@ -1,6 +1,6 @@
 ---
 id: complex-structures
-title: complex-structures
+title: Complex structures
 ---
 
 - https://facebook.github.io/immutable-js/ or https://facebook.github.io/immutable-js/docs/#/

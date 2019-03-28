@@ -1,6 +1,6 @@
 ---
-id: articles
-title: articles
+id: best-practices
+title: Best practices
 ---
 
 #### best stuff

@@ -1,10 +1,30 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    " ": [
+      "best-practices/best-practices",
+      "free-code-courses",
+      "create-npm-module/create-npm-module",
+      "css/css",
+      "css-grid/css-grid",
+      "design/design",
+      "flexbox/flexbox",
+      "git/git",
+      "github/cool-github-repositories",
+      "graphql/graphqh",
+      "images",
+      "jest/jest",
+      "jobs/internships",
+      "jobs/jobs",
+      "js/complex-structures",
+      "js/js",
+      "js/nodejs-corb-cors",
+      "machine-learning/machine-learning",
+      "open-source/open-source",
+      "product-hunt/launch-producthunt",
+      "project-structure/project-structure",
+      "react/react",
+      "react/styling",
+      "stories/stories"
+    ]
   }
 }

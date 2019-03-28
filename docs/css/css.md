@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: css
+title: CSS
+sidebar_label: CSS
 ---
 
 

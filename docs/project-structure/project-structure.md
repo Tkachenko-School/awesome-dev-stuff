@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: project-structure
+title: Project structure
+sidebar_label: Project structure
 ---
 
 #### project structure

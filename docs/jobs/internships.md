@@ -1,7 +1,7 @@
 ---
 id: internships
-title: Latin-ish
-sidebar_label: Example Page
+title: Internships
+sidebar_label: Internships
 ---
 
 https://www.google.com/search?q=hiring+interns+uk&oq=hiring+interns&aqs=chrome.3.69i57j0l5.10319j0j1&sourceid=chrome&ie=UTF-8

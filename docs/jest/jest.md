@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: jest
+title: Jest
+sidebar_label: Jest
 ---
 
 - https://github.com/ChickenKyiv/awesome-jest-articles

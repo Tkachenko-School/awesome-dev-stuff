@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: nodejs-corb-cors
+title: NodeJS corb cors
+sidebar_label: NodeJS corb cors
 ---
 
 

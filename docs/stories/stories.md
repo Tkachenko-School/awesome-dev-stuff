@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: stories
+title: Stories
+sidebar_label: Stories
 ---
 
 - https://blog.codegiant.io/open-letter-to-a-software-intern-817fa1ce5319

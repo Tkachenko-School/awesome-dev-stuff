@@ -59,38 +59,45 @@ const FeatureCallout = props => (
     className="showcaseSection paddingBottom"
     style={{ textAlign: 'center' }}>
     <h2>Table of contents</h2>
-    <div className="tableofcontents" style={{ margin: '0px 150px' }}>
+    <div className="tableofcontents" >
       <ul>
-        <li><a href="/docs/best-practices/articles">articles</a></li>
-        <li><a href="/docs/create-npm-module/doc1">Latin-ish</a></li>
-        <li><a href="/docs/css/doc1">Latin-ish</a></li>
-        <li><a href="/docs/css-grid/doc1">CSS Grid</a></li>
-        <li><a href="/docs/design/doc1">Latin-ish</a></li>
-        <li><a href="/docs/doc1">Latin-ish</a></li>
-        <li><a href="/docs/doc2">document number 2</a></li>
-        <li><a href="/docs/doc4">Other Document</a></li>
-        <li><a href="/docs/doc5">Fifth Document</a></li>
-        <li><a href="/docs/flexbox/doc1">Latin-ish</a></li>
-        <li><a href="/docs/git/doc1">Latin-ish</a></li>
-        <li><a href="/docs/github/doc1">Latin-ish</a></li>
-        <li><a href="/docs/graphql/doc1">Latin-ish</a></li>
-        <li><a href="/docs/jest/doc1">Latin-ish</a></li>
-        <li><a href="/docs/jobs/articles">Latin-ish</a></li>
-        <li><a href="/docs/jobs/internships">Latin-ish</a></li>
-        <li><a href="/docs/js/doc1">Latin-ish</a></li>
-        <li><a href="/docs/js/complex-structures">complex-structures</a></li>
-        <li><a href="/docs/machine-learning/doc1">Latin-ish</a></li>
-        <li><a href="/docs/open-source/doc1">Latin-ish</a></li>
-        <li><a href="/docs/product-hunt/doc1">Latin-ish</a></li>
-        <li><a href="/docs/project-structure/doc1">Latin-ish</a></li>
-        <li><a href="/docs/react/articles">Latin-ish</a></li>
-        <li><a href="/docs/react/doc1">Latin-ish</a></li>
-        <li><a href="/docs/stories/doc1">Latin-ish</a></li>
+        <li><a href="/awesome-dev-stuff/docs/best-practices/best-practices">Best practices</a></li>
+        <li><a href="/awesome-dev-stuff/docs/free-code-courses">Free code courses</a></li>
+        <li><a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module">Create npm module</a></li>
+        <li><a href="/awesome-dev-stuff/docs/css/css">CSS</a></li>
+        <li><a href="/awesome-dev-stuff/docs/css-grid/css-grid">CSS Grid</a></li>
+        <li><a href="/awesome-dev-stuff/docs/design/design">Design</a></li>
+        <li><a href="/awesome-dev-stuff/docs/flexbox/flexbox">Flexbox</a></li>
+        <li><a href="/awesome-dev-stuff/docs/git/git">Git</a></li>
+        <li><a href="/awesome-dev-stuff/docs/github/cool-github-repositories">cool-github-repositories</a></li>
+        <li><a href="/awesome-dev-stuff/docs/graphql/graphqh">Graphqh</a></li>
+        <li><a href="/awesome-dev-stuff/docs/images">images</a></li>
+        <li><a href="/awesome-dev-stuff/docs/jest/jest">Jest</a></li>
+        <li><a href="">Jobs</a>
+          <ul>
+            <li><a href="/awesome-dev-stuff/docs/jobs/jobs">Startup Jobs</a></li>
+            <li><a href="/awesome-dev-stuff/docs/jobs/internships">Internships</a></li>
+          </ul></li>
+        <li><a href="">JS</a>
+          <ul>
+            <li><a href="/awesome-dev-stuff/docs/js/js">JS</a></li>
+            <li><a href="/awesome-dev-stuff/docs/js/complex-structures">Complex structures</a></li>
+            <li><a href="/awesome-dev-stuff/docs/js/nodejs-corb-cors">NodeJS corb cors</a></li>
+          </ul></li>
+        <li><a href="/awesome-dev-stuff/docs/machine-learning/machine-learning">Machine learning</a></li>
+        <li><a href="/awesome-dev-stuff/docs/open-source/open-source">Open source</a></li>
+        <li><a href="/awesome-dev-stuff/docs/product-hunt/launch-producthunt">Launch producthunt</a></li>
+        <li><a href="/awesome-dev-stuff/docs/project-structure/project-structure">Project structure</a></li>
+        <li><a href="">React</a>
+          <ul>
+            <li><a href="/awesome-dev-stuff/docs/react/react">React</a></li>
+            <li><a href="/awesome-dev-stuff/docs/react/styling">Styling</a></li>
+          </ul></li>
+        <li><a href="/awesome-dev-stuff/docs/stories/stories">Stories</a></li>
       </ul>
     </div>
   </div>
 );
-
 
 class Index extends React.Component {
   render() {

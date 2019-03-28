@@ -1,7 +1,7 @@
 ---
-id: doc1
+id: css-grid
 title: CSS Grid
-sidebar_label: Example Page
+sidebar_label: CSS Grid
 ---
 
 
