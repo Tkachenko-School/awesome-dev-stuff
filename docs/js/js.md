@@ -1,7 +1,7 @@
 ---
-id: articles
-title: Latin-ish
-sidebar_label: Example Page
+id: js
+title: JS
+sidebar_label: JS
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: git
+title: Git
+sidebar_label: Git
 ---
 
 - https://github.com/ChickenKyiv/awesome-git-article

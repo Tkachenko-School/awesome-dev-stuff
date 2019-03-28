@@ -1,5 +1,5 @@
 ---
-id: articles
+id: jobs
 title: Startup Jobs
 sidebar_label: Startup Jobs
 ---

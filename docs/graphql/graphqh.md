@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: graphqh
+title: Graphqh
+sidebar_label: Graphqh
 ---
 
 - https://github.com/ChickenKyiv/awesome-graphql-beginner-links

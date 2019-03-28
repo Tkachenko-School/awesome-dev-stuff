@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: open-source
+title: Open source
+sidebar_label: Open source
 ---
 
 

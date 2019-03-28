@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: design
+title: Design
+sidebar_label: Design
 ---
 
 - https://github.com/LisaDziuba/Awesome-Design-Tools

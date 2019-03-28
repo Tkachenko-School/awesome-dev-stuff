@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: cool-github-repositories
+title: cool-github-repositories
+sidebar_label: cool-github-repositories
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: create-npm-module
+title: Create npm module
+sidebar_label: Create npm module
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: flexbox
+title: Flexbox
+sidebar_label: Flexbox
 ---
 
 - https://github.com/ChickenKyiv/awesome-flexbox-tutorials

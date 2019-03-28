@@ -1,7 +1,7 @@
 ---
-id: articles
-title: Latin-ish
-sidebar_label: Example Page
+id: react
+title: React
+sidebar_label: React
 ---
 
 
