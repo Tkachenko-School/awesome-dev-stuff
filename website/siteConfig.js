@@ -39,6 +39,7 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'summary', label: 'Summary'},
+    {href: 'https://github.com/ChickenKyiv/awesome-dev-stuff', label: 'GitHub'},
     {page: 'help', label: 'Help'},
   ],
 
@@ -71,7 +72,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © ${new Date().getFullYear()} ChickenKyiv company`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
@@ -98,7 +99,7 @@ const siteConfig = {
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
-  //   repoUrl: 'https://github.com/facebook/test-site',
+  repoUrl: 'https://github.com/ChickenKyiv/awesome-dev-stuff',
 };
 
 module.exports = siteConfig;
