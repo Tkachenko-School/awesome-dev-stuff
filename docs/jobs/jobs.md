@@ -122,6 +122,10 @@ https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976
 
 - https://www.cvtimeline.com/are-millennials-having-an-impact-on-job-tenure/
 
+https://www.nytimes.com/2019/03/08/smarter-living/frustrated-at-work-that-might-just-lead-to-your-next-breakthrough.html
+https://angel.co/job-collections/10-machine-learning-ai-startups-hiring-the-most-right-now
+https://angel.co/blog/4-perks-recruiters-will-pitch-you-and-what-you-should-consider
+
 
 
 
