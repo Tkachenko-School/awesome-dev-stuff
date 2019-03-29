@@ -6,6 +6,9 @@ sidebar_label: Startup Jobs
 
 Here Arthur plan to keep list of projects, that can help to find a startup job
 
+"Train people well enough so they can leave. Treat them well enough so they don't want to."   -Richard Branson."
+
+
 https://www.goodnet.org/articles/this-startup-wants-to-disrupt-education-by-paying-you-10000-learn-code
 
 http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course
