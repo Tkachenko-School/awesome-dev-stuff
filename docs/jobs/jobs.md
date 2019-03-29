@@ -127,4 +127,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976
 
 - http://www.interns2startups.com/
 
+- https://jobbatical.com/blog/work-in-estonia/
+
 - https://www.youtube.com/watch?v=rnP74z0n3Ms
