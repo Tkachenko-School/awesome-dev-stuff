@@ -137,3 +137,6 @@ https://angel.co/blog/4-perks-recruiters-will-pitch-you-and-what-you-should-cons
 - https://jobbatical.com/blog/work-in-estonia/
 
 - https://www.youtube.com/watch?v=rnP74z0n3Ms
+
+https://codeinstitute.net/
+https://angel.co/blog/why-you-should-apply-to-engineering-jobs-you-arent-qualified-for
