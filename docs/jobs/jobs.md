@@ -90,27 +90,16 @@ http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course
 - https://angel.co/blog/why-your-job-offer-was-rescinded-and-how-to-handle-it
 - https://angel.co/blog/3-obstacles-your-cs-degree-wont-prepare-you-for
 - https://angel.co/blog/why-naval-ravikant-thinks-remote-work-is-the-future
-
-
-
 - https://angel.co/blog/how-to-deal-with-exploding-offers
-
-
 - https://angel.co/blog/why-the-gender-pay-gap-gets-worse-not-better-among-senior-engineers
-
 - https://angel.co/blog/want-to-recruit-better-engineers-open-source-your-code
 - https://angel.co/blog/30-questions-to-ask-before-joining-a-startup
 - https://angel.co/blog/naval-ravikants-guide-to-choosing-your-first-job-in-tech
 - https://angel.co/blog/why-naval-ravikant-hires-artists
 -
 - https://angel.co/blog/how-to-switch-engineering-jobs-and-actually-like-your-new-role
-
-
-https://angel.co/blog/how-to-recruit-talent-when-youre-competing-with-giants
-
-
-https://angel.co/blog/steve-blank-how-to-keep-your-job-as-your-startup-grows
-
+- https://angel.co/blog/how-to-recruit-talent-when-youre-competing-with-giants
+- https://angel.co/blog/steve-blank-how-to-keep-your-job-as-your-startup-grows
 
 ---
 
