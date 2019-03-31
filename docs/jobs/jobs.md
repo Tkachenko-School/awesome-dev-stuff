@@ -129,3 +129,7 @@ https://angel.co/blog/4-perks-recruiters-will-pitch-you-and-what-you-should-cons
 
 https://codeinstitute.net/
 https://angel.co/blog/why-you-should-apply-to-engineering-jobs-you-arent-qualified-for
+
+https://www.theladders.com/career-advice/7-ceos-on-what-they-notice-the-most-on-job-interviews
+https://www.theladders.com/career-advice/how-choosing-your-partner-affects-your-career
+https://www.theladders.com/career-advice/pew-u-s-workers-counter-automation-threat-with-education-new-skills
