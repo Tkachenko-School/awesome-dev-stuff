@@ -18,31 +18,6 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - []()
 - []()
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
-
-
--
-
--
-
--
-
-
-
--
 
 
 - [](https://www.producthunt.com/posts/betalist-jobs)
@@ -60,15 +35,6 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - [](https://summerofcode.withgoogle.com/)
 - []()
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
--
-
 
 
 
@@ -81,21 +47,8 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - [](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
 - [](https://medium.com/@rrhoover/the-problems-in-remote-working-1a6f165585d)
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
 
--
+
 - [](https://www.educative.io/)
 - [](https://pathbase.io/?ref=producthunt)
 - [](https://joinblair.com/?utm_source=producthunt&ref=producthunt)
@@ -137,19 +90,14 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - [](https://angel.co/blog/how-to-switch-engineering-jobs-and-actually-like-your-new-role)
 - [](https://angel.co/blog/how-to-recruit-talent-when-youre-competing-with-giants)
 - [](https://angel.co/blog/steve-blank-how-to-keep-your-job-as-your-startup-grows)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [](https://hackernoon.com/how-my-friend-got-an-internship-at-tesla-after-only-8-months-of-coding-6578c32f3e77)
 - []()
 - []()
 
 
 ---
 
-- https://hackernoon.com/how-my-friend-got-an-internship-at-tesla-after-only-8-months-of-coding-6578c32f3e77
+-
 
 add freebootcamp articles like how-i=got-job
 
@@ -158,90 +106,38 @@ make it embed or just clone with credits?
 https://www.linkedin.com/search/results/content/?keywords=hiring%20interns&origin=SWITCH_SEARCH_VERTICAL
 https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976
 
-- https://www.cvtimeline.com/are-millennials-having-an-impact-on-job-tenure/
+-
+- [](https://www.cvtimeline.com/are-millennials-having-an-impact-on-job-tenure/)
 - []()
 - []()
 - []()
 - []()
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-https://www.nytimes.com/2019/03/08/smarter-living/frustrated-at-work-that-might-just-lead-to-your-next-breakthrough.html
-https://angel.co/job-collections/10-machine-learning-ai-startups-hiring-the-most-right-now
-https://angel.co/blog/4-perks-recruiters-will-pitch-you-and-what-you-should-consider
 
-
+- [](https://www.nytimes.com/2019/03/08/smarter-living/frustrated-at-work-that-might-just-lead-to-your-next-breakthrough.html)
+- [](https://angel.co/job-collections/10-machine-learning-ai-startups-hiring-the-most-right-now)
+- [](https://angel.co/blog/4-perks-recruiters-will-pitch-you-and-what-you-should-consider)
 
 - []()
 - []()
+- [](http://www.interns2startups.com/)
+- [](https://jobbatical.com/blog/work-in-estonia/)
+- [](https://www.youtube.com/watch?v=rnP74z0n3Ms)
+- [](https://codeinstitute.net/)
+- [](https://angel.co/blog/why-you-should-apply-to-engineering-jobs-you-arent-qualified-for)
 - []()
 - []()
 - []()
 - []()
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- http://www.interns2startups.com/
 
-- https://jobbatical.com/blog/work-in-estonia/
-
-- https://www.youtube.com/watch?v=rnP74z0n3Ms
-
-https://codeinstitute.net/
-https://angel.co/blog/why-you-should-apply-to-engineering-jobs-you-arent-qualified-for
 - []()
 - [](https://www.theladders.com/career-advice/7-ceos-on-what-they-notice-the-most-on-job-interviews)
+- [](https://www.theladders.com/career-advice/how-choosing-your-partner-affects-your-career)
+- [](https://www.theladders.com/career-advice/pew-u-s-workers-counter-automation-threat-with-education-new-skills)
+- [](https://medium.com/digitaladoption101/6-simple-ways-to-engage-your-remote-workforce-a525595a11e3)
 - []()
 - []()
 - []()
 - []()
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-https://www.theladders.com/career-advice/how-choosing-your-partner-affects-your-career
-https://www.theladders.com/career-advice/pew-u-s-workers-counter-automation-threat-with-education-new-skills
-
-
-https://medium.com/digitaladoption101/6-simple-ways-to-engage-your-remote-workforce-a525595a11e3
