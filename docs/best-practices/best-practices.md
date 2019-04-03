@@ -5,6 +5,23 @@ title: Best practices
 
 #### best stuff
 
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 - https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8
 
 - https://stackoverflow.com/questions/46514351/react-dynamic-creation-of-list-item-inside-component

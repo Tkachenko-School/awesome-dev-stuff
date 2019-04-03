@@ -6,6 +6,28 @@ sidebar_label: React
 
 
 #### react
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - https://github.com/gaearon/react-makes-you-sad
 - https://github.com/wojtekmaj/react-lifecycle-methods-diagram
 - https://github.com/azat-co/react
@@ -26,14 +48,56 @@ sidebar_label: React
 - https://itnext.io/a-way-to-learn-react-b95056eafebb
 - https://itnext.io/the-amazing-render-props-pattern-for-react-js-lifecycle-begone-14e520fc3821
 - https://medium.com/open-graphql/react-suspense-with-graphql-d95cdef46bfe
-
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - https://medium.freecodecamp.org/how-to-deploy-a-react-application-to-netlify-363b8a98a985
 - https://medium.com/asos-techblog/how-to-test-your-react-redux-application-48d90481a253
 - https://blog.brainsandbeards.com/advanced-redux-patterns-normalisation-6b9a5aa46e1f
 - https://blog.brainsandbeards.com/advanced-redux-patterns-selectors-cb9f88381d74
 
 
-
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - https://blog.bitsrc.io/building-a-react-autocomplete-component-from-scratch-3f4d5618aa14
 - https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e
 - https://codeburst.io/react-bake-from-scratch-or-box-javascript-version-part-1-149994a1adda
@@ -62,7 +126,28 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 
 
 #### REACT children
-
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - https://reactjs.org/docs/composition-vs-inheritance.html
 - https://github.com/facebook/react/issues/3226
 
@@ -77,7 +162,28 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 - https://gerardnico.com/ui/container?404id=lang%3Ajavascript%3Areact%3Acontainer&404type=bestPageName
 
 - https://gist.github.com/sebkouba/a5ac75153ef8d8827b98
-
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - https://mxstbr.blog/2017/02/react-children-deepdive/
 
 - https://stackoverflow.com/questions/40795906/onchange-event-for-react-child-component-to-update-state/40851765

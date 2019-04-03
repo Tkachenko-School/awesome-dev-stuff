@@ -6,6 +6,28 @@ sidebar_label: JS
 
 
 #### js
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c
 
 - https://medium.freecodecamp.org/constant-confusion-why-i-still-use-javascript-function-statements-984ece0b72fd
@@ -24,7 +46,28 @@ sidebar_label: JS
 - https://itnext.io/joi-awesome-code-validation-for-node-js-and-express-514b5570ce20
 - https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6
 - https://itnext.io/javascript-fundamentals-syntax-structure-5e9badd0cc4f
-
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - https://hackernoon.com/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951
 - https://hackernoon.com/two-years-of-functional-programming-in-javascript-lessons-learned-1851667c726
 - https://blog.usejournal.com/little-known-features-of-javascript-901665291387

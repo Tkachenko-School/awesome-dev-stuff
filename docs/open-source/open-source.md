@@ -6,6 +6,28 @@ sidebar_label: Open source
 
 
 #### Open Source
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - https://github.com/freeCodeCamp/how-to-contribute-to-open-source
 - https://github.com/stevemao/github-issue-templates
 - https://github.com/github-changelog-generator/github-changelog-generator

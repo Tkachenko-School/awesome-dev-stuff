@@ -4,8 +4,28 @@ title: Create npm module
 sidebar_label: Create npm module
 ---
 
-
-
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 - http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6
 - https://medium.com/@kelin2025/so-you-wanna-use-es6-modules-714f48b3a953
@@ -45,10 +65,52 @@ sidebar_label: Create npm module
 - https://medium.com/@tonypai/fast-way-to-upgrade-to-babel-7-3f8cf97b4b3d
 - https://itnext.io/parse-react-components-with-babel-and-visualize-them-45062046cb72
 - https://medium.com/@maicmi/babel-upgrade-from-babel-6-x-to-7-0-58809bd63d8
-
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 #### Rollup.js
-
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - https://rollupjs.org/guide/en
 
 - https://github.com/sheerun/babel-plugin-file-loader
@@ -64,7 +126,28 @@ https://github.com/sheerun/babel-plugin-file-loader#example-usage
 - https://github.com/rollup/rollup-starter-lib
 
 #### Rollup React
-
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - https://medium.com/tech-grandata-com/how-i-set-up-a-react-component-library-with-rollup-be6ccb700333
 - https://medium.com/@tomaszmularczyk89/guide-to-building-a-react-components-library-with-rollup-and-styled-jsx-694ec66bd2
 
@@ -77,7 +160,28 @@ https://github.com/sheerun/babel-plugin-file-loader#example-usage
 
 
 #### Rollup React
-
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
  - https://medium.com/tech-grandata-com/how-i-set-up-a-react-component-library-with-rollup-be6ccb700333
 
  - https://medium.com/@tomaszmularczyk89/guide-to-building-a-react-components-library-with-rollup-and-styled-jsx-694ec66bd2
@@ -123,7 +227,28 @@ https://github.com/rollup/rollup-plugin-babel
 
 https://developers.livechatinc.com/blog/how-to-create-javascript-libraries-in-2018-part-2/
 https://github.com/developit/microbundle/
-
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 https://www.npmjs.com/package/rollup-plugin-local-resolve
 https://github.com/conventional-changelog/commitlint
@@ -131,3 +256,25 @@ https://github.com/jaebradley/fruit#readme
 
 https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automating-releases-with-semantic-release
 https://github.com/semantic-release/semantic-release
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
