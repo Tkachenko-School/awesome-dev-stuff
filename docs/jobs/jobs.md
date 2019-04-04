@@ -138,9 +138,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976
 - [](https://medium.com/digitaladoption101/6-simple-ways-to-engage-your-remote-workforce-a525595a11e3)
 - []()
 - []()
-- []()
-- []()
-- []()
 
-https://chrome.google.com/webstore/detail/cv-timeline-for-linkedin/ecmofndinkmdegjjofbkomppbpkhidac
-https://www.linkedin.com/pulse/why-i-fired-all-mediocre-recruitment-consultants-leighanne-mcaleer/
+
+
+- [](https://chrome.google.com/webstore/detail/cv-timeline-for-linkedin/ecmofndinkmdegjjofbkomppbpkhidac)
+- [](https://www.linkedin.com/pulse/why-i-fired-all-mediocre-recruitment-consultants-leighanne-mcaleer/)
+- [](https://www.producthunt.com/posts/remotive-3-0)
