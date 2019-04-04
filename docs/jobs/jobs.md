@@ -141,3 +141,5 @@ https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976
 - []()
 - []()
 - []()
+
+https://chrome.google.com/webstore/detail/cv-timeline-for-linkedin/ecmofndinkmdegjjofbkomppbpkhidac
