@@ -31,10 +31,7 @@ sidebar_label: Create npm module
 
 
 #### Babel
--
--
--
--
+
 - [](https://medium.freecodecamp.org/were-nearing-the-7-0-babel-release-here-s-all-the-cool-stuff-we-ve-been-doing-8c1ade684039)
 - [](https://medium.com/@tonypai/fast-way-to-upgrade-to-babel-7-3f8cf97b4b3d)
 - [](https://itnext.io/parse-react-components-with-babel-and-visualize-them-45062046cb72)
@@ -59,41 +56,21 @@ sidebar_label: Create npm module
 - []()
 
 #### Rollup.js
+- [](https://rollupjs.org/guide/en)
+- [](https://github.com/sheerun/babel-plugin-file-loader)
+- [](https://github.com/sheerun/babel-plugin-file-loader#example-usage)
+- [](https://github.com/rollup/rollup-plugin-json)
+- [](https://github.com/rollup/rollup-plugin-json#usage)
+- [](https://www.npmjs.com/package/shx)
+- [](https://github.com/rollup/rollup/commit/c103967c6f5db503e25bbc0ae81a83742839fa53)
+- [](https://rollupjs.org/guide/en#the-why)
+- [](https://github.com/rollup/rollup-starter-lib)
 - []()
 - []()
 - []()
 - []()
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- https://rollupjs.org/guide/en
 
-- https://github.com/sheerun/babel-plugin-file-loader
-https://github.com/sheerun/babel-plugin-file-loader#example-usage
-
-- https://github.com/rollup/rollup-plugin-json
-- https://github.com/rollup/rollup-plugin-json#usage
-
-- https://www.npmjs.com/package/shx
-
-- https://github.com/rollup/rollup/commit/c103967c6f5db503e25bbc0ae81a83742839fa53
-- https://rollupjs.org/guide/en#the-why
-- https://github.com/rollup/rollup-starter-lib
 
 #### Rollup React
 - [](https://medium.com/tech-grandata-com/how-i-set-up-a-react-component-library-with-rollup-be6ccb700333)
@@ -139,35 +116,21 @@ https://github.com/sheerun/babel-plugin-file-loader#example-usage
 
 ---
 
+- [](https://developers.livechatinc.com/blog/how-to-create-javascript-libraries-in-2018-part-2/)
+- [](https://github.com/developit/microbundle/)
 
 
- ---
- https://github.com/babel/babel-eslint#installation
-  https://standardjs.com/#how-do-i-use-experimental-javascript-es-next-features
 
+- [](https://github.com/babel/babel-eslint#installation)
+- [](https://standardjs.com/#how-do-i-use-experimental-javascript-es-next-features)
+- [](https://github.com/babel/minify)
+- [](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
+- [](https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e)
+- [](https://github.com/rollup/rollup/wiki/pkg.module)
+- [](https://github.com/defunctzombie/package-browser-field-spec)
+- [](https://github.com/rollup/rollup-starter-lib/blob/master/package.json)
+- []https://github.com/rollup/rollup-plugin-babel)
 
-  https://github.com/babel/minify
-
-https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c
-https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e
-https://github.com/rollup/rollup/wiki/pkg.module
-
-https://github.com/defunctzombie/package-browser-field-spec
-
-https://github.com/rollup/rollup-starter-lib/blob/master/package.json
-https://github.com/rollup/rollup-plugin-babel
-
-https://developers.livechatinc.com/blog/how-to-create-javascript-libraries-in-2018-part-2/
-https://github.com/developit/microbundle/
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
 - [](https://www.npmjs.com/package/rollup-plugin-local-resolve)
 - [](https://github.com/conventional-changelog/commitlint)
 - [](https://github.com/jaebradley/fruit#readme)

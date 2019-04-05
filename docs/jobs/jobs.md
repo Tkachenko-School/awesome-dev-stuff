@@ -124,7 +124,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976
 - [](https://jobbatical.com/blog/work-in-estonia/)
 - [](https://www.youtube.com/watch?v=rnP74z0n3Ms)
 - [](https://codeinstitute.net/)
-- [](https://angel.co/blog/why-you-should-apply-to-engineering-jobs-you-arent-qualified-for)
+- [Why you should apply to an engineering jobs you aren't qualified for](https://angel.co/blog/why-you-should-apply-to-engineering-jobs-you-arent-qualified-for)
 - []()
 - []()
 - []()
