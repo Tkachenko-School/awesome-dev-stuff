@@ -1,7 +1,7 @@
 ---
 id: react
-title: React
-sidebar_label: React
+title: Articles related to React universe
+sidebar_label: Articles related to React universe
 ---
 
 
@@ -53,9 +53,9 @@ sidebar_label: React
 - [](https://medium.freecodecamp.org/how-to-develop-your-react-superpowers-with-the-render-props-pattern-b74e68c6d053)
 - [](https://medium.com/@mark.okeeffe_11887/the-rise-of-the-react-functional-component-138729aa1028)
 - [](https://medium.freecodecamp.org/how-to-get-started-with-gatsby-2-and-redux-ae1c543571ca)
-- [](https://medium.freecodecamp.org/introducing-react-use-database-client-side-relational-data-just-got-easier-d272c9465bf0)
-- [](https://medium.freecodecamp.org/a-quick-intro-to-higher-order-functions-in-javascript-1a014f89c6b)
-- [](https://medium.com/@PrinceAshburton/how-to-get-started-with-graphql-a3fbe3d154a1)
+- [introducing React use database client side relational data just got easier](https://medium.freecodecamp.org/introducing-react-use-database-client-side-relational-data-just-got-easier-d272c9465bf0)
+- [A Quick intro to high order functions in javascript](https://medium.freecodecamp.org/a-quick-intro-to-higher-order-functions-in-javascript-1a014f89c6b)
+- [How to get started with GraphQL](https://medium.com/@PrinceAshburton/how-to-get-started-with-graphql-a3fbe3d154a1)
 - []()
 - []()
 - []()
@@ -67,22 +67,22 @@ sidebar_label: React
 
 -
 
+++
+[Educative.io collection](https://www.educative.io/collection/5661736652767232/5629499534213120)
 
-
-++ https://www.educative.io/collection/5661736652767232/5629499534213120
 
 #### Book
-https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://reacthandbook.com/
-
+- [The React Handbook Article](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
+- [The React Handbook website](https://reacthandbook.com/)
 
 #### REACT children
-- [](https://reactjs.org/docs/composition-vs-inheritance.html)
+- [Reactjs documentation - composition vs inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
 - [](https://github.com/facebook/react/issues/3226)
 - [](https://gist.github.com/mikeyamadeo/6bdbbfde7ff0e1c3cf3c)
-- [](https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/)
-- [](https://medium.com/@ryandrewjohnson/redux-in-the-wild-some-practical-container-examples-6fd1016f90f3)
-- [](https://discuss.reactjs.org/t/best-approach-to-update-dynamic-children-component-on-parents-event/4442)
-- [](https://css-tricks.com/learning-react-container-components/)
+- [The React plus Redux container pattern](https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/)
+- [Redux in the wild some practical container examples](https://medium.com/@ryandrewjohnson/redux-in-the-wild-some-practical-container-examples-6fd1016f90f3)
+- [Best approach to update dynamic children component on parents event](https://discuss.reactjs.org/t/best-approach-to-update-dynamic-children-component-on-parents-event/4442)
+- [Learning React container components](https://css-tricks.com/learning-react-container-components/)
 - [](https://www.andreasreiterer.at/connect-react-app-rest-api/)
 - [](https://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/)
 - [](https://gerardnico.com/ui/container?404id=lang%3Ajavascript%3Areact%3Acontainer&404type=bestPageName)
@@ -94,13 +94,13 @@ https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795 or https://react
 
 
 -
-- [](https://mxstbr.blog/2017/02/react-children-deepdive/)
-- [](https://stackoverflow.com/questions/40795906/onchange-event-for-react-child-component-to-update-state/40851765)
-- [](https://www.robinwieruch.de/conditional-rendering-react/)
-- [](https://medium.com/@yaoxiao1222/implementing-search-filter-a-list-on-redux-react-bb5de8d0a3ad)
-- [](https://stackoverflow.com/questions/27864951/how-to-access-childs-state-in-react)
-- [](https://reactjs.org/docs/forms.html)
-- [](https://reactjs.org/docs/refs-and-the-dom.html#dont-overuse-refs)
+- [React children deepdive](https://mxstbr.blog/2017/02/react-children-deepdive/)
+- [On change event for react child component to update state](https://stackoverflow.com/questions/40795906/onchange-event-for-react-child-component-to-update-state/40851765)
+- [Conditional rendering react](https://www.robinwieruch.de/conditional-rendering-react/)
+- [Implementing search filter a list on Redux React](https://medium.com/@yaoxiao1222/implementing-search-filter-a-list-on-redux-react-bb5de8d0a3ad)
+- [How to access childs state in React](https://stackoverflow.com/questions/27864951/how-to-access-childs-state-in-react)
+- [Reactjs documentation - Forms](https://reactjs.org/docs/forms.html)
+- [Reactjs documentation - Refs and the DOM. Don't overuse refs](https://reactjs.org/docs/refs-and-the-dom.html#dont-overuse-refs)
 - [](https://codesandbox.io/s/8z5jm6x80)
 - []()
 - []()
