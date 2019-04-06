@@ -38,22 +38,8 @@ sidebar_label: Create npm module
 - [](https://medium.com/@maicmi/babel-upgrade-from-babel-6-x-to-7-0-58809bd63d8)
 - []()
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
+
 
 #### Rollup.js
 - [](https://rollupjs.org/guide/en)
@@ -66,10 +52,7 @@ sidebar_label: Create npm module
 - [](https://rollupjs.org/guide/en#the-why)
 - [](https://github.com/rollup/rollup-starter-lib)
 - []()
-- []()
-- []()
-- []()
-- []()
+
 
 
 #### Rollup React
@@ -81,24 +64,11 @@ sidebar_label: Create npm module
 - [](https://github.com/Microsoft/TypeScript-Babel-Starter#using-rollup)
 - [](https://github.com/babel/minify)
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
 
 
 #### Rollup React
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
 - [](https://medium.com/tech-grandata-com/how-i-set-up-a-react-component-library-with-rollup-be6ccb700333)
 - [](https://medium.com/@tomaszmularczyk89/guide-to-building-a-react-components-library-with-rollup-and-styled-jsx-694ec66bd2)
 - [](https://github.com/rollup/rollup/issues/2518)
@@ -111,14 +81,13 @@ sidebar_label: Create npm module
 - [](https://github.com/jaebradley/example-rollup-react-component-npm-package/blob/master/package.json)
 - [](https://medium.com/tech-grandata-com/how-i-set-up-a-react-component-library-with-rollup-be6ccb700333)
 - [](https://medium.com/groceristar/moving-out-static-food-json-files-e27f8cba003)
-- []()
+
 
 
 ---
 
 - [](https://developers.livechatinc.com/blog/how-to-create-javascript-libraries-in-2018-part-2/)
 - [](https://github.com/developit/microbundle/)
-
 
 
 - [](https://github.com/babel/babel-eslint#installation)
@@ -136,37 +105,6 @@ sidebar_label: Create npm module
 - [](https://github.com/jaebradley/fruit#readme)
 - [](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automating-releases-with-semantic-release)
 - [](https://github.com/semantic-release/semantic-release)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
-
-
-
-
-
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
 - []()
 - []()
 - []()

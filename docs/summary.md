@@ -6,7 +6,7 @@ title: summary
 Table of Contents
 =================
 
-* [Best practices](best-practices/best-practices.md)
+* [Best practices](best-practices/react-best-practices.md)
 * [Free code courses](courses.md)
 * [Create npm module](create-npm-module/create-npm-module.md)
 * [CSS](css/css.md)
@@ -75,6 +75,6 @@ GraphQL
  -->
 
 
- 
+
 
 ## development

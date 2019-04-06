@@ -14,11 +14,13 @@ https://www.google.com/search?q=hiring+interns+uk&oq=hiring+interns&aqs=chrome.3
 - [](https://www.rocketlawyer.co.uk/article/hiring-an-intern.rl)
 - [](https://blog.dropbox.com/topics/work-culture/what-happens-when-we-stop-looking-at-careers-through-the-lens-of)
 - [](https://angel.co/blog/why-naval-ravikant-thinks-remote-work-is-the-future)
+
 - [](https://www.producthunt.com/posts/slogro)
 - [](https://www.producthunt.com/posts/newcraft)
 - [](https://www.forbes.com/sites/ruthumoh/2019/03/13/diversity-in-tech-how-one-vc-firm-is-partnering-with-historically-black-colleges-to-address-the-pipeline-issue/#3b6cccca12fa)
 - [](https://medium.com/@rrhoover/the-problems-in-remote-working-1a6f165585d)
 - [](https://github.com/christine-hu/summer-2019-internships)
+
 - [](https://www.intercom.com/blog/what-i-learned-when-choosing-my-internship/)
 - [](https://www.intercom.com/blog/inbound-recruiting-engineers/)
 - [](https://www.intercom.com/blog/how-we-hire-engineers-part-2-culture-contribution/)
