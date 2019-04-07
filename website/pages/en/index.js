@@ -55,6 +55,18 @@ const MainPage = props => (
 );
 
 //--
+const Block = props => (
+  <Container
+    padding={['bottom', 'top']}
+    id={props.id}
+    background={props.background}>
+    <GridBlock
+      align="center"
+      contents={props.children}
+      layout={props.layout}
+    />
+  </Container>
+);
 
 const FeatureCalloutAYZ = () => (
   <div
@@ -101,7 +113,7 @@ const LearnHowAYZ = () => (
         image: `${baseUrl}img/docusaurus.svg`,
         imageAlign: 'right',
         title: 'Learn How',
-      },
+      }
     ]}
   </Block>
 );
@@ -196,13 +208,14 @@ class Index extends React.Component {
           <Container padding={['bottom']}>
             <MainPage />
             <FeatureCallout />
-
+{/*
 
             <FeatureCalloutAYZ />
-            {/*<LearnHowAYZ />
+            <LearnHowAYZ />
+
 
             <TryOutAYZ />
-            <DescriptionAYZ /> */}
+            <DescriptionAYZ />*/}
 
 
 
