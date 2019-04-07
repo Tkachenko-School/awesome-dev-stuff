@@ -199,10 +199,10 @@ class Index extends React.Component {
 
 
             <FeatureCalloutAYZ />
-            <LearnHowAYZ />
+            {/*<LearnHowAYZ />
 
             <TryOutAYZ />
-            <DescriptionAYZ />
+            <DescriptionAYZ /> */}
 
 
 
