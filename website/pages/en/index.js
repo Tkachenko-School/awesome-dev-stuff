@@ -54,12 +54,86 @@ const MainPage = props => (
   </div>
 );
 
+//--
+
+const FeatureCalloutAYZ = () => (
+  <div
+    className="productShowcaseSection paddingBottom"
+    style={{textAlign: 'center'}}>
+    <h2>Feature Callout</h2>
+    <MarkdownBlock>These are features of this project</MarkdownBlock>
+  </div>
+);
+
+
+const TryOutAYZ = () => (
+  <Block id="try">
+    {[
+      {
+        content: 'Talk about trying this out',
+        image: `${baseUrl}img/docusaurus.svg`,
+        imageAlign: 'left',
+        title: 'Try it Out',
+      },
+    ]}
+  </Block>
+);
+
+const DescriptionAYZ = () => (
+  <Block background="dark">
+    {[
+      {
+        content:
+          'This is another description of how this project is useful',
+        image: `${baseUrl}img/docusaurus.svg`,
+        imageAlign: 'right',
+        title: 'Description',
+      },
+    ]}
+  </Block>
+);
+
+const LearnHowAYZ = () => (
+  <Block background="light">
+    {[
+      {
+        content: 'Talk about learning how to use this',
+        image: `${baseUrl}img/docusaurus.svg`,
+        imageAlign: 'right',
+        title: 'Learn How',
+      },
+    ]}
+  </Block>
+);
+
+const FeaturesAYZ = () => (
+  <Block layout="fourColumn">
+    {[
+      {
+        content: 'This is the content of my feature',
+        image: `${baseUrl}img/docusaurus.svg`,
+        imageAlign: 'top',
+        title: 'Feature One',
+      },
+      {
+        content: 'The content of my second feature',
+        image: `${baseUrl}img/docusaurus.svg`,
+        imageAlign: 'top',
+        title: 'Feature Two',
+      },
+    ]}
+  </Block>
+);
+
+//--
+
 const FeatureCallout = props => (
   <div
     className="showcaseSection paddingBottom"
     style={{ textAlign: 'center' }}>
     <h2>Table of contents</h2>
     <div className="tableofcontents" >
+
       <ul>
         <li><a href="/awesome-dev-stuff/docs/best-practices/best-practices">Best practices</a></li>
         <li><a href="/awesome-dev-stuff/docs/free-code-courses">Free code courses</a></li>
@@ -73,27 +147,40 @@ const FeatureCallout = props => (
         <li><a href="/awesome-dev-stuff/docs/graphql/graphqh">Graphqh</a></li>
         <li><a href="/awesome-dev-stuff/docs/images">images</a></li>
         <li><a href="/awesome-dev-stuff/docs/jest/jest">Jest</a></li>
-        <li><a href="">Jobs</a>
+
+        <li>
+        <a href="">Jobs</a>
           <ul>
             <li><a href="/awesome-dev-stuff/docs/jobs/jobs">Startup Jobs</a></li>
             <li><a href="/awesome-dev-stuff/docs/jobs/internships">Internships</a></li>
-          </ul></li>
-        <li><a href="">JS</a>
+          </ul>
+        </li>
+        <li>
+        <a href="">JS</a>
           <ul>
             <li><a href="/awesome-dev-stuff/docs/js/js">JS</a></li>
             <li><a href="/awesome-dev-stuff/docs/js/complex-structures">Complex structures</a></li>
             <li><a href="/awesome-dev-stuff/docs/js/nodejs-corb-cors">NodeJS corb cors</a></li>
-          </ul></li>
+          </ul>
+        </li>
+
         <li><a href="/awesome-dev-stuff/docs/machine-learning/machine-learning">Machine learning</a></li>
         <li><a href="/awesome-dev-stuff/docs/open-source/open-source">Open source</a></li>
         <li><a href="/awesome-dev-stuff/docs/product-hunt/launch-producthunt">Launch producthunt</a></li>
         <li><a href="/awesome-dev-stuff/docs/project-structure/project-structure">Project structure</a></li>
-        <li><a href="">React</a>
+
+        <li>
+          <a href="">React</a>
           <ul>
             <li><a href="/awesome-dev-stuff/docs/react/react">React</a></li>
             <li><a href="/awesome-dev-stuff/docs/react/styling">Styling</a></li>
-          </ul></li>
-        <li><a href="/awesome-dev-stuff/docs/stories/stories">Stories</a></li>
+          </ul>
+        </li>
+
+        <li>
+          <a href="/awesome-dev-stuff/docs/stories/stories">Stories</a>
+        </li>
+
       </ul>
     </div>
   </div>
@@ -109,6 +196,16 @@ class Index extends React.Component {
           <Container padding={['bottom']}>
             <MainPage />
             <FeatureCallout />
+
+
+            <FeatureCalloutAYZ />
+            <LearnHowAYZ />
+
+            <TryOutAYZ />
+            <DescriptionAYZ />
+
+
+
           </Container>
         </div>
       </div>
