@@ -56,7 +56,7 @@ sidebar_label: Articles related to React universe
 - [introducing React use database client side relational data just got easier](https://medium.freecodecamp.org/introducing-react-use-database-client-side-relational-data-just-got-easier-d272c9465bf0)
 - [A Quick intro to high order functions in javascript](https://medium.freecodecamp.org/a-quick-intro-to-higher-order-functions-in-javascript-1a014f89c6b)
 - [How to get started with GraphQL](https://medium.com/@PrinceAshburton/how-to-get-started-with-graphql-a3fbe3d154a1)
-- []()
+- [JSX in depth](https://reactjs.org/docs/jsx-in-depth.html)
 - []()
 - []()
 - []()
