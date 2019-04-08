@@ -41,3 +41,8 @@ https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c
 https://hackernoon.com/javascript-state-encapsulation-without-classes-in-2019-97e06c6a9643
 
 https://blog.actiondesk.io/the-story-of-a-failed-launch-or-why-were-going-back-to-closed-beta
+
+
+
+https://blog.stephsmith.io/best-practices-managing-remote-teams/
+https://coderstory.io/interviews/running-the-race-at-your-own-speed
