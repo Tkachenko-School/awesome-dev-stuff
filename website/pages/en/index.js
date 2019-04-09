@@ -55,87 +55,87 @@ const MainPage = props => (
 );
 
 //--
-const Block = props => (
-  <Container
-    padding={['bottom', 'top']}
-    id={props.id}
-    background={props.background}>
-    <GridBlock
-      align="center"
-      contents={props.children}
-      layout={props.layout}
-    />
-  </Container>
-);
+// const Block = props => (
+//   <Container
+//     padding={['bottom', 'top']}
+//     id={props.id}
+//     background={props.background}>
+//     <GridBlock
+//       align="center"
+//       contents={props.children}
+//       layout={props.layout}
+//     />
+//   </Container>
+// );
 
-const FeatureCalloutAYZ = () => (
-  <div
-    className="productShowcaseSection paddingBottom"
-    style={{textAlign: 'center'}}>
-    <h2>Feature Callout</h2>
-    <MarkdownBlock>These are features of this project</MarkdownBlock>
-  </div>
-);
-
-
-const TryOutAYZ = () => (
-  <Block id="try">
-    {[
-      {
-        content: 'Talk about trying this out',
-        image: `${baseUrl}img/docusaurus.svg`,
-        imageAlign: 'left',
-        title: 'Try it Out',
-      },
-    ]}
-  </Block>
-);
-
-const DescriptionAYZ = () => (
-  <Block background="dark">
-    {[
-      {
-        content:
-          'This is another description of how this project is useful',
-        image: `${baseUrl}img/docusaurus.svg`,
-        imageAlign: 'right',
-        title: 'Description',
-      },
-    ]}
-  </Block>
-);
-
-const LearnHowAYZ = () => (
-  <Block background="light">
-    {[
-      {
-        content: 'Talk about learning how to use this',
-        image: `${baseUrl}img/docusaurus.svg`,
-        imageAlign: 'right',
-        title: 'Learn How',
-      }
-    ]}
-  </Block>
-);
-
-const FeaturesAYZ = () => (
-  <Block layout="fourColumn">
-    {[
-      {
-        content: 'This is the content of my feature',
-        image: `${baseUrl}img/docusaurus.svg`,
-        imageAlign: 'top',
-        title: 'Feature One',
-      },
-      {
-        content: 'The content of my second feature',
-        image: `${baseUrl}img/docusaurus.svg`,
-        imageAlign: 'top',
-        title: 'Feature Two',
-      },
-    ]}
-  </Block>
-);
+// const FeatureCalloutAYZ = () => (
+//   <div
+//     className="productShowcaseSection paddingBottom"
+//     style={{textAlign: 'center'}}>
+//     <h2>Feature Callout</h2>
+//     <MarkdownBlock>These are features of this project</MarkdownBlock>
+//   </div>
+// );
+//
+//
+// const TryOutAYZ = () => (
+//   <Block id="try">
+//     {[
+//       {
+//         content: 'Talk about trying this out',
+//         image: `${baseUrl}img/docusaurus.svg`,
+//         imageAlign: 'left',
+//         title: 'Try it Out',
+//       },
+//     ]}
+//   </Block>
+// );
+//
+// const DescriptionAYZ = () => (
+//   <Block background="dark">
+//     {[
+//       {
+//         content:
+//           'This is another description of how this project is useful',
+//         image: `${baseUrl}img/docusaurus.svg`,
+//         imageAlign: 'right',
+//         title: 'Description',
+//       },
+//     ]}
+//   </Block>
+// );
+//
+// const LearnHowAYZ = () => (
+//   <Block background="light">
+//     {[
+//       {
+//         content: 'Talk about learning how to use this',
+//         image: `${baseUrl}img/docusaurus.svg`,
+//         imageAlign: 'right',
+//         title: 'Learn How',
+//       }
+//     ]}
+//   </Block>
+// );
+//
+// const FeaturesAYZ = () => (
+//   <Block layout="fourColumn">
+//     {[
+//       {
+//         content: 'This is the content of my feature',
+//         image: `${baseUrl}img/docusaurus.svg`,
+//         imageAlign: 'top',
+//         title: 'Feature One',
+//       },
+//       {
+//         content: 'The content of my second feature',
+//         image: `${baseUrl}img/docusaurus.svg`,
+//         imageAlign: 'top',
+//         title: 'Feature Two',
+//       },
+//     ]}
+//   </Block>
+// );
 
 //--
 
@@ -143,6 +143,8 @@ const FeatureCallout = props => (
   <div
     className="showcaseSection paddingBottom"
     style={{ textAlign: 'center' }}>
+
+
     <h2>Table of contents</h2>
     <div className="tableofcontents" >
 
@@ -194,11 +196,19 @@ const FeatureCallout = props => (
         </li>
 
       </ul>
+
+
     </div>
   </div>
 );
 
+
+
+
 class Index extends React.Component {
+
+
+
   render() {
     let language = this.props.language || '';
 
@@ -208,6 +218,8 @@ class Index extends React.Component {
           <Container padding={['bottom']}>
             <MainPage />
             <FeatureCallout />
+
+
 {/*
 
             <FeatureCalloutAYZ />
