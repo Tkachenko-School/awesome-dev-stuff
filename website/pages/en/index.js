@@ -55,68 +55,15 @@ const MainPage = props => (
 );
 
 //--
-// const Block = props => (
-//   <Container
-//     padding={['bottom', 'top']}
-//     id={props.id}
-//     background={props.background}>
-//     <GridBlock
-//       align="center"
-//       contents={props.children}
-//       layout={props.layout}
-//     />
-//   </Container>
-// );
 
-// const FeatureCalloutAYZ = () => (
-//   <div
-//     className="productShowcaseSection paddingBottom"
-//     style={{textAlign: 'center'}}>
-//     <h2>Feature Callout</h2>
-//     <MarkdownBlock>These are features of this project</MarkdownBlock>
-//   </div>
-// );
+
+
 //
 //
-// const TryOutAYZ = () => (
-//   <Block id="try">
-//     {[
-//       {
-//         content: 'Talk about trying this out',
-//         image: `${baseUrl}img/docusaurus.svg`,
-//         imageAlign: 'left',
-//         title: 'Try it Out',
-//       },
-//     ]}
-//   </Block>
-// );
+
 //
-// const DescriptionAYZ = () => (
-//   <Block background="dark">
-//     {[
-//       {
-//         content:
-//           'This is another description of how this project is useful',
-//         image: `${baseUrl}img/docusaurus.svg`,
-//         imageAlign: 'right',
-//         title: 'Description',
-//       },
-//     ]}
-//   </Block>
-// );
-//
-// const LearnHowAYZ = () => (
-//   <Block background="light">
-//     {[
-//       {
-//         content: 'Talk about learning how to use this',
-//         image: `${baseUrl}img/docusaurus.svg`,
-//         imageAlign: 'right',
-//         title: 'Learn How',
-//       }
-//     ]}
-//   </Block>
-// );
+
+
 //
 // const FeaturesAYZ = () => (
 //   <Block layout="fourColumn">
@@ -139,7 +86,7 @@ const MainPage = props => (
 
 //--
 
-const FeatureCallout = props => (
+const TableOfContents = props => (
   <div
     className="showcaseSection paddingBottom"
     style={{ textAlign: 'center' }}>
@@ -212,23 +159,79 @@ class Index extends React.Component {
   render() {
     let language = this.props.language || '';
 
+
+    const { baseUrl } = siteConfig;
+
+    const Block = props => (
+         <Container
+           padding={['bottom', 'top']}
+           id={props.id}
+           background={props.background}>
+           <GridBlock
+             align="center"
+             contents={props.children}
+             layout={props.layout}
+           />
+         </Container>
+       );
+
+       const FeatureCallout = () => (
+         <div
+           className="productShowcaseSection paddingBottom"
+           style={{textAlign: 'center'}}>
+           <h2>Feature Callout</h2>
+           <MarkdownBlock>These are features of this project</MarkdownBlock>
+         </div>
+       );
+
+       const TryOut = () => (
+         <Block id="try">
+           {[
+             {
+               content: 'Talk about trying this out',
+               image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/moving_forward.svg?sanitize=true`,
+               imageAlign: 'left',
+               title: 'Try it Out',
+             },
+           ]}
+         </Block>
+       );
+
+       const Description = () => (
+         <Block background="white">
+           {[
+             {
+               content:
+                 'This is another description of how this project is useful',
+               image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true`,
+               imageAlign: 'right',
+               title: 'Description',
+             },
+           ]}
+         </Block>
+       );
+
+
+
+
+
+
+
+
+
     return (
       <div>
         <div className="mainContainer">
           <Container padding={['bottom']}>
             <MainPage />
-            <FeatureCallout />
+            <TableOfContents />
 
 
-{/*
 
-            <FeatureCalloutAYZ />
-            <LearnHowAYZ />
+                      <FeatureCallout />
 
-
-            <TryOutAYZ />
-            <DescriptionAYZ />*/}
-
+                      <TryOut />
+                      <Description />
 
 
           </Container>
