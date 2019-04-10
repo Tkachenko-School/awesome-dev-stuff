@@ -46,3 +46,6 @@ https://blog.actiondesk.io/the-story-of-a-failed-launch-or-why-were-going-back-t
 
 https://blog.stephsmith.io/best-practices-managing-remote-teams/
 https://coderstory.io/interviews/running-the-race-at-your-own-speed
+
+
+https://jobbatical.com/international-hiring/?utm_source=facebook&utm_medium=cpc&utm_campaign=remarketing&fbclid=IwAR2iy8oTpDxmwnANb47hDUVdSNKzIE5ZbCpXLjvOVcUdRLKwW4wyuA5xIkU
