@@ -84,3 +84,8 @@ https://www.indiehackers.com/podcast/079-julian-shapiro-of-bell-curve?utm_source
 https://www.indiehackers.com/interview/e9beed1695?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190121&utm_medium=email
 
 https://www.indiehackers.com/interview/54dea274de?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-2051&utm_medium=email
+
+
+Welcome to awesome-dev-stuff(yeah, I should find a better name).
+It's a place, where I(Arthur) keeping all links, related to coding in my company.
+He sharing them frequently with his interns, and thinks you may like it too or find interesting.
