@@ -28,7 +28,7 @@ const TableOfContents = props => (
     <div className="tableofcontents" >
 
       <ul>
-        <li><a href="/awesome-dev-stuff/docs/best-practices/best-practices">Best practices</a></li>
+        <li><a href="/awesome-dev-stuff/docs/best-practices/react-best-practices">Best practices</a></li>
         <li><a href="/awesome-dev-stuff/docs/free-code-courses">Free code courses</a></li>
         <li><a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module">Create npm module</a></li>
         <li><a href="/awesome-dev-stuff/docs/css/css">CSS</a></li>
@@ -146,14 +146,21 @@ class Index extends React.Component {
          </Container>
        );
 
-       const FeatureCallout = () => (
-         <div
-           className="productShowcaseSection paddingBottom"
-           style={{textAlign: 'center'}}>
-           <h2>Feature Callout</h2>
-           <MarkdownBlock>These are features of this project</MarkdownBlock>
-         </div>
-       );
+       // const FeatureCallout = () => (
+       //   <div
+       //     className="productShowcaseSection paddingBottom"
+       //     style={{textAlign: 'center'}}>
+       //     <h2>Feature Callout</h2>
+       //     <MarkdownBlock>These are features of this project</MarkdownBlock>
+       //   </div>
+       // );
+
+
+// Read / Learn about Jest testing / React
+// React best practices
+// How to find a job or land an internship
+// Just want to read hand-picked, interesting stories
+
 
        const TryOut = () => (
          <Block id="try">
@@ -199,7 +206,7 @@ class Index extends React.Component {
 
 
 
-                      <FeatureCallout />
+                      {/*<FeatureCallout />*/}
 
                       <TryOut />
                       <Description />
