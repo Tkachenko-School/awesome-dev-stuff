@@ -15,11 +15,3 @@ Table of Contents
  * [Stories](#stories)
 
 ## development
-
-
----
-id: summary
-title: Summary
-sidebar_label: Table of Contents
----
-

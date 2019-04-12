@@ -89,3 +89,6 @@ https://www.indiehackers.com/interview/54dea274de?utm_source=Indie+Hackers+Newsl
 Welcome to awesome-dev-stuff(yeah, I should find a better name).
 It's a place, where I(Arthur) keeping all links, related to coding in my company.
 He sharing them frequently with his interns, and thinks you may like it too or find interesting.
+
+
+https://www.producthunt.com/stories/how-my-failed-startup-made-me-the-healthiest-version-of-myself?fbclid=IwAR1wleWrqE5jm8H8zw09d5YNudvQLcBySKUtib3K328hVnLmmX9CrJJS6gY

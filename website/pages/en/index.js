@@ -16,76 +16,8 @@ const siteConfig = require(process.cwd() + '/siteConfig.js');
 
 // https://raw.githubusercontent.com/GroceriStar/creative/master/illustrations/Vegetables_Tomato%20(1).png
 
-
-class Button extends React.Component {
-  render() {
-    return (
-      <div className="pluginWrapper buttonWrapper">
-        <a className="button" href={this.props.href} target={this.props.target}>
-          {this.props.children}
-        </a>
-      </div>
-    );
-  }
-}
-
-Button.defaultProps = {
-  target: '_self',
-};
-
-const Logo = props => (
-  <div className="projectLogo">
-    <img src={props.img_src} />
-  </div>
-);
-
-const MainPage = props => (
-  <div
-    className="showcaseSection paddingBottom"
-    style={{ textAlign: 'center' }}>
-    <div className="tableofcontents">
-      <p>
-        Food Tech related static data in json arrays, like recipes, ingredients, recipes, diets, allergies, etc.
-      </p>
-      <p>
-        In a few our projects we have a similar files. And we always copy-paste code between them. So by moving this code into separated place - i hope we'll make our projects better.
-      </p>
-    </div>
-  </div>
-);
-
-//--
-
-
-
-//
-//
-
-//
-
-
-//
-// const FeaturesAYZ = () => (
-//   <Block layout="fourColumn">
-//     {[
-//       {
-//         content: 'This is the content of my feature',
-//         image: `${baseUrl}img/docusaurus.svg`,
-//         imageAlign: 'top',
-//         title: 'Feature One',
-//       },
-//       {
-//         content: 'The content of my second feature',
-//         image: `${baseUrl}img/docusaurus.svg`,
-//         imageAlign: 'top',
-//         title: 'Feature Two',
-//       },
-//     ]}
-//   </Block>
-// );
-
-//--
-
+// @TODO will deploy break this hardcoded links?
+// I think yes
 const TableOfContents = props => (
   <div
     className="showcaseSection paddingBottom"
@@ -148,6 +80,45 @@ const TableOfContents = props => (
     </div>
   </div>
 );
+
+
+class Button extends React.Component {
+  render() {
+    return (
+      <div className="pluginWrapper buttonWrapper">
+        <a className="button" href={this.props.href} target={this.props.target}>
+          {this.props.children}
+        </a>
+      </div>
+    );
+  }
+}
+
+Button.defaultProps = {
+  target: '_self',
+};
+
+const Logo = props => (
+  <div className="projectLogo">
+    <img src={props.img_src} />
+  </div>
+);
+
+const MainPage = props => (
+  <div
+    className="showcaseSection paddingBottom"
+    style={{ textAlign: 'center' }}>
+    <div className="tableofcontents">
+      <p>
+        Food Tech related static data in json arrays, like recipes, ingredients, recipes, diets, allergies, etc.
+      </p>
+      <p>
+        In a few our projects we have a similar files. And we always copy-paste code between them. So by moving this code into separated place - i hope we'll make our projects better.
+      </p>
+    </div>
+  </div>
+);
+//--
 
 
 
