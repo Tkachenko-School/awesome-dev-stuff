@@ -20,6 +20,7 @@ https://www.google.com/search?q=hiring+interns+uk&oq=hiring+interns&aqs=chrome.3
 - **[Diversity in tech how one vc firm is partnering with historically black colleges to address the pipeline issue]**(https://www.forbes.com/sites/ruthumoh/2019/03/13/diversity-in-tech-how-one-vc-firm-is-partnering-with-historically-black-colleges-to-address-the-pipeline-issue/#3b6cccca12fa)
 - **[The problems in remote working]**(https://medium.com/@rrhoover/the-problems-in-remote-working-1a6f165585d)
 - **[Summer 2019 internships]**(https://github.com/christine-hu/summer-2019-internships)
+- **[Open Source Internships]**(https://github.com/tapaswenipathak/Open-Source-Internships)
 
 - **[What i learned when choosing my internship]**(https://www.intercom.com/blog/what-i-learned-when-choosing-my-internship/)
 - **[Inbound recruiting engineers]**(https://www.intercom.com/blog/inbound-recruiting-engineers/)
