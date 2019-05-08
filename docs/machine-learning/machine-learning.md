@@ -6,6 +6,7 @@ sidebar_label: Machine learning
 
 
 #### Machine Learning
+- **[5 Best Artificial Intelligence & Machine Learning Books in 2019]**(https://hackernoon.com/5-best-artificial-intelligence-machine-learning-books-in-2019-cc8b38f6ec8e)
 - **[Awesome speech recognition speech synthesis papers]**(https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 - **[Awesome machine learning]**(https://github.com/josephmisiti/awesome-machine-learning)
 - **[FastAI courses]**(https://github.com/fastai/courses)
