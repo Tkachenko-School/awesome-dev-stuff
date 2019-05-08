@@ -8,6 +8,7 @@ sidebar_label: CSS Tutorials
 #### CSS
 
 - **[CSS Tutorial]**(https://hackr.io/tutorials/learn-css)
+- **[The CSS Handbook: a handy guide to CSS for developers]**(https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11)
 - **[The complete web developer course - Udemy]**(https://www.udemy.com/the-complete-web-developer-course-2)
 - **[List of courses, related to CSS]**(https://www.udemy.com/topic/css/)
 - **[Learn the basics of CSS]**(https://www.udemy.com/learn-the-basic-of-css-with-course/)
