@@ -41,11 +41,7 @@ Open-source section with listing of projects that are part of our alliance, that
 ============
 
 
-For me, school is not only about teaching/learning.
-It's also touching a surface of recruitment processes. Where I have some bad thoughts for recruiters.
-Btw, as founder, I'm also hiring and recruiting.
-it's based on my experience and observations of how our local IT recruiters works.
-Most of them(80%) are low skilled, by my opinion. More  about HR topic I will drop later. Bur recruiting for IT/software is broken and need to be fixed. Because now it can harm developers and I',m always stood protecting developers.
+
 
 ===
 
