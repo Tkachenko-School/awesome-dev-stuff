@@ -63,7 +63,7 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - **[talent.hubstaff.com]**(https://talent.hubstaff.com/)
 - **[entrepreneur.com]**(https://www.entrepreneur.com/article/309994)
 
-
+https://swissdevjobs.ch/about
 
 
 #### AngelList Blog
