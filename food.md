@@ -25,3 +25,17 @@ https://github.com/ChickenKyiv/awesome-food-open-source/blob/master/diets.md
 At this repository i'm collecting some creative assets that we have.
 For example, we have basic sitemaps for recipe/meal planning projects, diffferent UI designs, etc.
 https://github.com/ChickenKyiv/creative
+
+
+====
+
+Cash: Deals => increase sign ups, make an additional money by having an intersections, etc.
+
+Developers: can sell a small stuff that they building
+Job boards with people, related to food tech background. Other lists of links...
+Testers can write a tests, as libraries
+Markupers can write blocks/pages, that can be user/purchased/changed.
+
+Open-source section with listing of projects that are part of our alliance, that may be easily changed and used later.
+
+============
