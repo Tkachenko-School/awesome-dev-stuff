@@ -27,7 +27,7 @@ sidebar_label: Stories
 
 
 - []()
-- []()
+- [Lessons I learned in my first months as a non-traditional software engineer](https://medium.freecodecamp.org/lessons-i-learned-in-my-first-months-as-a-non-traditional-software-engineer-ac2ada05ba14)
 - [How a Googler solves coding problems](https://blog.usejournal.com/how-a-googler-solves-coding-problems-ec5d59e73ec5)
 - [What I learned in my first year as a Software Engineer in a startup](https://medium.com/@clementb/what-i-learned-in-my-first-year-as-a-software-engineer-in-a-startup-c078161e5a8e)
 
