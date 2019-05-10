@@ -26,10 +26,12 @@ sidebar_label: JS
 - [](https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab)
 - [](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
 - [](https://hackernoon.com/catch-me-if-you-can-a-guide-to-debugging-f4af08f6724d)
-- []()
-- []()
-- []()
-- []()
+
+#### Plugins
+- [](https://frontstuff.io/setup-for-an-open-source-javascript-project)
+- [](https://github.com/commitizen/cz-cli)
+- [](https://github.com/okonet/lint-staged)
+- [](https://esdoc.org/)
 - []()
 - []()
 - []()

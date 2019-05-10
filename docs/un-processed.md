@@ -92,3 +92,10 @@ He sharing them frequently with his interns, and thinks you may like it too or f
 
 
 https://www.producthunt.com/stories/how-my-failed-startup-made-me-the-healthiest-version-of-myself?fbclid=IwAR1wleWrqE5jm8H8zw09d5YNudvQLcBySKUtib3K328hVnLmmX9CrJJS6gY
+
+
+https://medium.freecodecamp.org/lessons-i-learned-in-my-first-months-as-a-non-traditional-software-engineer-ac2ada05ba14
+
+https://hackernoon.com/why-theres-so-much-burnout-in-software-and-what-to-do-about-it-4ef0297ca7cc
+
+https://medium.freecodecamp.org/how-i-started-my-open-source-journey-after-being-demotivated-for-two-years-db4ebc6ecb84
