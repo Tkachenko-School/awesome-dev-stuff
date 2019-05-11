@@ -4,37 +4,59 @@ title: Internships
 sidebar_label: Internships
 ---
 
-## UK
-
-https://www.google.com/search?q=hiring+interns+uk&oq=hiring+interns&aqs=chrome.3.69i57j0l5.10319j0j1&sourceid=chrome&ie=UTF-8
+## UK internships
 
 - **[Employment rights for interns]**(https://www.gov.uk/employment-rights-for-interns)
 - **[Thinking of hiring an intern]**(https://hiring.monster.co.uk/hr/hr-best-practices/recruiting-hiring-advice/attracting-job-candidates/thinking-of-hiring-an-intern.aspx)
 - **[The law on unpaid internships know your rights]**(https://targetjobs.co.uk/internships/advice/275017-the-law-on-unpaid-internships-know-your-rights)
 - **[Initiative to crack down on unpaid internships launched in UK]**(https://www.theguardian.com/society/2018/feb/08/initiative-to-crack-down-on-unpaid-internships-launched-in-uk)
-- **[internwise.co.uk]**(https://www.internwise.co.uk/)
-- **[Hiring an intern]**(https://www.rocketlawyer.co.uk/article/hiring-an-intern.rl)
-- **[What happens when we stop looking at careers through the lens of]**(https://blog.dropbox.com/topics/work-culture/what-happens-when-we-stop-looking-at-careers-through-the-lens-of)
-- **[Why Naval Ravikant thinks remote work is the future?]**(https://angel.co/blog/why-naval-ravikant-thinks-remote-work-is-the-future)
 
-- **[Slogro posts - producthunt.com]**(https://www.producthunt.com/posts/slogro)
-- **[Newcraft]**(https://www.producthunt.com/posts/newcraft)
-- **[Diversity in tech how one vc firm is partnering with historically black colleges to address the pipeline issue]**(https://www.forbes.com/sites/ruthumoh/2019/03/13/diversity-in-tech-how-one-vc-firm-is-partnering-with-historically-black-colleges-to-address-the-pipeline-issue/#3b6cccca12fa)
-- **[The problems in remote working]**(https://medium.com/@rrhoover/the-problems-in-remote-working-1a6f165585d)
-- **[Summer 2019 internships]**(https://github.com/christine-hu/summer-2019-internships)
-- **[Open Source Internships]**(https://github.com/tapaswenipathak/Open-Source-Internships)
+- **[Hiring an intern]**(https://www.rocketlawyer.co.uk/article/hiring-an-intern.rl)
+
+
+
+More you can google yourself https://www.google.com/search?q=hiring+interns+uk&oq=hiring+interns&aqs=chrome.3.69i57j0l5.10319j0j1&sourceid=chrome&ie=UTF-8
+
+
+#### Intercom blogs
 
 - **[What i learned when choosing my internship]**(https://www.intercom.com/blog/what-i-learned-when-choosing-my-internship/)
+
 - **[Inbound recruiting engineers]**(https://www.intercom.com/blog/inbound-recruiting-engineers/)
+
 - **[How we hire engineers part-2 culture contribution]**(https://www.intercom.com/blog/how-we-hire-engineers-part-2-culture-contribution/)
 
 
-- **[RemoteOK.io - Remote Internships ]**(https://remoteok.io/remote-internships)
+
 
 
 -----------
 - **[Outreachy what how why?]**(https://medium.freecodecamp.org/outreachy-what-how-why-4fb60d10a228)
 - **[How i got a remote paid internship at mozilla through outreachy?]**(https://medium.freecodecamp.org/how-i-got-a-remote-paid-internship-at-mozilla-through-outreachy-60958fe9264a)
+
+#### Websites/projects
+
+
+- **[Summer 2019 internships]**(https://github.com/christine-hu/summer-2019-internships)
+- **[Open Source Internships]**(https://github.com/tapaswenipathak/Open-Source-Internships)
+
+
+- **[RemoteOK.io - Remote Internships ]**(https://remoteok.io/remote-internships)
+
+
+
+
+- **[Slogro posts - producthunt.com]**(https://www.producthunt.com/posts/slogro)
+- **[Newcraft]**(https://www.producthunt.com/posts/newcraft)
+
+
+- **[internwise.co.uk]**(https://www.internwise.co.uk/)
+
+
+
+#### Stories
+
+
 - **[10 things i learnt during my software engineering internship]**(https://medium.freecodecamp.org/10-things-i-learnt-during-my-software-engineering-internship-bb88369cb13c)
 - **[Applying for a product design internship]**(https://medium.com/@ericbburns/applying-for-a-product-design-internship-4b4e276475cb)
 - **[How to find a vc internship?]**(https://medium.com/@justinemoore_85088/how-to-find-a-vc-internship-4bf8401c4877)
@@ -53,3 +75,14 @@ https://www.google.com/search?q=hiring+interns+uk&oq=hiring+interns&aqs=chrome.3
 - **[How to hire and retain web developers?]**(https://www.roberthalf.com/blog/management-tips/how-to-hire-and-retain-web-developers)
 
 
+
+- **[Why Naval Ravikant thinks remote work is the future?]**(https://angel.co/blog/why-naval-ravikant-thinks-remote-work-is-the-future)
+
+
+
+- **[Diversity in tech how one vc firm is partnering with historically black colleges to address the pipeline issue]**(https://www.forbes.com/sites/ruthumoh/2019/03/13/diversity-in-tech-how-one-vc-firm-is-partnering-with-historically-black-colleges-to-address-the-pipeline-issue/#3b6cccca12fa)
+
+
+- **[The problems in remote working]**(https://medium.com/@rrhoover/the-problems-in-remote-working-1a6f165585d)
+
+- **[What happens when we stop looking at careers through the lens of]**(https://blog.dropbox.com/topics/work-culture/what-happens-when-we-stop-looking-at-careers-through-the-lens-of)
