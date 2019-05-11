@@ -6,6 +6,37 @@ sidebar_label: Free code courses
 
 Note: for different code languages there different platforms that better[rephrase]
 
+
+
+
+
+---
+- [Khanacademy](https://www.khanacademy.org/)
+- [Codecademy](https://www.codecademy.com/)
+- [Codehs](https://codehs.com/)
+- [Google developers portal - Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [Grasshopper codes](https://grasshopper.codes/)
+- [Hackpledge](https://hackpledge.org/)
+- [Codecademy](https://www.codecademy.com/)
+- [Curated Programming Resources - HTML and Javascript](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#html-css-and-javascript)
+- [Learn C](https://www.learn-c.org/)
+- [11 places to learn code for free in NYC and online](https://techdayhq.com/community/articles/11-places-to-learn-code-for-free-in-nyc-and-online)
+- [LearnPython](https://www.learnpython.org/)
+- [Codeconquest](https://www.codeconquest.com/)
+- [Tutsplus](https://tutsplus.com/)
+
+
+
+- [The best free resources to learn programming online in 2019](https://medium.com/quick-code/the-best-free-resources-to-learn-programming-online-in-2019-4dfe23a62c7f)
+- [Sololearn](https://www.sololearn.com/)
+- [5 free sites to learn to code](https://hackernoon.com/5-free-sites-to-learn-to-code-c9c87ce24f5d)
+- [Alistapart](https://alistapart.com/)
+- [W3schools](https://www.w3schools.com/)
+- [CodingDojo](https://www.codingdojo.com/)
+
+---------
+
+
 Different similar articles if you want to read more:
 
 - [What are the best sites to learn how to code for free](https://www.quora.com/What-are-the-best-sites-to-learn-how-to-code-for-free)
@@ -28,27 +59,3 @@ Different similar articles if you want to read more:
 - [64 online resources to learn to code for free](https://skillcrush.com/2016/03/15/64-online-resources-to-learn-to-code-for-free/)
 - [Top 25 websites to learn to code](https://dynomapper.com/blog/410-top-25-websites-to-learn-to-code)
 - [7 tips learn programming faster](https://www.codingdojo.com/blog/7-tips-learn-programming-faster)
-
-
-
----
-- [Khanacademy](https://www.khanacademy.org/)
-- [Codecademy](https://www.codecademy.com/)
-- [Codehs](https://codehs.com/)
-- [Google developers portal - Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [Grasshopper codes](https://grasshopper.codes/)
-- [Hackpledge](https://hackpledge.org/)
-- [Codecademy](https://www.codecademy.com/)
-- [Curated Programming Resources - HTML and Javascript](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#html-css-and-javascript)
-- [Learn C](https://www.learn-c.org/)
-- [11 places to learn code for free in NYC and online](https://techdayhq.com/community/articles/11-places-to-learn-code-for-free-in-nyc-and-online)
-- [LearnPython](https://www.learnpython.org/)
-- [Codeconquest](https://www.codeconquest.com/)
-- [Tutsplus](https://tutsplus.com/)
-
-- [The best free resources to learn programming online in 2019](https://medium.com/quick-code/the-best-free-resources-to-learn-programming-online-in-2019-4dfe23a62c7f)
-- [Sololearn](https://www.sololearn.com/)
-- [5 free sites to learn to code](https://hackernoon.com/5-free-sites-to-learn-to-code-c9c87ce24f5d)
-- [Alistapart](https://alistapart.com/)
-- [W3schools](https://www.w3schools.com/)
-- [CodingDojo](https://www.codingdojo.com/)

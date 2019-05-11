@@ -60,7 +60,6 @@ More you can google yourself https://www.google.com/search?q=hiring+interns+uk&o
 
 #### Stories
 
-
 - **[10 things i learnt during my software engineering internship]**(https://medium.freecodecamp.org/10-things-i-learnt-during-my-software-engineering-internship-bb88369cb13c)
 - **[Applying for a product design internship]**(https://medium.com/@ericbburns/applying-for-a-product-design-internship-4b4e276475cb)
 - **[How to find a vc internship?]**(https://medium.com/@justinemoore_85088/how-to-find-a-vc-internship-4bf8401c4877)
