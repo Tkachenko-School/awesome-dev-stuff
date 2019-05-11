@@ -4,6 +4,8 @@ title: Internships
 sidebar_label: Internships
 ---
 
+## UK
+
 https://www.google.com/search?q=hiring+interns+uk&oq=hiring+interns&aqs=chrome.3.69i57j0l5.10319j0j1&sourceid=chrome&ie=UTF-8
 
 - **[Employment rights for interns]**(https://www.gov.uk/employment-rights-for-interns)
