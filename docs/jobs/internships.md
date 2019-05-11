@@ -10,7 +10,6 @@ sidebar_label: Internships
 - **[Thinking of hiring an intern]**(https://hiring.monster.co.uk/hr/hr-best-practices/recruiting-hiring-advice/attracting-job-candidates/thinking-of-hiring-an-intern.aspx)
 - **[The law on unpaid internships know your rights]**(https://targetjobs.co.uk/internships/advice/275017-the-law-on-unpaid-internships-know-your-rights)
 - **[Initiative to crack down on unpaid internships launched in UK]**(https://www.theguardian.com/society/2018/feb/08/initiative-to-crack-down-on-unpaid-internships-launched-in-uk)
-
 - **[Hiring an intern]**(https://www.rocketlawyer.co.uk/article/hiring-an-intern.rl)
 
 
@@ -31,8 +30,13 @@ More you can google yourself https://www.google.com/search?q=hiring+interns+uk&o
 
 
 -----------
+
+
 - **[Outreachy what how why?]**(https://medium.freecodecamp.org/outreachy-what-how-why-4fb60d10a228)
 - **[How i got a remote paid internship at mozilla through outreachy?]**(https://medium.freecodecamp.org/how-i-got-a-remote-paid-internship-at-mozilla-through-outreachy-60958fe9264a)
+
+
+
 
 #### Websites/projects
 
@@ -64,6 +68,7 @@ More you can google yourself https://www.google.com/search?q=hiring+interns+uk&o
 - **[First steps for the internship]**(https://medium.com/hng-internship/first-steps-for-the-internship-8157b26f4c26)
 - **[Landing first internship]**(https://medium.com/@minhhoang_50731/landing-first-internship-2e27d0163d3e)
 - **[My first data scientist internship]**(https://towardsdatascience.com/my-first-data-scientist-internship-7f7aa2ee4040)
+
 - **[Landing a software engineering internship]**(https://medium.freecodecamp.org/landing-a-software-engineering-internship-66e0d541539a)
 - **[3 valuable lessons from my first ux design internship]**(https://uxplanet.org/3-valuable-lessons-from-my-first-ux-design-internship-2489ab31b9cb)
 - **[how-i-got-my-software-engineering-internship-after-4-months-of-self-study]**(https://medium.freecodecamp.org/how-i-got-my-software-engineering-internship-after-4-months-of-self-study-5b5c4836bd6f)
@@ -76,8 +81,6 @@ More you can google yourself https://www.google.com/search?q=hiring+interns+uk&o
 
 
 
-- **[Why Naval Ravikant thinks remote work is the future?]**(https://angel.co/blog/why-naval-ravikant-thinks-remote-work-is-the-future)
-
 
 
 - **[Diversity in tech how one vc firm is partnering with historically black colleges to address the pipeline issue]**(https://www.forbes.com/sites/ruthumoh/2019/03/13/diversity-in-tech-how-one-vc-firm-is-partnering-with-historically-black-colleges-to-address-the-pipeline-issue/#3b6cccca12fa)
@@ -86,3 +89,7 @@ More you can google yourself https://www.google.com/search?q=hiring+interns+uk&o
 - **[The problems in remote working]**(https://medium.com/@rrhoover/the-problems-in-remote-working-1a6f165585d)
 
 - **[What happens when we stop looking at careers through the lens of]**(https://blog.dropbox.com/topics/work-culture/what-happens-when-we-stop-looking-at-careers-through-the-lens-of)
+
+- **[Why Naval Ravikant thinks remote work is the future?]**(https://angel.co/blog/why-naval-ravikant-thinks-remote-work-is-the-future)
+
+- [How to Find Remote Work in 2019](https://hackernoon.com/finding-remote-work-in-2019-7927932f7b9?fbclid=IwAR1dTuyx-LISh67ldKNtYKbLTlMdnwFu8CGx01arHNY2EqEbXAIHN41voTg)
