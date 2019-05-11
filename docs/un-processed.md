@@ -99,3 +99,12 @@ https://medium.freecodecamp.org/lessons-i-learned-in-my-first-months-as-a-non-tr
 https://hackernoon.com/why-theres-so-much-burnout-in-software-and-what-to-do-about-it-4ef0297ca7cc
 
 https://medium.freecodecamp.org/how-i-started-my-open-source-journey-after-being-demotivated-for-two-years-db4ebc6ecb84
+
+
+
+https://github.com/trekhleb/javascript-algorithms
+https://github.com/micromata/awesome-javascript-learning
+https://github.com/ChristosChristofidis/awesome-deep-learning
+https://github.com/eriklindernoren/ML-From-Scratch
+https://github.com/ZuzooVn/machine-learning-for-software-engineers
+https://github.com/ossu/data-science
