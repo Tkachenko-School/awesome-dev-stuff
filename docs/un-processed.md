@@ -121,20 +121,4 @@ https://github.com/ossu/data-science
 -----
 
 
-
- i figure out that i have at least 28 drafts at medium (sick).
- will need to spend some time and lower the number.
- it can be done by maybe making articles less long, or how i learn with this writing process - if you stuck - you need to print your content, so you can read it while you resting and not using a PC.
- I'm not sure that this is a good idea to post all of them quickly - but some sort of a plan will help me to relief that content. actually, it's a job of HN editors to be worried about schedule, etc.
-
-
-      https://github.com/atherdon/artics/blob/master/Not%20finished/move%20later/beta2/beta
-      https://github.com/atherdon/artics/blob/master/Not%20finished/002-marketing-intern.md
-      https://github.com/atherdon/artics/blob/master/Not%20finished/roadmap-stuff-start
-      https://medium.com/p/191d2b51dec0/edit
-
-      https://medium.com/p/ef410338a7ce/edit
-
-      https://github.com/atherdon/artics/blob/master/Not%20finished/fast-cheap-recipe-website
-
-https://medium.com/p/9a979782db2d/edit
+--------------
