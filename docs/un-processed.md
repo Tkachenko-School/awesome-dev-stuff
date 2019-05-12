@@ -121,4 +121,53 @@ https://github.com/ossu/data-science
 -----
 
 
+
+
+
+
+My current workflow with new interns is:
+1) #name# do you have questions? nice to meet you!
+2) share my articles related to answers
+3) share articles about working with JS interns
+4) ask github account
+5) share a main link to a task, where all team are partying right now.
+6) Team lead receive a message at github from intern
+7) Team lead assign a task and
+8) after a few tasks - if intern dealing with them well - we add him to our github organization (Github.com)
+
+
+----
+
+ - Easy to see progress of chats
+ - Easy to add first tasks to new interns
+ - No needs to jump between different tools, websites, etc.
+ - No need chat via emails, any other CRMs like stuff(i was thinking about Hbuspot CRM, but it will just add work for me)
+ - Easy to share a similar messages
+ - Separated source of Leads.
+ - it will motivate a new interns, because they will be able to see that other people already starting.
+ - It's our own place, and we don't need to follow anyone rules, and it's free
+ - easy to manage. Same workflow as we have right now.
+ - Don't require a big, clean, fancy designed website-page
+ - I can tailor a Github Issue template at contributors repository. So no need nice forms
+ Or it can be a form that create a new issue at github. But i think it's not necessary middleman. it's no so cool/sexy/easy.
+ - I'll need to update Readme, in order to put all information there. But i'm good on it. Hail to me!
+ - I or someone else can assign tasks, or ask questions
+ - it'll be easy to add people to our GS org team
+ - easy to move people from me to team lead hands. can be done very easy for me. and quick.
+ - easy to get/manage notifications. because it's github and i'm always there.
+ - easy to get Github username of intern, without asking it.
+ - easy to ask resume links, images for team page.
+ - I can send basic links, our open message and have it at one place.
+ - we don't need to think about project name(FUh). Because this repository is part of GS org. And I'm lazy to change anything. And also Groceristar have a popular profile at AngelList, and growing from scratch again - will take some time and enegry. this will only spend our time and hold us back for launching.
+
+
+
+
+
+
+
 --------------
+
+
+I forget to tell that at some place in Google Docs I keep a database of 700 restaurants, located near Dallas Great Area.
+This is one of my oldest ideas and research. Maybe with my current workflow with building projects i'll show that data as well soon. Or maybe it's better to just dump that data online? Don't know right now. Major thing there is: huuge number of those restaurants websites sucks, nobody replying to contact form requests, no online reservation(50% at least, only you can book table by phone) -> thanks that you don't need to send pigeons with letters for request for eating food. 
