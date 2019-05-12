@@ -4,7 +4,6 @@ title: Jest
 sidebar_label: Jest
 ---
 
-- https://github.com/ChickenKyiv/awesome-jest-articles
 
 
 More details are here:

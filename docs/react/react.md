@@ -5,7 +5,6 @@ sidebar_label: Articles related to React universe
 ---
 
 
-#### react
 - [React makes you sad](https://github.com/gaearon/react-makes-you-sad)
 - [React lifecycle methods diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
 - [](https://github.com/azat-co/react)

@@ -63,7 +63,7 @@ class Footer extends React.Component {
           </div>
         </section>
 
-        <section className="copyright">Amazing artwork by ManyPixels team.
+        <section className="copyright">Amazing artwork by ManyPixels team. &nbsp;
           <a href="https://gallery.manypixels.co/?ref=producthunt">
             From ManyPixels Illustrations Gallery
           </a>

@@ -5,7 +5,6 @@ sidebar_label: React children
 ---
 
 
-#### REACT children
 - [Reactjs documentation - composition vs inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
 - [](https://github.com/facebook/react/issues/3226)
 - [](https://gist.github.com/mikeyamadeo/6bdbbfde7ff0e1c3cf3c)

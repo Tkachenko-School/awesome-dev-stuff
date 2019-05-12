@@ -108,3 +108,26 @@ https://github.com/ChristosChristofidis/awesome-deep-learning
 https://github.com/eriklindernoren/ML-From-Scratch
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
 https://github.com/ossu/data-science
+
+
+
+
+
+
+
+
+
+
+-----
+
+
+
+
+      https://github.com/atherdon/artics/blob/master/Not%20finished/move%20later/beta2/beta
+      https://github.com/atherdon/artics/blob/master/Not%20finished/002-marketing-intern.md
+      https://github.com/atherdon/artics/blob/master/Not%20finished/roadmap-stuff-start
+      https://medium.com/p/191d2b51dec0/edit
+
+      https://medium.com/p/ef410338a7ce/edit
+
+      https://github.com/atherdon/artics/blob/master/Not%20finished/fast-cheap-recipe-website

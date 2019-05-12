@@ -4,7 +4,8 @@ title: Free code courses
 sidebar_label: Free code courses
 ---
 
-Note: for different code languages there different platforms that better[rephrase]
+Note: for different code languages there different platforms that better working for students.
+
 
 
 

@@ -5,8 +5,6 @@ sidebar_label: Styling
 ---
 
 
----
-#### styling
 
 - **[Styling React components]**(https://medium.com/@colebemis/styling-react-components-6dc1ac53c574)
 - **[4 four ways to style react components]**(https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822)
@@ -33,6 +31,3 @@ sidebar_label: Styling
 - **[React reusable component state]**(https://hackernoon.com/react-reusable-component-state-805163dc355)
 - **[Javascript template literals and-styled components]**(https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd)
 - **[Building a reusable component system with React.js and styled components]**(https://levelup.gitconnected.com/building-a-reusable-component-system-with-react-js-and-styled-components-4e9f1018a31c)
-
-
-

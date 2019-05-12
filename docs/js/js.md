@@ -5,7 +5,6 @@ sidebar_label: JS
 ---
 
 
-#### js
 - [](https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c)
 - [](https://medium.freecodecamp.org/constant-confusion-why-i-still-use-javascript-function-statements-984ece0b72fd)
 - [](https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa)

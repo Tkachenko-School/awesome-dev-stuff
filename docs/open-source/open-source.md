@@ -5,7 +5,6 @@ sidebar_label: Open source
 ---
 
 
-#### Open Source
 - **[How to contribute to open source]**(https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 - **[GitHub issue templates]**(https://github.com/stevemao/github-issue-templates)
 - **[GitHub changelog generator]**(https://github.com/github-changelog-generator/github-changelog-generator)

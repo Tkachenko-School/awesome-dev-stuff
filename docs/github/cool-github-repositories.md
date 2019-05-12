@@ -5,7 +5,6 @@ sidebar_label: cool-github-repositories
 ---
 
 
-#### cool github repositories
 - **[curated programming resources]**(https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
 - **[Free Programming Tutorials]**(https://github.com/keyuls/Free-Programming-Tutorials/blob/master/free-programming-courses.md)
 - **[Front End Design Checklist]**(https://github.com/thedaviddias/Front-End-Design-Checklist)
