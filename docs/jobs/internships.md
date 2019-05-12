@@ -4,18 +4,6 @@ title: Internships
 sidebar_label: Internships
 ---
 
-## UK internships
-
-- **[Employment rights for interns]**(https://www.gov.uk/employment-rights-for-interns)
-- **[Thinking of hiring an intern]**(https://hiring.monster.co.uk/hr/hr-best-practices/recruiting-hiring-advice/attracting-job-candidates/thinking-of-hiring-an-intern.aspx)
-- **[The law on unpaid internships know your rights]**(https://targetjobs.co.uk/internships/advice/275017-the-law-on-unpaid-internships-know-your-rights)
-- **[Initiative to crack down on unpaid internships launched in UK]**(https://www.theguardian.com/society/2018/feb/08/initiative-to-crack-down-on-unpaid-internships-launched-in-uk)
-- **[Hiring an intern]**(https://www.rocketlawyer.co.uk/article/hiring-an-intern.rl)
-
-
-
-More you can google yourself https://www.google.com/search?q=hiring+interns+uk&oq=hiring+interns&aqs=chrome.3.69i57j0l5.10319j0j1&sourceid=chrome&ie=UTF-8
-
 
 #### Intercom blogs
 
@@ -91,4 +79,18 @@ More you can google yourself https://www.google.com/search?q=hiring+interns+uk&o
 
 - **[Why Naval Ravikant thinks remote work is the future?]**(https://angel.co/blog/why-naval-ravikant-thinks-remote-work-is-the-future)
 
-- [How to Find Remote Work in 2019](https://hackernoon.com/finding-remote-work-in-2019-7927932f7b9?fbclid=IwAR1dTuyx-LISh67ldKNtYKbLTlMdnwFu8CGx01arHNY2EqEbXAIHN41voTg)
+- [How to Find Remote Work in 2019](https://hackernoon.com/finding-remote-work-in-2019-7927932f7b9)
+
+
+
+## UK internships
+
+- **[Employment rights for interns]**(https://www.gov.uk/employment-rights-for-interns)
+- **[Thinking of hiring an intern]**(https://hiring.monster.co.uk/hr/hr-best-practices/recruiting-hiring-advice/attracting-job-candidates/thinking-of-hiring-an-intern.aspx)
+- **[The law on unpaid internships know your rights]**(https://targetjobs.co.uk/internships/advice/275017-the-law-on-unpaid-internships-know-your-rights)
+- **[Initiative to crack down on unpaid internships launched in UK]**(https://www.theguardian.com/society/2018/feb/08/initiative-to-crack-down-on-unpaid-internships-launched-in-uk)
+- **[Hiring an intern]**(https://www.rocketlawyer.co.uk/article/hiring-an-intern.rl)
+
+
+
+More you can google yourself https://www.google.com/search?q=hiring+interns+uk&oq=hiring+interns&aqs=chrome.3.69i57j0l5.10319j0j1&sourceid=chrome&ie=UTF-8
