@@ -117,15 +117,5 @@ https://github.com/ossu/data-science
 -----
 
 
-My current workflow with new interns is:
-1) #name# do you have questions? nice to meet you!
-2) share my articles related to answers
-3) share articles about working with JS interns
-4) ask github account
-5) share a main link to a task, where all team are partying right now.
-6) Team lead receive a message at github from intern
-7) Team lead assign a task and
-8) after a few tasks - if intern dealing with them well - we add him to our github organization (Github.com)
-
 
 ----
