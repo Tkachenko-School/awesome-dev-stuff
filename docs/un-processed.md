@@ -45,10 +45,13 @@ https://blog.actiondesk.io/the-story-of-a-failed-launch-or-why-were-going-back-t
 
 
 https://blog.stephsmith.io/best-practices-managing-remote-teams/
+
 https://coderstory.io/interviews/running-the-race-at-your-own-speed
 
 
 https://jobbatical.com/international-hiring/?utm_source=facebook&utm_medium=cpc&utm_campaign=remarketing&fbclid=IwAR2iy8oTpDxmwnANb47hDUVdSNKzIE5ZbCpXLjvOVcUdRLKwW4wyuA5xIkU
+
+--------------
 
 
 https://uxplanet.org/how-being-comfortable-with-discomfort-led-to-success-in-my-design-career-459978b41db
@@ -85,7 +88,7 @@ https://www.indiehackers.com/interview/e9beed1695?utm_source=Indie+Hackers+Newsl
 
 https://www.indiehackers.com/interview/54dea274de?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-2051&utm_medium=email
 
-
+------------------
 Welcome to awesome-dev-stuff(yeah, I should find a better name).
 It's a place, where I(Arthur) keeping all links, related to coding in my company.
 He sharing them frequently with his interns, and thinks you may like it too or find interesting.
@@ -111,18 +114,7 @@ https://github.com/ossu/data-science
 
 
 
-
-
-
-
-
-
-
 -----
-
-
-
-
 
 
 My current workflow with new interns is:
