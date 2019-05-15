@@ -114,6 +114,7 @@ https://github.com/ossu/data-science
 
 
 
+https://icproject.com/en/blog/comparision-of-50-best-project-management-systems
 -----
 
 
