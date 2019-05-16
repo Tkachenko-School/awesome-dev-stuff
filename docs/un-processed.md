@@ -118,5 +118,15 @@ https://icproject.com/en/blog/comparision-of-50-best-project-management-systems
 -----
 
 
-
+https://blog.usejournal.com/upwork-banned-after-3-years-and-50k-earned-for-being-unshaven-6b1450af2572
+https://www.indiehackers.com/post/be77a7fc52
+https://www.indiehackers.com/post/29020022ef
+https://www.indiehackers.com/post/eaf5cb8ac5
+https://www.indiehackers.com/interview/834fc7820a
+https://www.indiehackers.com/podcast/092-derek-andersen-and-david-spinks-of-bevy
+https://www.indiehackers.com/interview/f043e22a2b
+https://medium.freecodecamp.org/copying-stuff-in-javascript-how-to-differentiate-between-deep-and-shallow-copies-b6d8c1ef09cd
+https://uxplanet.org/identifying-design-company-fit-50a5de115076
+https://medium.freecodecamp.org/how-to-be-a-great-programmer-34939494996d
+https://medium.freecodecamp.org/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d
 ----
