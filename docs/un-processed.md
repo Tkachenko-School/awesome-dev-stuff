@@ -130,3 +130,15 @@ https://uxplanet.org/identifying-design-company-fit-50a5de115076
 https://medium.freecodecamp.org/how-to-be-a-great-programmer-34939494996d
 https://medium.freecodecamp.org/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d
 ----
+
+
+https://www.indiehackers.com/interview/83ee0e0cbb
+https://blog.usejournal.com/building-a-seed-stage-venture-firm-c432816ce45e
+https://www.indiehackers.com/interview/5ab4e4eeb0
+https://www.indiehackers.com/podcast/084-tim-soulo-of-ahrefs
+https://www.indiehackers.com/interview/3ae5863ff7
+https://blog.usejournal.com/this-advice-may-save-your-life-one-day-it-saved-my-wifes-life-this-week-44b252959d41
+https://www.indiehackers.com/podcast/089-matt-verlaque-of-uplaunch
+https://www.indiehackers.com/interview/075af15c98
+https://www.indiehackers.com/interview/741caf8330
+https://blog.bitsrc.io/building-a-consistent-ui-design-system-4481fb37470f
