@@ -151,3 +151,4 @@ We can use whatever is better for you to chat. my email is saalaure@gmail.com
 
 
 https://medium.com/@tipsnguts/should-i-follow-up-after-interview-243a18e27211
+https://medium.freecodecamp.org/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d
