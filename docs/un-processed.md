@@ -142,3 +142,9 @@ https://www.indiehackers.com/podcast/089-matt-verlaque-of-uplaunch
 https://www.indiehackers.com/interview/075af15c98
 https://www.indiehackers.com/interview/741caf8330
 https://blog.bitsrc.io/building-a-consistent-ui-design-system-4481fb37470f
+
+
+
+https://hackernoon.com/10-life-lessons-from-8-startups-4ab261b784d3?fbclid=IwAR3C_ug4WZqY3y88FwYbGOdGv_Mvd41Nqoi2eoOYuVzl5PcmZmWrW3g8jJs
+If you need some help let me now. I can help on food database, and diet also.
+We can use whatever is better for you to chat. my email is saalaure@gmail.com
