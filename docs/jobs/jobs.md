@@ -116,6 +116,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976 -->
 
 - **[Frustrated at work that might just lead to your next breakthrough]**(https://www.nytimes.com/2019/03/08/smarter-living/frustrated-at-work-that-might-just-lead-to-your-next-breakthrough.html)
 - **[10 machine learning ai startups hiring the most right now]**(https://angel.co/job-collections/10-machine-learning-ai-startups-hiring-the-most-right-now)
+
 - **[4 perks recruiters will pitch you and what you should consider]**(https://angel.co/blog/4-perks-recruiters-will-pitch-you-and-what-you-should-consider)
 
 
@@ -124,9 +125,17 @@ https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976 -->
 
 - **[Work in estonia]**(https://jobbatical.com/blog/work-in-estonia/)
 
+
+
+
 - **[You need this to get a junior developer job]**(https://www.youtube.com/watch?v=rnP74z0n3Ms)
 
+
+
 - **[codeinstitute.net]**(https://codeinstitute.net/)
+
+
+
 
 - **[Why you should apply to an engineering jobs you aren't qualified for]**(https://angel.co/blog/why-you-should-apply-to-engineering-jobs-you-arent-qualified-for)
 
@@ -143,4 +152,14 @@ https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976 -->
 
 - **[Why i fired all mediocre recruitment consultants Leighanne Mcaleer]**(https://www.linkedin.com/pulse/why-i-fired-all-mediocre-recruitment-consultants-leighanne-mcaleer/)
 
+
+
 - **[Remotive 3.0]**(https://www.producthunt.com/posts/remotive-3-0)
+
+
+https://www.producthunt.com/posts/marketerhire
+https://jobbatical.com/international-hiring/
+
+https://blog.stephsmith.io/best-practices-managing-remote-teams/
+
+https://www.failory.com/blog/how-to-hire-developers
