@@ -4,6 +4,7 @@ title: Create npm module
 sidebar_label: Create npm module
 ---
 
+<!--  Add TOC here  -->
 
 - **[Javascript library starter using webpack es6]**(http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6)
 - **[So you wanna use es6 modules]**(https://medium.com/@kelin2025/so-you-wanna-use-es6-modules-714f48b3a953)
@@ -100,4 +101,3 @@ sidebar_label: Create npm module
 - **[Fruit #readme]**(https://github.com/jaebradley/fruit#readme)
 - **[How to write a Javascript library automating releases with semantic release]**(https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automating-releases-with-semantic-release)
 - **[Semantic release]**(https://github.com/semantic-release/semantic-release)
-

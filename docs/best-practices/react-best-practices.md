@@ -3,7 +3,6 @@ id: react-best-practices
 title: React Best practices
 ---
 
-#### best stuff
 
 - [Our best practices for writing React components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8)
 - [React Dynamic creation of list item inside component](https://stackoverflow.com/questions/46514351/react-dynamic-creation-of-list-item-inside-component)
@@ -17,5 +16,6 @@ title: React Best practices
 - [10 Libraries that Make React Native Development Easier and Faster](https://www.moveoapps.com/blog/libraries-that-make-react-native-development-easier-and-faster/)
 - [9 libraries to consider for your next React Native project](https://blog.kiprosh.com/9-libraries-to-consider-for-your-next-react-native-project-723f179d4764/)
 - [Essential React Libraries in 2019](https://www.robinwieruch.de/essential-react-libraries-framework/)
-- []()
-- []()
+
+<!-- - []()
+- []() -->

@@ -15,27 +15,19 @@ sidebar_label: Internships
 
 
 
-
-
------------
-
 #### https://www.outreachy.org/
 - **[Outreachy what how why?]**(https://medium.freecodecamp.org/outreachy-what-how-why-4fb60d10a228)
 - **[How i got a remote paid internship at mozilla through outreachy?]**(https://medium.freecodecamp.org/how-i-got-a-remote-paid-internship-at-mozilla-through-outreachy-60958fe9264a)
 
 
 
-
 #### Websites/projects
-
 
 - **[Summer 2019 internships]**(https://github.com/christine-hu/summer-2019-internships)
 - **[Open Source Internships]**(https://github.com/tapaswenipathak/Open-Source-Internships)
 
 
 - **[RemoteOK.io - Remote Internships ]**(https://remoteok.io/remote-internships)
-
-
 
 
 - **[Slogro posts - producthunt.com]**(https://www.producthunt.com/posts/slogro)

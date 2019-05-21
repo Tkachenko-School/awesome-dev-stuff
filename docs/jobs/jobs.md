@@ -91,12 +91,12 @@ https://swissdevjobs.ch/about
 
 -
 
-add freebootcamp articles like how-i=got-job
+<!-- add freebootcamp articles like how-i=got-job
 
 find 200 different posts at LI and repost them inside one project.
 make it embed or just clone with credits?
 https://www.linkedin.com/search/results/content/?keywords=hiring%20interns&origin=SWITCH_SEARCH_VERTICAL
-https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976
+https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976 -->
 
 -
 - **[Are millennials having an impact on job tenure?]**(https://www.cvtimeline.com/are-millennials-having-an-impact-on-job-tenure/)

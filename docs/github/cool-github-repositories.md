@@ -23,7 +23,8 @@ sidebar_label: cool-github-repositories
 - **[CSS guidelines]**(https://github.com/csswizardry/CSS-Guidelines)
 - **[CSSguidelin.es]**(https://cssguidelin.es/)
 - **[This startup wants to disrupt education by paying you 10000 learn code]**(https://www.goodnet.org/articles/this-startup-wants-to-disrupt-education-by-paying-you-10000-learn-code)
+
+<!-- - []()
 - []()
 - []()
-- []()
-- []()
+- []() -->
