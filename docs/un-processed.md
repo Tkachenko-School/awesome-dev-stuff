@@ -165,3 +165,36 @@ https://medium.freecodecamp.org/what-programming-language-should-i-learn-first-%
 
 
 https://uxdesign.cc/i-turned-my-interview-task-for-google-into-a-startup-877943fb3b34
+
+
+---
+
+
+
+
+jobs-not-only-but?
+
+https://hackernoon.com/the-future-of-dev-analytics-6e0e5bb91b1b
+https://angel.co/alpha/stories/maisie-williams-talent-discovery-startup-daisie-raises-2-5-million-hits-100k-members-1292
+https://hackernoon.com/how-to-easily-share-reusable-modules-in-node-js-at-scale-daaab9f0f41d
+
+https://hackernoon.com/marketing-301-for-engineers-strategy-planning-2e4473fcc879
+https://hackernoon.com/how-to-write-good-user-stories-97ae48b4b34a
+
+https://hackernoon.com/ci-cd-ingredients-for-success-2031cf7ad152
+
+https://hackernoon.com/what-does-a-senior-engineer-look-like-6fd59520a11e
+https://hackernoon.com/the-future-of-software-development-modular-intelligent-and-rickety-e24de6d5102f
+
+https://hackernoon.com/burnout-budget-smudget-and-you-cant-phone-home-9867533249f9
+https://hackernoon.com/when-do-you-become-a-developer-80c40f5fc008
+https://hackernoon.com/one-secret-to-becoming-a-great-software-engineer-read-code-467e31f243b0
+
+
+
+https://hackernoon.com/how-online-coding-schools-are-helping-to-reimagine-adult-education-in-tech-dbff12fd521a
+
+https://hackernoon.com/teaching-masters-degree-frontend-engineering-the-amazon-way-733853409b59
+
+https://medium.freecodecamp.org/a-beginners-guide-to-git-how-to-create-your-first-github-project-c3ff53f56861
+https://blog.mirumee.com/schema-first-graphql-the-road-less-travelled-cf0e50d5ccff

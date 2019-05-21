@@ -115,6 +115,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976 -->
 
 
 - **[Frustrated at work that might just lead to your next breakthrough]**(https://www.nytimes.com/2019/03/08/smarter-living/frustrated-at-work-that-might-just-lead-to-your-next-breakthrough.html)
+
 - **[10 machine learning ai startups hiring the most right now]**(https://angel.co/job-collections/10-machine-learning-ai-startups-hiring-the-most-right-now)
 
 - **[4 perks recruiters will pitch you and what you should consider]**(https://angel.co/blog/4-perks-recruiters-will-pitch-you-and-what-you-should-consider)
@@ -157,9 +158,11 @@ https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976 -->
 - **[Remotive 3.0]**(https://www.producthunt.com/posts/remotive-3-0)
 
 
-https://www.producthunt.com/posts/marketerhire
+<!-- https://www.producthunt.com/posts/marketerhire
 https://jobbatical.com/international-hiring/
 
 https://blog.stephsmith.io/best-practices-managing-remote-teams/
 
 https://www.failory.com/blog/how-to-hire-developers
+
+https://community.hackernoon.com/t/future-in-remote-working/2730/5 -->
