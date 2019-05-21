@@ -24,17 +24,17 @@ sidebar_label: Articles related to React universe
 - [A way to learn React](https://itnext.io/a-way-to-learn-react-b95056eafebb)
 - [The amazing render props pattern for ReactJS lifecycle be gone](https://itnext.io/the-amazing-render-props-pattern-for-react-js-lifecycle-begone-14e520fc3821)
 - [React suspense with GraphQL](https://medium.com/open-graphql/react-suspense-with-graphql-d95cdef46bfe)
-- []()
+<!-- - []()
 - []()
 - []()
 
 - []()
-- []()
+- []() -->
 - [How to deploy a React application to Netlify](https://medium.freecodecamp.org/how-to-deploy-a-react-application-to-netlify-363b8a98a985)
 - [How to test your React Redux application ](https://medium.com/asos-techblog/how-to-test-your-react-redux-application-48d90481a253)
 - [Advanced Redux patterns normalization](https://blog.brainsandbeards.com/advanced-redux-patterns-normalisation-6b9a5aa46e1f)
 - [Advanced Redux patterns selectors](https://blog.brainsandbeards.com/advanced-redux-patterns-selectors-cb9f88381d74)
-- []()
+<!-- - []()
 - []()
 - []()
 - []()
@@ -42,7 +42,7 @@ sidebar_label: Articles related to React universe
 
 
 - []()
-- []()
+- []() -->
 - [Building a React autocomplete component from scratch](https://blog.bitsrc.io/building-a-react-autocomplete-component-from-scratch-3f4d5618aa14)
 - [Advanced TypeScript with examples](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
 - [React bake from scratch or box javascript version Part 1](https://codeburst.io/react-bake-from-scratch-or-box-javascript-version-part-1-149994a1adda)
@@ -56,15 +56,15 @@ sidebar_label: Articles related to React universe
 - [A Quick intro to high order functions in javascript](https://medium.freecodecamp.org/a-quick-intro-to-higher-order-functions-in-javascript-1a014f89c6b)
 - [How to get started with GraphQL](https://medium.com/@PrinceAshburton/how-to-get-started-with-graphql-a3fbe3d154a1)
 - [JSX in depth](https://reactjs.org/docs/jsx-in-depth.html)
+<!-- - []()
 - []()
 - []()
 - []()
 - []()
 - []()
-- []()
-- []()
+- []() -->
 
--
+
 
 ++
 [Educative.io collection](https://www.educative.io/collection/5661736652767232/5629499534213120)
