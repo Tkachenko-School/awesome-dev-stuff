@@ -198,3 +198,7 @@ https://hackernoon.com/teaching-masters-degree-frontend-engineering-the-amazon-w
 
 https://medium.freecodecamp.org/a-beginners-guide-to-git-how-to-create-your-first-github-project-c3ff53f56861
 https://blog.mirumee.com/schema-first-graphql-the-road-less-travelled-cf0e50d5ccff
+
+https://www.intercom.com/blog/product-designer-career/
+https://hackernoon.com/what-does-a-senior-engineer-look-like-6fd59520a11e
+https://hackernoon.com/the-future-of-software-development-modular-intelligent-and-rickety-e24de6d5102f
