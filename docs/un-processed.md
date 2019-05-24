@@ -202,3 +202,6 @@ https://blog.mirumee.com/schema-first-graphql-the-road-less-travelled-cf0e50d5cc
 https://www.intercom.com/blog/product-designer-career/
 https://hackernoon.com/what-does-a-senior-engineer-look-like-6fd59520a11e
 https://hackernoon.com/the-future-of-software-development-modular-intelligent-and-rickety-e24de6d5102f
+
+
+https://medium.com/ilao/5-reasons-to-build-a-remote-company-3ff832b97017
