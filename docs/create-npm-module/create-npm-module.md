@@ -102,3 +102,11 @@ sidebar_label: Create npm module
 - **[Fruit #readme]**(https://github.com/jaebradley/fruit#readme)
 - **[How to write a Javascript library automating releases with semantic release]**(https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automating-releases-with-semantic-release)
 - **[Semantic release]**(https://github.com/semantic-release/semantic-release)
+
+
+<!-- https://docs.travis-ci.com/user/coveralls/
+https://github.com/dwyl/learn-coveralls.io
+https://www.youtube.com/watch?v=bt1iOy9lv0U
+https://docs.coveralls.io/
+https://stackoverflow.com/questions/39501417/how-can-i-connect-coveralls-and-travis-in-github
+https://medium.com/the-code-review/add-badges-for-travisci-coveralls-and-code-climate-to-your-readme-ruby-6d27caad74ed -->
