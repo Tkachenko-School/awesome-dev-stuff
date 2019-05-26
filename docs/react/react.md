@@ -56,7 +56,7 @@ sidebar_label: Articles related to React universe
 - [A Quick intro to high order functions in javascript](https://medium.freecodecamp.org/a-quick-intro-to-higher-order-functions-in-javascript-1a014f89c6b)
 - [How to get started with GraphQL](https://medium.com/@PrinceAshburton/how-to-get-started-with-graphql-a3fbe3d154a1)
 - [JSX in depth](https://reactjs.org/docs/jsx-in-depth.html)
-<!-- - []()
+<!-- - [](https://blog.logrocket.com/5-common-practices-that-you-can-stop-doing-in-react-9e866df5d269)
 - []()
 - []()
 - []()

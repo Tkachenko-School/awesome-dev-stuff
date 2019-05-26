@@ -31,8 +31,8 @@ sidebar_label: Stories
 - [How a Googler solves coding problems](https://blog.usejournal.com/how-a-googler-solves-coding-problems-ec5d59e73ec5)
 - [What I learned in my first year as a Software Engineer in a startup](https://medium.com/@clementb/what-i-learned-in-my-first-year-as-a-software-engineer-in-a-startup-c078161e5a8e)
 
-<!-- - []()
-- []() -->
+<!-- - [](https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2)
+- [](https://medium.freecodecamp.org/how-to-make-peace-with-deadlines-in-software-development-6cfe3e993f51) -->
 
 - [How I went from newbie to Software Engineer in 9 months while working full time](https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847)
 - [Answers to Ten Tricky Javascript Interview Questions](https://hackernoon.com/tricky-javascript-interview-questions-b67d5d278344)
@@ -42,4 +42,5 @@ sidebar_label: Stories
 - [Want to be a top developer? You should build things. Here’s another list to get you started.](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472)
 - [How To Improve The Odds Of Reaching Your Goals](https://medium.com/swlh/how-to-improve-the-odds-of-reaching-your-goals-71aff1ccf5c9)
 - [What’s the Difference Between a Programmer, Coder, Developer, and Engineer?](https://blog.codegiant.io/whats-the-difference-between-a-programmer-coder-developer-and-engineer-bd315404de7)
-<!-- - []() -->
+<!-- - [](https://medium.freecodecamp.org/the-most-important-skill-a-programmer-can-learn-9d410c786baf)
+ -->

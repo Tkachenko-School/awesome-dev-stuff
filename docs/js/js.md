@@ -33,7 +33,15 @@ sidebar_label: JS
 - [lint-staged](https://github.com/okonet/lint-staged)
 - [ESDoc](https://esdoc.org/)
 
-<!-- - []()
+<!-- - [](https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2)
 - []()
+- []()
+- []() -->
+
+
+<!--
+BOOK
+- [](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
+- [](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d)
 - []()
 - []() -->
