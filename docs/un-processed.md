@@ -33,11 +33,18 @@ https://medium.com/predict/implementing-quicksort-in-javascript-1874569ffaea
 
 https://coderstory.io/interviews/being-able-to-teach-what-youve-learned-is-key-to-your-knowledge
 
+
+
 https://www.failory.com/blog/how-to-hire-developers
+
+
+
 
 https://www.indiehackers.com/podcast/087-aj-of-carrd  
 
 https://makermag.com/2019/02/25/indie-makers-money/
+
+
 
 https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c
 
@@ -47,9 +54,19 @@ https://blog.actiondesk.io/the-story-of-a-failed-launch-or-why-were-going-back-t
 
 
 
+
+
+
 https://blog.stephsmith.io/best-practices-managing-remote-teams/
 
+
+
+
 https://coderstory.io/interviews/running-the-race-at-your-own-speed
+
+
+
+
 
 
 https://jobbatical.com/international-hiring/
@@ -66,6 +83,8 @@ https://medium.freecodecamp.org/why-graphql-is-the-future-of-apis-6a900fb0bc81
 
 https://hackernoon.com/3-ways-to-improve-experience-for-contributing-writers-e3e13a48b2e4
 
+
+
 https://www.producthunt.com/posts/marketerhire
 
 
@@ -79,19 +98,23 @@ https://marketingliftoff.thinkific.com/
 
 https://www.indiehackers.com/interview/7b1fbc0821
 
+
+
+
+
 https://medium.com/@clementb/what-i-learned-in-my-first-year-as-a-software-engineer-in-a-startup-c078161e5a8e
 
 https://www.failory.com/interview/genm
 
 https://medium.com/swlh/how-i-built-an-8-figure-marketing-team-from-scratch-4dccca716f1a
 
-https://www.indiehackers.com/interview/879d6f0892?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190206&utm_medium=email
+https://www.indiehackers.com/interview/879d6f0892
 
-https://www.indiehackers.com/podcast/079-julian-shapiro-of-bell-curve?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-2059&utm_medium=email
+https://www.indiehackers.com/podcast/079-julian-shapiro-of-bell-curve
 
-https://www.indiehackers.com/interview/e9beed1695?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190121&utm_medium=email
+https://www.indiehackers.com/interview/e9beed1695
 
-https://www.indiehackers.com/interview/54dea274de?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-2051&utm_medium=email
+https://www.indiehackers.com/interview/54dea274de
 
 ------------------
 Welcome to awesome-dev-stuff(yeah, I should find a better name).
@@ -104,7 +127,12 @@ https://www.producthunt.com/stories/how-my-failed-startup-made-me-the-healthiest
 
 https://medium.freecodecamp.org/lessons-i-learned-in-my-first-months-as-a-non-traditional-software-engineer-ac2ada05ba14
 
+
+
 https://hackernoon.com/why-theres-so-much-burnout-in-software-and-what-to-do-about-it-4ef0297ca7cc
+
+
+
 
 https://medium.freecodecamp.org/how-i-started-my-open-source-journey-after-being-demotivated-for-two-years-db4ebc6ecb84
 
@@ -124,6 +152,7 @@ https://icproject.com/en/blog/comparision-of-50-best-project-management-systems
 
 
 https://blog.usejournal.com/upwork-banned-after-3-years-and-50k-earned-for-being-unshaven-6b1450af2572
+
 https://www.indiehackers.com/post/be77a7fc52
 https://www.indiehackers.com/post/29020022ef
 https://www.indiehackers.com/post/eaf5cb8ac5
@@ -150,6 +179,8 @@ https://www.indiehackers.com/podcast/089-matt-verlaque-of-uplaunch
 https://www.indiehackers.com/interview/075af15c98
 https://www.indiehackers.com/interview/741caf8330
 https://blog.bitsrc.io/building-a-consistent-ui-design-system-4481fb37470f
+
+
 
 https://www.indiehackers.com/podcast/093-danielle-baskin-of-dialup
 
