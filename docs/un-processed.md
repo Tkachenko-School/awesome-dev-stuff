@@ -153,13 +153,6 @@ https://icproject.com/en/blog/comparision-of-50-best-project-management-systems
 
 https://blog.usejournal.com/upwork-banned-after-3-years-and-50k-earned-for-being-unshaven-6b1450af2572
 
-https://www.indiehackers.com/post/be77a7fc52
-https://www.indiehackers.com/post/29020022ef
-https://www.indiehackers.com/post/eaf5cb8ac5
-https://www.indiehackers.com/interview/834fc7820a
-https://www.indiehackers.com/podcast/092-derek-andersen-and-david-spinks-of-bevy
-https://www.indiehackers.com/interview/f043e22a2b
-
 https://medium.freecodecamp.org/copying-stuff-in-javascript-how-to-differentiate-between-deep-and-shallow-copies-b6d8c1ef09cd
 
 https://uxplanet.org/identifying-design-company-fit-50a5de115076
@@ -168,21 +161,34 @@ https://medium.freecodecamp.org/how-to-be-a-great-programmer-34939494996d
 https://medium.freecodecamp.org/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d
 ----
 
+https://blog.usejournal.com/building-a-seed-stage-venture-firm-c432816ce45e
+
+https://blog.usejournal.com/this-advice-may-save-your-life-one-day-it-saved-my-wifes-life-this-week-44b252959d41
+
+
 
 https://www.indiehackers.com/interview/83ee0e0cbb
-https://blog.usejournal.com/building-a-seed-stage-venture-firm-c432816ce45e
 https://www.indiehackers.com/interview/5ab4e4eeb0
 https://www.indiehackers.com/podcast/084-tim-soulo-of-ahrefs
 https://www.indiehackers.com/interview/3ae5863ff7
-https://blog.usejournal.com/this-advice-may-save-your-life-one-day-it-saved-my-wifes-life-this-week-44b252959d41
 https://www.indiehackers.com/podcast/089-matt-verlaque-of-uplaunch
 https://www.indiehackers.com/interview/075af15c98
 https://www.indiehackers.com/interview/741caf8330
+https://www.indiehackers.com/podcast/093-danielle-baskin-of-dialup
+
+https://www.indiehackers.com/post/be77a7fc52
+https://www.indiehackers.com/post/29020022ef
+https://www.indiehackers.com/post/eaf5cb8ac5
+https://www.indiehackers.com/interview/834fc7820a
+https://www.indiehackers.com/podcast/092-derek-andersen-and-david-spinks-of-bevy
+https://www.indiehackers.com/interview/f043e22a2b
+
+
+
+
 https://blog.bitsrc.io/building-a-consistent-ui-design-system-4481fb37470f
 
 
-
-https://www.indiehackers.com/podcast/093-danielle-baskin-of-dialup
 
 https://hackernoon.com/10-life-lessons-from-8-startups-4ab261b784d3
 If you need some help let me now. I can help on food database, and diet also.
