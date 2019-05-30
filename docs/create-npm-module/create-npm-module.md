@@ -89,7 +89,7 @@ sidebar_label: Create npm module
 
 - **[Babel-eslint #installation]**(https://github.com/babel/babel-eslint#installation)
 - **[How do i use experimental Javascriptes next features]**(https://standardjs.com/#how-do-i-use-experimental-javascript-es-next-features)
-- **[Github minify]**(https://github.com/babel/minify)
+- **[Babel minify plugin]**(https://github.com/babel/minify)
 - **[Webpack and rollup the same but different]**(https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
 - **[Node js tc 39 and modules]**(https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e)
 - **[Pkg.module]**(https://github.com/rollup/rollup/wiki/pkg.module)
