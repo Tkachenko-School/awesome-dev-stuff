@@ -102,3 +102,8 @@ https://www.mongodb.com/what-are-microservices
 https://dev.to/alex_barashkov/microservices-vs-monolith-architecture-4l1m
 https://www.prisma.io/with-db-microservices/
 https://itnext.io/microservices-with-spring-boot-and-spring-cloud-16d2c056ba12
+
+
+https://avinetworks.com/glossary/microservice/
+
+https://www.microservices.com/reference-architecture/
