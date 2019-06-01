@@ -17,5 +17,5 @@ title: React Best practices
 - [9 libraries to consider for your next React Native project](https://blog.kiprosh.com/9-libraries-to-consider-for-your-next-react-native-project-723f179d4764/)
 - [Essential React Libraries in 2019](https://www.robinwieruch.de/essential-react-libraries-framework/)
 
-<!-- - []()
+<!-- - [](https://hackernoon.com/set-up-eslint-in-atom-83dfb3d34fdf)
 - []() -->
