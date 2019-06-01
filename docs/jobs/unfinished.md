@@ -107,3 +107,27 @@ https://itnext.io/microservices-with-spring-boot-and-spring-cloud-16d2c056ba12
 https://avinetworks.com/glossary/microservice/
 
 https://www.microservices.com/reference-architecture/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+https://medium.com/oke-software-poland/reasonml-marvel-tutorial-part-0-e38e1bfe1866
+https://reasonml.github.io/
+https://github.com/arecvlohe/reasonml-cheat-sheet
+https://github.com/konsultaner/jsonOdm
