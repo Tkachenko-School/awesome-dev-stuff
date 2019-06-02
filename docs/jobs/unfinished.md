@@ -131,3 +131,38 @@ https://medium.com/oke-software-poland/reasonml-marvel-tutorial-part-0-e38e1bfe1
 https://reasonml.github.io/
 https://github.com/arecvlohe/reasonml-cheat-sheet
 https://github.com/konsultaner/jsonOdm
+
+
+
+
+
+
+
+
+// MyModel
+module.exports = {
+    attributes: {
+        field1: 'string',
+        field2: 'string',
+        field3: 'array'
+    }
+}
+
+---
+
+https://github.com/zeit/awesome-zeit
+https://github.com/amio/awesome-micro
+https://github.com/vadimdemedes/generator-micro-service
+https://github.com/hyperfuse/micro-graphql
+https://gist.github.com/rauchg/8199de60db48026a6670620a1c33b700
+
+
+https://github.com/zeit/micro
+https://github.com/zeit/micro#body-parsing-examples
+https://github.com/zeit/micro-dev
+https://zeit.co/blog/micro-8
+  https://github.com/zeit/now-examples/tree/master/nodejs
+  https://github.com/romuloalves/create-micro
+  https://builderbook.org/
+  https://async-await.com/
+  https://dev.to/julianduque/deploying-node-js-microservices-to-zeit-now-54j7
