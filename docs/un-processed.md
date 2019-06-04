@@ -1,14 +1,6 @@
 
 
 
-
-- []() https://babeljs.io/docs/en/config-files#6x-vs-7x-babelrc-loading
-
-- []() https://babeljs.io/docs/en/config-files#project-wide-configuration
-
-- []() https://babeljs.io/docs/en/plugins#react
-
-
 JSX && Conditional rendering
 
 - []() https://www.robinwieruch.de/conditional-rendering-react/
@@ -23,8 +15,13 @@ JSX && Conditional rendering
 - []() https://reactjs.org/docs/conditional-rendering.html
 
 
+
+
 module
 - []() https://github.com/rollup/rollup/issues/2646#issuecomment-455352098
+
+
+
 
 - []() https://medium.com/@fagnerbrack/a-smart-programmer-understands-the-problems-worth-fixing-dcf15871f943
 
@@ -35,14 +32,18 @@ module
 
 
 
+
+
+
 - []() https://www.failory.com/blog/how-to-hire-developers
 
 
 
 
-- []() https://www.indiehackers.com/podcast/087-aj-of-carrd  
 
 - []() https://makermag.com/2019/02/25/indie-makers-money/
+
+
 
 
 
@@ -66,37 +67,14 @@ module
 
 
 
-
-
-
-- []() https://jobbatical.com/international-hiring/
-
 --------------
 
 
 - []() https://uxplanet.org/how-being-comfortable-with-discomfort-led-to-success-in-my-design-career-459978b41db
 
-
-- []() https://www.indiehackers.com/interview/2127f50e61
-
 - []() https://medium.freecodecamp.org/why-graphql-is-the-future-of-apis-6a900fb0bc81
 
 - []() https://hackernoon.com/3-ways-to-improve-experience-for-contributing-writers-e3e13a48b2e4
-
-
-
-- []() https://www.producthunt.com/posts/marketerhire
-
-
-- []() https://www.indiehackers.com/interview/9cc3f61592
-
-- []() https://www.indiehackers.com/podcast/086-lynne-tye-of-key-values
-
-- []() https://www.indiehackers.com/interview/1eba4e8ab7
-
-- []() https://marketingliftoff.thinkific.com/
-
-- []() https://www.indiehackers.com/interview/7b1fbc0821
 
 
 
@@ -107,33 +85,6 @@ https://medium.com/@clementb/what-i-learned-in-my-first-year-as-a-software-engin
 - []() https://www.failory.com/interview/genm
 
 - []() https://medium.com/swlh/how-i-built-an-8-figure-marketing-team-from-scratch-4dccca716f1a
-
-- []() https://www.indiehackers.com/interview/879d6f0892
-
-- []() https://www.indiehackers.com/podcast/079-julian-shapiro-of-bell-curve
-
-- []() https://www.indiehackers.com/interview/e9beed1695
-
-- []() https://www.indiehackers.com/interview/54dea274de
-
-
-
-https://www.indiehackers.com/interview/83ee0e0cbb
-https://www.indiehackers.com/interview/5ab4e4eeb0
-https://www.indiehackers.com/podcast/084-tim-soulo-of-ahrefs
-https://www.indiehackers.com/interview/3ae5863ff7
-https://www.indiehackers.com/podcast/089-matt-verlaque-of-uplaunch
-https://www.indiehackers.com/interview/075af15c98
-https://www.indiehackers.com/interview/741caf8330
-https://www.indiehackers.com/podcast/093-danielle-baskin-of-dialup
-
-https://www.indiehackers.com/post/be77a7fc52
-https://www.indiehackers.com/post/29020022ef
-https://www.indiehackers.com/post/eaf5cb8ac5
-https://www.indiehackers.com/interview/834fc7820a
-https://www.indiehackers.com/podcast/092-derek-andersen-and-david-spinks-of-bevy
-https://www.indiehackers.com/interview/f043e22a2b
-
 
 
 ------------------
@@ -215,12 +166,11 @@ https://uxdesign.cc/i-turned-my-interview-task-for-google-into-a-startup-877943f
 
 
 
-
-jobs-not-only-but?
-
 https://hackernoon.com/the-future-of-dev-analytics-6e0e5bb91b1b
 
-https://angel.co/alpha/stories/maisie-williams-talent-discovery-startup-daisie-raises-2-5-million-hits-100k-members-1292
+
+
+
 
 https://hackernoon.com/how-to-easily-share-reusable-modules-in-node-js-at-scale-daaab9f0f41d
 
@@ -262,13 +212,6 @@ https://chatbots.studio/top-7-ai-chatbot-online-courses-of-2019-free-and-paid/
 
 
 
-
-https://docs.travis-ci.com/user/coveralls/
-https://github.com/dwyl/learn-coveralls.io
-https://www.youtube.com/watch?v=bt1iOy9lv0U
-https://docs.coveralls.io/
-https://stackoverflow.com/questions/39501417/how-can-i-connect-coveralls-and-travis-in-github
-https://medium.com/the-code-review/add-badges-for-travisci-coveralls-and-code-climate-to-your-readme-ruby-6d27caad74ed
 
 
 

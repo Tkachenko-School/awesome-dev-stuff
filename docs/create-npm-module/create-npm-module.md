@@ -40,6 +40,14 @@ sidebar_label: Create npm module
 
 
 
+
+<!-- - []() https://babeljs.io/docs/en/config-files#6x-vs-7x-babelrc-loading
+
+- []() https://babeljs.io/docs/en/config-files#project-wide-configuration
+
+- []() https://babeljs.io/docs/en/plugins#react -->
+
+
 #### Rollup.js
 - **[Rollupjs guide/en]**(https://rollupjs.org/guide/en)
 - **[Babel plugin file loader]**(https://github.com/sheerun/babel-plugin-file-loader)
