@@ -84,5 +84,5 @@ sidebar_label: Internships
 - **[Hiring an intern]**(https://www.rocketlawyer.co.uk/article/hiring-an-intern.rl)
 
 
-
-More you can google yourself https://www.google.com/search?q=hiring+interns+uk&oq=hiring+interns&aqs=chrome.3.69i57j0l5.10319j0j1&sourceid=chrome&ie=UTF-8
+<!--
+More you can google yourself https://www.google.com/search?q=hiring+interns+uk&oq=hiring+interns&aqs=chrome.3.69i57j0l5.10319j0j1&sourceid=chrome&ie=UTF-8 -->

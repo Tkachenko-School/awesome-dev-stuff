@@ -9,11 +9,16 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 "Train people well enough so they can leave. Treat them well enough so they don't want to."   -Richard Branson."
 
 - **[This startup wants to disrupt education by paying you 10000 learn code]**(https://www.goodnet.org/articles/this-startup-wants-to-disrupt-education-by-paying-you-10000-learn-code)
+
 - **[Managing remote teams a crash course]**(http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course)
+
 - **[Traits of exceptional engineers]**(https://www.intercom.com/blog/traits-of-exceptional-engineers)
 - **[Most common words job description]**(https://www.codementor.io/blog/most-common-words-job-description-4g4ax0gnw6)
+
 - **[Peakon atomico]**(https://techcrunch.com/2019/03/19/peakon-atomico/)
+
 - **[turing.ly]**(https://turing.ly/)
+
 - **[Pulse of talent 2018 retention throughout employee lifecycle]**(https://www.ceridian.com/resources/pulse-of-talent-2018-retention-throughout-employee-lifecycle)
 
 
@@ -21,18 +26,32 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 
 
 - **[Beta list jobs]**(https://www.producthunt.com/posts/betalist-jobs)
+
 - **[Remote friendly]**(https://www.producthunt.com/posts/remote-friendly)
+
 - **[Search startup job]**(https://www.producthunt.com/search?q=startup%20job)
 - **[Breakout producthunt]**(https://www.seedtable.com/breakout?ref=producthunt)
+
+
 - **[Reactjs interview questions]**(https://github.com/sudheerj/reactjs-interview-questions)
+
 - **[Frontend challenges]**(https://github.com/felipefialho/frontend-challenges)
+
 - **[Jobs - hackernoon.com]**(https://jobs.hackernoon.com/)
 - **[Job portal]**(https://www.productschool.com/job-portal/?ref=producthunt)
+
 - **[How students are funding and joining startups]**(https://techcrunch.com/2019/02/06/how-students-are-founding-funding-and-joining-startups/)
+
 - **[Software developer tips]**(https://www.siliconrepublic.com/advice/software-developer-tips)
+
 - **[Dear technical recruiter]**(https://medium.com/@periklisgkolias/dear-technical-recruiter-f6379e7c9d2d)
 
+
+
 - **[careerhunt.eu]**(https://careerhunt.eu/)
+
+
+
 
 - **[Summer of code with google]**(https://summerofcode.withgoogle.com/)
 
@@ -44,29 +63,44 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - **[microverse.org]**(https://www.microverse.org/)
 - **[sugarlabs.org]**(https://sugarlabs.org/)
 
+
+
 - **[Elin Ai coach for remote teams]**(https://www.producthunt.com/upcoming/elin-ai-coach-for-remote-teams)
 
-- **[pushfar.com]**(https://www.pushfar.com)
-- **[breakout.careers]**(https://breakout.careers/)
-- **[Algorithms in Javascript]**(https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
 
-- **[The problems in remote working]**(https://medium.com/@rrhoover/the-problems-in-remote-working-1a6f165585d)
+- **[pushfar.com]**(https://www.pushfar.com)
+
+- **[breakout.careers]**(https://breakout.careers/)
+
+- **[Algorithms in Javascript]**(https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
 
 
 
 
 - **[educative.io]**(https://www.educative.io/)
+
 - **[pathbase.io - producthunt]**(https://pathbase.io/?ref=producthunt)
+
 - **[joinblair.com - producthunt]**(https://joinblair.com/?utm_source=producthunt&ref=producthunt)
+
 - **[learningdollars.com]**(https://www.learningdollars.com/)
+
 - **[hackreactor.com]**(https://www.hackreactor.com/)
+
 - **[rbk.org]**(http://rbk.org/)
+
 - **[topuxschool.com]**(https://www.topuxschool.com/program/us?ref=producthunt)
+
 - **[Work in product - producthunt.com]**(https://www.producthunt.com/posts/work-in-product)
+
 - **[Jobs - producthunt.com]**(https://www.producthunt.com/jobs?ref=producthunt)
+
 - **[Product hired posts - producthunt.com]**(https://www.producthunt.com/posts/producthired)
+
 - **[remotetalent.co]**(http://remotetalent.co/)
+
 - **[talent.hubstaff.com]**(https://talent.hubstaff.com/)
+
 - **[entrepreneur.com]**(https://www.entrepreneur.com/article/309994)
 
 
@@ -122,7 +156,11 @@ https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976 -->
 
 
 
+
+
 - **[interns2startups.com]**(http://www.interns2startups.com/)
+
+
 
 - **[Work in estonia]**(https://jobbatical.com/blog/work-in-estonia/)
 
