@@ -20,6 +20,22 @@ https://www.producthunt.com/posts/teamstack
 - []() https://marketingliftoff.thinkific.com/
 
 
+- **[Remotive 3.0]**(https://www.producthunt.com/posts/remotive-3-0)
+
+
+
+<!-- https://www.producthunt.com/posts/marketerhire
+https://jobbatical.com/international-hiring/
+
+https://blog.stephsmith.io/best-practices-managing-remote-teams/
+
+https://www.failory.com/blog/how-to-hire-developers
+
+https://community.hackernoon.com/t/future-in-remote-working/2730/5
+
+https://www.producthunt.com/posts/talent-search
+
+-->
 
 
 

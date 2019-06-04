@@ -65,7 +65,6 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 
 
 
-- **[Elin Ai coach for remote teams]**(https://www.producthunt.com/upcoming/elin-ai-coach-for-remote-teams)
 
 
 - **[pushfar.com]**(https://www.pushfar.com)
@@ -108,6 +107,14 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 https://swissdevjobs.ch/about
 
 
+- **[interns2startups.com]**(http://www.interns2startups.com/)
+
+
+
+- **[Work in estonia]**(https://jobbatical.com/blog/work-in-estonia/)
+
+- **[codeinstitute.net]**(https://codeinstitute.net/)
+
 
 
 
@@ -127,6 +134,11 @@ https://swissdevjobs.ch/about
 - **[How to switch engineering jobs and actually like your new role]**(https://angel.co/blog/how-to-switch-engineering-jobs-and-actually-like-your-new-role)
 - **[How to recruit talent when youre competing with giants?]**(https://angel.co/blog/how-to-recruit-talent-when-youre-competing-with-giants)
 - **[Steve Blank how to keep your job as your startup grows?]**(https://angel.co/blog/steve-blank-how-to-keep-your-job-as-your-startup-grows)
+
+
+
+
+
 - **[How my friend got an internship at Tesla after only 8 months of coding?]**(https://hackernoon.com/how-my-friend-got-an-internship-at-tesla-after-only-8-months-of-coding-6578c32f3e77)
 
 
@@ -145,6 +157,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976 -->
 
 
 
+
 - **[Are millennials having an impact on job tenure?]**(https://www.cvtimeline.com/are-millennials-having-an-impact-on-job-tenure/)
 
 
@@ -156,23 +169,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976 -->
 
 
 
-- **[interns2startups.com]**(http://www.interns2startups.com/)
-
-
-
-- **[Work in estonia]**(https://jobbatical.com/blog/work-in-estonia/)
-
-
 
 
 - **[You need this to get a junior developer job]**(https://www.youtube.com/watch?v=rnP74z0n3Ms)
-
-
-
-- **[codeinstitute.net]**(https://codeinstitute.net/)
-
-
-
 
 - **[Why you should apply to an engineering jobs you aren't qualified for]**(https://angel.co/blog/why-you-should-apply-to-engineering-jobs-you-arent-qualified-for)
 
@@ -183,26 +182,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976 -->
 
 - **[Pew US workers counter automation threat with education new skill]**(https://www.theladders.com/career-advice/pew-u-s-workers-counter-automation-threat-with-education-new-skills)
 
-- **[6 simple ways to engage your remote workforce]**(https://medium.com/digitaladoption101/6-simple-ways-to-engage-your-remote-workforce-a525595a11e3)
+
 
 - **[CV timeline for linkedin]**(https://chrome.google.com/webstore/detail/cv-timeline-for-linkedin/ecmofndinkmdegjjofbkomppbpkhidac)
 
+
 - **[Why i fired all mediocre recruitment consultants Leighanne Mcaleer]**(https://www.linkedin.com/pulse/why-i-fired-all-mediocre-recruitment-consultants-leighanne-mcaleer/)
-
-
-
-- **[Remotive 3.0]**(https://www.producthunt.com/posts/remotive-3-0)
-
-
-<!-- https://www.producthunt.com/posts/marketerhire
-https://jobbatical.com/international-hiring/
-
-https://blog.stephsmith.io/best-practices-managing-remote-teams/
-
-https://www.failory.com/blog/how-to-hire-developers
-
-https://community.hackernoon.com/t/future-in-remote-working/2730/5
-
-https://www.producthunt.com/posts/talent-search
-
--->

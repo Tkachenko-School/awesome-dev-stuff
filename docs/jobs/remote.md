@@ -28,3 +28,8 @@ https://hackernoon.com/leading-a-remote-team-and-being-a-digital-nomad-cautionar
 
 - [How to Find Remote Work in 2019](https://hackernoon.com/finding-remote-work-in-2019-7927932f7b9)
 - **[Why Naval Ravikant thinks remote work is the future?]**(https://angel.co/blog/why-naval-ravikant-thinks-remote-work-is-the-future)
+
+
+- **[6 simple ways to engage your remote workforce]**(https://medium.com/digitaladoption101/6-simple-ways-to-engage-your-remote-workforce-a525595a11e3)
+
+- **[Elin Ai coach for remote teams]**(https://www.producthunt.com/upcoming/elin-ai-coach-for-remote-teams)
