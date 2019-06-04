@@ -65,13 +65,8 @@ sidebar_label: Internships
 - **[Diversity in tech how one vc firm is partnering with historically black colleges to address the pipeline issue]**(https://www.forbes.com/sites/ruthumoh/2019/03/13/diversity-in-tech-how-one-vc-firm-is-partnering-with-historically-black-colleges-to-address-the-pipeline-issue/#3b6cccca12fa)
 
 
-- **[The problems in remote working]**(https://medium.com/@rrhoover/the-problems-in-remote-working-1a6f165585d)
 
 - **[What happens when we stop looking at careers through the lens of]**(https://blog.dropbox.com/topics/work-culture/what-happens-when-we-stop-looking-at-careers-through-the-lens-of)
-
-- **[Why Naval Ravikant thinks remote work is the future?]**(https://angel.co/blog/why-naval-ravikant-thinks-remote-work-is-the-future)
-
-- [How to Find Remote Work in 2019](https://hackernoon.com/finding-remote-work-in-2019-7927932f7b9)
 
 
 

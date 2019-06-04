@@ -127,6 +127,10 @@ https://swissdevjobs.ch/about
 - **[How to switch engineering jobs and actually like your new role]**(https://angel.co/blog/how-to-switch-engineering-jobs-and-actually-like-your-new-role)
 - **[How to recruit talent when youre competing with giants?]**(https://angel.co/blog/how-to-recruit-talent-when-youre-competing-with-giants)
 - **[Steve Blank how to keep your job as your startup grows?]**(https://angel.co/blog/steve-blank-how-to-keep-your-job-as-your-startup-grows)
+
+
+
+
 - **[How my friend got an internship at Tesla after only 8 months of coding?]**(https://hackernoon.com/how-my-friend-got-an-internship-at-tesla-after-only-8-months-of-coding-6578c32f3e77)
 
 
