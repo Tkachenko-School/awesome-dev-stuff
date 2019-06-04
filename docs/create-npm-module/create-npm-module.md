@@ -61,6 +61,11 @@ sidebar_label: Create npm module
 
 
 
+<!-- module
+- []() https://github.com/rollup/rollup/issues/2646#issuecomment-455352098
+ -->
+
+
 #### Rollup React
 - **[How i set up a React component library with rollup]**(https://medium.com/tech-grandata-com/how-i-set-up-a-react-component-library-with-rollup-be6ccb700333)
 - **[Guide to building a React components library with rollup and styled jsx]**(https://medium.com/@tomaszmularczyk89/guide-to-building-a-react-components-library-with-rollup-and-styled-jsx-694ec66bd2)
