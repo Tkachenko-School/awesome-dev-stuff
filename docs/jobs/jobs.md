@@ -135,8 +135,9 @@ https://swissdevjobs.ch/about
 - **[How to recruit talent when youre competing with giants?]**(https://angel.co/blog/how-to-recruit-talent-when-youre-competing-with-giants)
 - **[Steve Blank how to keep your job as your startup grows?]**(https://angel.co/blog/steve-blank-how-to-keep-your-job-as-your-startup-grows)
 
+- [The Truth About Finding Your First Engineering Job](https://angel.co/blog/the-truth-about-finding-your-first-engineering-job)
 
-
+- [4 Perks Recruiters Will Pitch You—And What You Should Consider](https://angel.co/blog/4-perks-recruiters-will-pitch-you-and-what-you-should-consider)
 
 
 - **[How my friend got an internship at Tesla after only 8 months of coding?]**(https://hackernoon.com/how-my-friend-got-an-internship-at-tesla-after-only-8-months-of-coding-6578c32f3e77)
