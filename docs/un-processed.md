@@ -38,6 +38,16 @@
 
 
 
+https://www.failory.com/interview/jobridge
+https://www.failory.com/interview/wantremotejob
+https://www.failory.com/interview/chowdy
+https://www.failory.com/interview/the-punjab-kitchen
+https://www.failory.com/interview/addressbin
+https://www.failory.com/interview/trackin
+  
+
+
+
 
 - []() https://blog.stephsmith.io/best-practices-managing-remote-teams/
 

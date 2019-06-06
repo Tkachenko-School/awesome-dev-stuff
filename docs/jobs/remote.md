@@ -33,3 +33,6 @@ https://hackernoon.com/leading-a-remote-team-and-being-a-digital-nomad-cautionar
 - **[6 simple ways to engage your remote workforce]**(https://medium.com/digitaladoption101/6-simple-ways-to-engage-your-remote-workforce-a525595a11e3)
 
 - **[Elin Ai coach for remote teams]**(https://www.producthunt.com/upcoming/elin-ai-coach-for-remote-teams)
+
+
+https://www.indiehackers.com/article/how-remote-work-impacts-your-brain-8664999452
