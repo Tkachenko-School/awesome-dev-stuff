@@ -9,14 +9,6 @@ Here is a set of different websites that can help you to get a job in a tech com
 If you also want to get more information about working in tech(right now there a lot of changes) - below I put a list of articles, that might be interested for you to read.
 
 
-
-
-- **[educative.io]**(https://www.educative.io/)
-
-- **[pathbase.io - producthunt]**(https://pathbase.io/?ref=producthunt)
-
-- **[joinblair.com - producthunt]**(https://joinblair.com/?utm_source=producthunt&ref=producthunt)
-
 - **[learningdollars.com]**(https://www.learningdollars.com/)
 
 - **[hackreactor.com]**(https://www.hackreactor.com/)
@@ -27,6 +19,8 @@ If you also want to get more information about working in tech(right now there a
 
 
 
+There also a few projects at ProductHunt, focused at how to find a startup job
+- **[ProductHunt Search "startup job"]**(https://www.producthunt.com/search?q=startup%20job)
 
 
 

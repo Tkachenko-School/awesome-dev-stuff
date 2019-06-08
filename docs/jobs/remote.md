@@ -36,3 +36,7 @@ https://hackernoon.com/leading-a-remote-team-and-being-a-digital-nomad-cautionar
 
 
 https://www.indiehackers.com/article/how-remote-work-impacts-your-brain-8664999452
+
+
+https://www.producthunt.com/posts/remotive-jobs
+https://www.producthunt.com/posts/remotive-jobs-2-0

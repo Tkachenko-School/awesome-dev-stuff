@@ -23,7 +23,7 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 
 
 
-- **[Search startup job]**(https://www.producthunt.com/search?q=startup%20job)
+
 
 
 - **[Breakout producthunt]**(https://www.seedtable.com/breakout?ref=producthunt)
@@ -34,8 +34,20 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 - **[Frontend challenges]**(https://github.com/felipefialho/frontend-challenges)
 
 
+- **[educative.io]**(https://www.educative.io/)
 
 
+
+- **[Search startup job]**(https://www.producthunt.com/search?q=startup%20job)
+
+
+
+ai career advisor
+data & insights to build your dream career
+- **[pathbase.io - producthunt]**(https://pathbase.io/?ref=producthunt)
+
+
+- **[joinblair.com - producthunt]**(https://joinblair.com/?utm_source=producthunt&ref=producthunt)
 
 - **[How students are funding and joining startups]**(https://techcrunch.com/2019/02/06/how-students-are-founding-funding-and-joining-startups/)
 
@@ -50,8 +62,6 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 
 
 - **[Summer of code with google]**(https://summerofcode.withgoogle.com/)
-
-
 
 
 
