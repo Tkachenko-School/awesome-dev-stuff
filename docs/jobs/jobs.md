@@ -46,7 +46,7 @@ ai career advisor
 data & insights to build your dream career
 - **[pathbase.io - producthunt]**(https://pathbase.io/?ref=producthunt)
 
-
+Finance your education through Income Share Agreements
 - **[joinblair.com - producthunt]**(https://joinblair.com/?utm_source=producthunt&ref=producthunt)
 
 - **[How students are funding and joining startups]**(https://techcrunch.com/2019/02/06/how-students-are-founding-funding-and-joining-startups/)

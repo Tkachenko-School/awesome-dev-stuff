@@ -40,3 +40,14 @@ https://www.indiehackers.com/article/how-remote-work-impacts-your-brain-86649994
 
 https://www.producthunt.com/posts/remotive-jobs
 https://www.producthunt.com/posts/remotive-jobs-2-0
+
+
+- **[remotetalent.co]**(http://remotetalent.co/)
+It's like a bridge between companies and freelancers. So it's mostly for remote workers
+- **[talent.hubstaff.com]**(https://talent.hubstaff.com/)
+
+
+
+Article from entrepreneur - they list a few websites
+"Want to Find the Best Remote Talent This Year? Here Are the 5 Best Job Sites to Try."
+- **[entrepreneur.com]**(https://www.entrepreneur.com/article/309994)

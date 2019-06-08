@@ -44,7 +44,7 @@ https://www.failory.com/interview/chowdy
 https://www.failory.com/interview/the-punjab-kitchen
 https://www.failory.com/interview/addressbin
 https://www.failory.com/interview/trackin
-  
+
 
 
 
@@ -210,3 +210,6 @@ https://chatbots.studio/top-7-ai-chatbot-online-courses-of-2019-free-and-paid/
 LP: https://kyvio.com/
 
 food: https://www.walnut.asia
+
+
+https://jobbatical.com/blog/category/hiring/advice/
