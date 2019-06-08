@@ -51,3 +51,9 @@ It's like a bridge between companies and freelancers. So it's mostly for remote 
 Article from entrepreneur - they list a few websites
 "Want to Find the Best Remote Talent This Year? Here Are the 5 Best Job Sites to Try."
 - **[entrepreneur.com]**(https://www.entrepreneur.com/article/309994)
+
+
+
+- **[RemoteOK.io - Remote Internships ]**(https://remoteok.io/)
+
+- **[Remote friendly]**(https://www.producthunt.com/posts/remote-friendly)

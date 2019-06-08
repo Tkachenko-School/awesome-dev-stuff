@@ -39,6 +39,22 @@ it's more like a school
 
 
 
+schoooools
+
+Tool for showcasing your commits - Sourcerer - A visual profile for software engineers
+- **[sourcerer.io]**(https://sourcerer.io/)
+
+
+- **[microverse.org]**(https://www.microverse.org/)
+
+
+
+
+- **[sugarlabs.org]**(https://sugarlabs.org/)
+
+
+
+https://www.productschool.com
 
 <!-- https://www.producthunt.com/posts/marketerhire
 https://jobbatical.com/international-hiring/
