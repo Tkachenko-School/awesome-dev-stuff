@@ -8,10 +8,12 @@ Here is a set of different websites that can help you to get a job in a tech com
 
 If you also want to get more information about working in tech(right now there a lot of changes) - below I put a list of articles, that might be interested for you to read.
 
+#### Worldwide
+
 
 First Place to look is AngelList Jobs section https://angel.co/jobs
 
-I don't want to list Linkedin as place for find a tech job - because it's very hard there. Yes, you can apply some tricks there. And for most positions as other places you'll need to have a Linkedin profile... But from my perspective - LI is a better place for recruiters, rather than for someone who looking for a job. Usually it will work in this way - you find a job and working there for some months. Then recruiters will start to add you to their networks and try to "steal" you.
+I don't want to list Linkedin as place for find a tech job - because it's very hard there to do. Yes, you can apply some tricks there. And for most positions as other places you'll need to have a Linkedin profile... But from my perspective - LI is a better place for recruiters, rather than for someone who looking for a job. Usually it will work in this way - you find a job and working there for some months. Then recruiters will start to add you to their networks and try to "steal" you.
 
 
 Right now you're reading this article at HackerNoon webisite. Do you like the content? HackerNoon is most awesome place to read tech news. So their jobboard  cool too.
@@ -95,4 +97,5 @@ Help shape the future by joining one of the fastest growing technology startups.
 
 
 "Software jobs with the best Silicon Valley companies"
+"Pass Turing's programming tests and get matched to long-term remote American software job opportunities!"
 - **[turing.ly]**(https://turing.ly/)
