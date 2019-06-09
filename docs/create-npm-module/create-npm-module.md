@@ -30,14 +30,6 @@ sidebar_label: Create npm module
 
 
 
-#### Babel
-
-- **[Babel Handbook]**(https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/README.md)
-- **[All the cool stuff we have been doing]**(https://medium.freecodecamp.org/were-nearing-the-7-0-babel-release-here-s-all-the-cool-stuff-we-ve-been-doing-8c1ade684039)
-- **[Fast way to upgrade to babel 7-3]**(https://medium.com/@tonypai/fast-way-to-upgrade-to-babel-7-3f8cf97b4b3d)
-- **[Parse react components with babel and visualize them]**(https://itnext.io/parse-react-components-with-babel-and-visualize-them-45062046cb72)
-- **[Babel upgrade from babel 6x to 7 0]**(https://medium.com/@maicmi/babel-upgrade-from-babel-6-x-to-7-0-58809bd63d8)
-
 
 
 
@@ -48,49 +40,12 @@ sidebar_label: Create npm module
 - []() https://babeljs.io/docs/en/plugins#react -->
 
 
-#### Rollup.js
-- **[Rollupjs guide/en]**(https://rollupjs.org/guide/en)
-- **[Babel plugin file loader]**(https://github.com/sheerun/babel-plugin-file-loader)
-- **[Babel plugin file loader #example usage]**(https://github.com/sheerun/babel-plugin-file-loader#example-usage)
-- **[Rollup plugin json]**(https://github.com/rollup/rollup-plugin-json)
-- **[Rollup plugin json #usage]**(https://github.com/rollup/rollup-plugin-json#usage)
-- **[Npmjs]**(https://www.npmjs.com/package/shx)
-- **[Github/rollup/commit]**(https://github.com/rollup/rollup/commit/c103967c6f5db503e25bbc0ae81a83742839fa53)
-- **[Rollupjs guide/en#the-why]**(https://rollupjs.org/guide/en#the-why)
-- **[Rollup-starter-lib]**(https://github.com/rollup/rollup-starter-lib)
-
-
 
 <!-- module
 - []() https://github.com/rollup/rollup/issues/2646#issuecomment-455352098
  -->
 
 
-#### Rollup React
-- **[How i set up a React component library with rollup]**(https://medium.com/tech-grandata-com/how-i-set-up-a-react-component-library-with-rollup-be6ccb700333)
-- **[Guide to building a React components library with rollup and styled jsx]**(https://medium.com/@tomaszmularczyk89/guide-to-building-a-react-components-library-with-rollup-and-styled-jsx-694ec66bd2)
-- **[Github/rollup/issues]**(https://github.com/rollup/rollup/issues/2518)
-- **[Babel eslint #installation]**(https://github.com/babel/babel-eslint#installation)
-- **[#how-do-i-use-experimental-javascript-es-next-features]**(https://standardjs.com/#how-do-i-use-experimental-javascript-es-next-features)
-- **[TypeScript Babel Starter #using rollup]**(https://github.com/Microsoft/TypeScript-Babel-Starter#using-rollup)
-- **[Github/minify]**(https://github.com/babel/minify)
-
-
-
-#### Rollup React
-
-- **[How i set up a React component library with rollup]**(https://medium.com/tech-grandata-com/how-i-set-up-a-react-component-library-with-rollup-be6ccb700333)
-- **[Guide to building a react components library with rollup and styled jsx]**(https://medium.com/@tomaszmularczyk89/guide-to-building-a-react-components-library-with-rollup-and-styled-jsx-694ec66bd2)
-- **[Github rollup/issues]**(https://github.com/rollup/rollup/issues/2518)
-- **[dist.config.js]**(https://github.com/andyl/react-input-field/blob/master/dist.config.js)
-- **[Check commit]**(https://github.com/lukastaegert/check-commit)
-- **[Rollup plugin strip]**(https://github.com/rollup/rollup-plugin-strip)
-- **[Buble React rollup starter]**(https://github.com/yamafaktory/buble-react-rollup-starter)
-- **[pegjs.org]**(https://pegjs.org/)
-- **[Rollup plugin issues]**(https://github.com/rollup/rollup-plugin-babel/issues/162)
-- **[Example rollup React component npm package]**(https://github.com/jaebradley/example-rollup-react-component-npm-package/blob/master/package.json)
-- **[How i set up a React component library with rollup]**(https://medium.com/tech-grandata-com/how-i-set-up-a-react-component-library-with-rollup-be6ccb700333)
-- **[Moving out static food Json files]**(https://medium.com/groceristar/moving-out-static-food-json-files-e27f8cba003)
 
 
 
