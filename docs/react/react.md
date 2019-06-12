@@ -34,7 +34,7 @@ sidebar_label: Articles related to React universe
 - [How to test your React Redux application ](https://medium.com/asos-techblog/how-to-test-your-react-redux-application-48d90481a253)
 - [Advanced Redux patterns normalization](https://blog.brainsandbeards.com/advanced-redux-patterns-normalisation-6b9a5aa46e1f)
 - [Advanced Redux patterns selectors](https://blog.brainsandbeards.com/advanced-redux-patterns-selectors-cb9f88381d74)
-<!-- - []()
+<!-- - [](https://github.com/enaqx/awesome-react)
 - []()
 - []()
 - []()
@@ -71,7 +71,7 @@ sidebar_label: Articles related to React universe
 
 
 
-<!-- 
+<!--
 JSX && Conditional rendering
 
 - []() https://www.robinwieruch.de/conditional-rendering-react/
