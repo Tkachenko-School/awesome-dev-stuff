@@ -252,3 +252,12 @@ https://blog.usejournal.com/becoming-a-bad-ass-engineering-leader-5-tried-and-tr
 https://blog.usejournal.com/did-capitalism-hack-the-open-source-model-cf4f6278c17a
 https://blog.usejournal.com/no-nos-of-software-engineering-b6371d0c4c27
 https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+
+
+
+knex config
+https://itnext.io/express-knex-objection-painless-api-with-db-74512c484f0c
+https://github.com/Vincit/objection-graphql
+https://github.com/motdotla/dotenv
+
+https://itnext.io/server-side-rendering-with-react-redux-and-react-router-fa5b67d4965e
