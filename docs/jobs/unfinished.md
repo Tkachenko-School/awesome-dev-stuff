@@ -242,3 +242,13 @@ https://zeit.co/blog/micro-8
 
 
   https://www.producthunt.com/posts/interviews-tech
+
+  https://www.linkedin.com/feed/news/the-right-age-to-pick-a-career-5016626/
+
+https://www.fullstackacademy.com/
+
+https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/
+https://blog.usejournal.com/becoming-a-bad-ass-engineering-leader-5-tried-and-true-lessons-from-a-woman-of-color-27c6d23d89e6
+https://blog.usejournal.com/did-capitalism-hack-the-open-source-model-cf4f6278c17a
+https://blog.usejournal.com/no-nos-of-software-engineering-b6371d0c4c27
+https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
