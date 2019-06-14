@@ -6,16 +6,18 @@ title: summary
 Table of Contents
 =================
 
-#### Jobs section
+
+  * [Jobs section](jobs/index.md)
     * [Startup Jobs](jobs/jobs.md)
     * [Internships](jobs/internships.md)
     * [Tech Job Boards](jobs/job-boards.md)
 
-#### JavaScript section
+  * [JavaScript section](js/index.md)
     * [JS](js/js.md)
     * [Complex structures](js/complex-structures.md)
     * [Create npm module](create-npm-module/create-npm-module.md)
-* [Machine learning](machine-learning/machine-learning.md)
+
+
 
 
 <!-- * React
@@ -24,7 +26,7 @@ Table of Contents
 - React project structure
 - Styled components -->
 
-#### React Section
+  * [React Section]()
     * [React](react/react.md)
     * [Styling](react/styling.md)
     * [Awesome React Book](react/awesome-react-book.md)
@@ -34,12 +36,14 @@ Table of Contents
 
 * [Stories for developers](stories/stories.md)
 
-#### CSS Section
+[CSS Section]()
     * [CSS](css/css.md)
     * [CSS Grid](css-grid/css-grid.md)    
     * [Flexbox](flexbox/flexbox.md)
 
-#### Unsorted content
+* [Machine learning](machine-learning/machine-learning.md)
+
+* [Unsorted content]
     * [Open source](open-source/open-source.md)
     * [Launch producthunt](product-hunt/launch-producthunt.md)
     * [Free code courses](courses.md)    

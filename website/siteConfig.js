@@ -20,6 +20,8 @@ const users = [
   },
 ];
 
+
+
 const siteConfig = {
   title: 'Awesome dev stuff', // Title for your website.
   tagline: 'Awesome-dev-stuff',
@@ -38,9 +40,10 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'summary', label: 'Summary'},
-    {href: 'https://github.com/ChickenKyiv/awesome-dev-stuff', label: 'GitHub'},
-    {page: 'help', label: 'Help'},
+    // {doc: 'summary', label: 'Summary'},
+    // {doc: 'summary', label: 'Summary'}, //@TODO add jobs?
+    {href: 'https://github.com/ChickenKyiv/awesome-dev-stuff', label: 'GitHub repository'},
+    // {page: 'help', label: 'Help'},
   ],
 
   // If you have users set above, you add it here:
