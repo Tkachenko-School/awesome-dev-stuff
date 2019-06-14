@@ -26,7 +26,7 @@ Table of Contents
 - React project structure
 - Styled components -->
 
-  * [React Section]()
+  * [React Section](react/index.md)
     * [React](react/react.md)
     * [Styling](react/styling.md)
     * [Awesome React Book](react/awesome-react-book.md)
@@ -36,21 +36,22 @@ Table of Contents
 
 * [Stories for developers](stories/stories.md)
 
-[CSS Section]()
+[CSS Section](css/index.md)
     * [CSS](css/css.md)
     * [CSS Grid](css-grid/css-grid.md)    
     * [Flexbox](flexbox/flexbox.md)
 
 * [Machine learning](machine-learning/machine-learning.md)
 
-* [Unsorted content]
+* [Unsorted content](unsorted-section/index.md)
     * [Open source](open-source/open-source.md)
-    * [Launch producthunt](product-hunt/launch-producthunt.md)
+    * [Launch on ProductHunt](product-hunt/launch-producthunt.md)
     * [Free code courses](courses.md)    
     * [Design](design/design.md)
     * [Git](git/git.md)
     * [Cool Github Repositories](github/cool-github-repositories.md)
     * [Graphqh](graphql/graphqh.md)    
+    * [IndieHackers articles/podcasts collection](indie-hackers/indie-hackers.md)    
     * [Credits: Images](images.md)
 
 
