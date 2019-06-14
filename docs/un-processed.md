@@ -218,3 +218,10 @@ https://jobbatical.com/blog/category/hiring/advice/
 
 
 - **[Algorithms in Javascript]**(https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
+
+
+https://medium.com/free-code-camp/software-engineering-interviews-744380f4f2af
+https://medium.com/startup-grind/how-i-paid-off-more-than-70-000-in-student-loans-in-9-months-f5de634ad0de
+https://medium.com/educatedandbroke/i-just-paid-1-200-in-student-loan-interest-4831dfa83256
+https://medium.com/s/freakonomicsradio/the-1-5-trillion-question-how-to-fix-student-loan-debt-39125449af44
+https://www.freecodecamp.org/news/the-real-life-secret-to-paying-off-student-loans-early-2728b8815f1d/

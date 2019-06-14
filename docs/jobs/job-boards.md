@@ -99,3 +99,5 @@ Help shape the future by joining one of the fastest growing technology startups.
 "Software jobs with the best Silicon Valley companies"
 "Pass Turing's programming tests and get matched to long-term remote American software job opportunities!"
 - **[turing.ly]**(https://turing.ly/)
+
+<!-- https://www.talentticker.ai/ -->
