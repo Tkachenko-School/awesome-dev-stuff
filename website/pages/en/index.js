@@ -14,6 +14,32 @@ const GridBlock = CompLibrary.GridBlock;
 
 const siteConfig = require(process.cwd() + '/siteConfig.js');
 
+
+class Button extends React.Component {
+  render() {
+    return (
+      <div className="pluginWrapper buttonWrapper">
+        <a className="button" href={this.props.href}
+           target={this.props.target}>
+          {this.props.children}
+        </a>
+      </div>
+    );
+  }
+}
+
+Button.defaultProps = {
+  target: '_self',
+};
+
+const Logo = props => (
+  <div className="projectLogo">
+    <img src={props.img_src} />
+  </div>
+);
+
+
+
 // https://raw.githubusercontent.com/GroceriStar/creative/master/illustrations/Vegetables_Tomato%20(1).png
 
 // @TODO will deploy break this hardcoded links?
@@ -82,27 +108,7 @@ const TableOfContents = props => (
 );
 
 
-class Button extends React.Component {
-  render() {
-    return (
-      <div className="pluginWrapper buttonWrapper">
-        <a className="button" href={this.props.href} target={this.props.target}>
-          {this.props.children}
-        </a>
-      </div>
-    );
-  }
-}
 
-Button.defaultProps = {
-  target: '_self',
-};
-
-const Logo = props => (
-  <div className="projectLogo">
-    <img src={props.img_src} />
-  </div>
-);
 
 const MainPage = props => (
   <div

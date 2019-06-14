@@ -1,6 +1,6 @@
 ---
 id: summary
-title: summary
+title: Summary
 ---
 
 Table of Contents

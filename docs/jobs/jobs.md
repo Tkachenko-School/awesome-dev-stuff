@@ -68,9 +68,6 @@ Finance your education through Income Share Agreements
 
 
 
-- **[Algorithms in Javascript]**(https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
-
-
 
 #### AngelList Blog
 
@@ -143,3 +140,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976 -->
 
 
 - **[Why i fired all mediocre recruitment consultants Leighanne Mcaleer]**(https://www.linkedin.com/pulse/why-i-fired-all-mediocre-recruitment-consultants-leighanne-mcaleer/)
+
+
+https://medium.com/free-code-camp/software-engineering-interviews-744380f4f2af
