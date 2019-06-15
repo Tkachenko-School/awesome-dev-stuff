@@ -27,6 +27,13 @@ sidebar_label: JS
 - [algorithms-in-javascript](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
 - [catch-me-if-you-can-a-guide-to-debugging](https://hackernoon.com/catch-me-if-you-can-a-guide-to-debugging-f4af08f6724d)
 
+
+<!-- https://developer.mozilla.org/en-US/docs/Mozilla/JavaScript_code_modules/OSFile.jsm/OS.Path
+https://gist.github.com/creationix/7435851
+  https://arunmichaeldsouza.com/blog/aliasing-module-paths-in-node-js
+  https://goenning.net/2017/07/21/how-to-avoid-relative-path-hell-javascript-typescript-projects/ -->
+
+
 #### Plugins
 - [setup-for-an-open-source-javascript-project](https://frontstuff.io/setup-for-an-open-source-javascript-project)
 - [Commitizen cz-cli](https://github.com/commitizen/cz-cli)
