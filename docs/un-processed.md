@@ -221,7 +221,73 @@ https://jobbatical.com/blog/category/hiring/advice/
 
 
 https://medium.com/free-code-camp/software-engineering-interviews-744380f4f2af
+
 https://medium.com/startup-grind/how-i-paid-off-more-than-70-000-in-student-loans-in-9-months-f5de634ad0de
+
 https://medium.com/educatedandbroke/i-just-paid-1-200-in-student-loan-interest-4831dfa83256
+
 https://medium.com/s/freakonomicsradio/the-1-5-trillion-question-how-to-fix-student-loan-debt-39125449af44
+
 https://www.freecodecamp.org/news/the-real-life-secret-to-paying-off-student-loans-early-2728b8815f1d/
+
+
+
+=============
+
+CodeBootcamps
+
+https://en.wikipedia.org/wiki/Coding_bootcamp
+https://www.coursereport.com/reports/coding-bootcamp-job-placement-2017
+https://www.coursereport.com/reports/2017-coding-bootcamp-market-size-research
+https://www.coursereport.com/blog/university-coding-bootcamps
+https://www.lewagon.com/
+https://www.coursereport.com/
+https://codeworks.me/
+https://dev.to/helenanders26/whats-your-opinion-on-coding-bootcamps-3idi
+https://anyonecanlearntocode.com/
+https://anyonecanlearntocode.com/online-coding-bootcamp
+https://www.switchup.org/bootcamps/actualize
+https://www.linkedin.com/school/actualize-coding-bootcamp/
+https://techbeacon.com/app-dev-testing/bootcamps-wont-make-you-coder-heres-what-will
+https://www.thinkful.com/bootcamps/compare/actualize-vs-dev-bootcamp/
+https://learntocodewith.me/posts/online-coding-bootcamps/
+https://www.bootcamps.in/san-francisco/actualize/
+https://www.bloc.io/
+https://www.bloc.io/designer-track
+
+https://www.appacademy.io/
+https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiBn7vYruriAhUFpBgKHeL2BXcYABAAGgJsZQ&ohost=www.google.com&cid=CAESEOD20xqx1CwpnfaOZE5LtDQ&sig=AOD64_1F3wgdR5plVHlchKz7fltmdXwkaA&q=&ved=2ahUKEwjK_7LYruriAhWGwsQBHVi9A70Q0Qx6BAgLEAE&adurl=
+https://www.switchup.org/bootcamps/bloc
+https://www.switchup.org/coding-bootcamps-reviews
+
+https://hackernoon.com/5-common-coding-bootcamp-myths-busted-5c83856126a0
+https://codebootcampschool.org/
+https://techbootcamps.smu.edu/
+https://bootcamp.sas.upenn.edu/
+https://bootcamp.ucdavis.edu/
+https://www.quora.com/What-is-a-coding-bootcamp
+https://www.switchup.org/rankings/best-online-bootcamps
+https://learntocodewith.me/posts/online-coding-bootcamps/
+https://www.codingdojo.com/part-time-online-bootcamp
+https://www.thinkful.com/
+https://flatironschool.com/free-courses/coding-bootcamp-prep/
+https://www.thinkful.com/about/#careers
+  https://hire.withgoogle.com/public/jobs/thinkfulcom/view/P_AAAAAAEAAAxIPIr0vzXNA0
+
+  https://www.reddit.com/r/webdev/comments/8szqmp/discussion_coding_bootcamps_do_they_actually_work/
+  https://www.reddit.com/r/learnprogramming/comments/ag99d9/coding_bootcamps_everything_you_need_to_know/
+  https://www.reddit.com/r/webdev/comments/9skh96/has_anyone_ever_done_a_coding_bootcamp/
+  https://www.reddit.com/r/codingbootcamp/
+  https://www.reddit.com/r/learnprogramming/comments/9r6rmy/best_online_coding_bootcamp/
+  https://www.reddit.com/r/learnprogramming/comments/9nu7h2/what_do_you_guys_think_about_coding_bootcamps/
+  https://www.reddit.com/r/webdev/comments/au5e1w/coding_bootcamps/
+  https://www.reddit.com/r/learnprogramming/comments/7z70re/online_coding_bootcamps_are_they_worth_it_to_make/
+  https://www.reddit.com/r/webdev/comments/95irq1/coding_bootcamp_vs_computer_science_degree/
+  https://www.reddit.com/r/webdev/comments/6tcnt9/are_coding_bootcamps_worth_the_time_and_money/
+  https://www.appacademy.io/
+  https://open.appacademy.io/
+  https://hackernoon.com/confessions-of-a-bootcamp-graduate-hack-reactor-f921c441fb23
+  https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiQocqjy-riAhXKqxgKHcwHB1gYABAGGgJsZQ&ohost=www.google.com&cid=CAESEOD2Nw7dXJ58bxdozTX1-IM&sig=AOD64_2gM9TJ-eNEgnOIIgNuYRdLrq6hAQ&q=&ved=2ahUKEwjO5MOjy-riAhVOfZoKHQy6D2g4ChDRDHoECAsQAQ&adurl=
+  https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiQocqjy-riAhXKqxgKHcwHB1gYABAAGgJsZQ&ohost=www.google.com&cid=CAESEOD2Nw7dXJ58bxdozTX1-IM&sig=AOD64_1biF6Xt4kRR1xwt79x54g-MxFqUw&q=&ved=2ahUKEwjO5MOjy-riAhVOfZoKHQy6D2g4ChDRDHoECAwQAQ&adurl=
+  https://www.reuters.com/article/us-galvanize-hackreactor/leading-u-s-coding-boot-camps-galvanize-hack-reactor-to-merge-idUSKBN1K92DN
+  https://www.theregister.co.uk/2018/07/19/galvanize_slurps_hack_reacto/
