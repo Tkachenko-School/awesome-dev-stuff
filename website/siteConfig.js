@@ -42,7 +42,10 @@ const siteConfig = {
   headerLinks: [
     // {doc: 'summary', label: 'Summary'},
     // {doc: 'summary', label: 'Summary'}, //@TODO add jobs?
-    {href: 'https://github.com/ChickenKyiv/awesome-dev-stuff', label: 'GitHub repository'},
+    {
+      href: 'https://github.com/ChickenKyiv/awesome-dev-stuff',
+       label: 'GitHub repository'
+     },
     // {page: 'help', label: 'Help'},
   ],
 
@@ -98,7 +101,7 @@ const siteConfig = {
   // enableUpdateBy: true,
 
   // Show documentation's last update time.
-  // enableUpdateTime: true,
+  enableUpdateTime: true,
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...

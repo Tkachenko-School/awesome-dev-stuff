@@ -38,8 +38,8 @@ Table of Contents
 
 [CSS Section](css/index.md)
     * [CSS](css/css.md)
-    * [CSS Grid](css-grid/css-grid.md)    
-    * [Flexbox](flexbox/flexbox.md)
+    * [CSS Grid](css/css-grid.md)    
+    * [Flexbox](css/flexbox.md)
 
 * [Machine learning](machine-learning/machine-learning.md)
 
@@ -126,10 +126,10 @@ GraphQL
 
 * [Stories](stories/stories.md)
 
-* [CSS]()
+* [CSS](css/index.md)
     * [CSS](css/css.md)
-    * [CSS Grid](css-grid/css-grid.md)    
-    * [Flexbox](flexbox/flexbox.md)
+    * [CSS Grid](css/css-grid.md)    
+    * [Flexbox](css/flexbox.md)
 
 * [Other]()
     * [Open source](open-source/open-source.md)

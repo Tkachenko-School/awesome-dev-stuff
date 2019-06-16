@@ -36,6 +36,9 @@ class Footer extends React.Component {
             )}
           </a>
           <div>
+
+
+
             <h5>Articles</h5>
             <a href={this.docUrl('css/css.html', this.props.language)}>
               CSS
@@ -46,8 +49,10 @@ class Footer extends React.Component {
             <a href={this.docUrl('react/react.html', this.props.language)}>
               React
             </a>
+
           </div>
           <div>
+
             <h5>More</h5>
             <a href="https://github.com/ChickenKyiv/awesome-dev-stuff">GitHub</a>
             <a
@@ -70,6 +75,7 @@ class Footer extends React.Component {
         </section>
 
         <section className="copyright">{this.props.config.copyright}</section>
+
       </footer>
     );
   }
