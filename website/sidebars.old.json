@@ -28,7 +28,7 @@
       "jobs/internships",
       "jobs/jobs",
 
-
+      "js/complex-structures",
       "js/js",
 
 
@@ -42,7 +42,7 @@
       "machine-learning/machine-learning",
       "stories/stories",
       "open-source/open-source",
-      "github/cool-github-repositories",
+      "github/cool-github-repositories"
       "product-hunt/launch-producthunt",
     ]
   }
