@@ -128,11 +128,15 @@ const MainPage = props => (
     style={{ textAlign: 'center' }}>
     <div className="tableofcontents">
       <p>
-        Food Tech related static data in json arrays, like recipes, ingredients, recipes, diets, allergies, etc.
+        Welcome to awesome-dev-stuff website(yeah, I should find a better name).
       </p>
       <p>
-        In a few our projects we have a similar files. And we always copy-paste code between them. So by moving this code into separated place - i hope we'll make our projects better.
+        It's a place, where Arthur keeping all links, related to coding part in his company.
       </p>
+      <p>
+        He is sharing them frequently with his interns, and thinks you may like it too or find interesting.
+      </p>
+
     </div>
   </div>
 );
