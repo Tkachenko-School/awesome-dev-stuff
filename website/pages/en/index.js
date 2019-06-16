@@ -110,6 +110,8 @@ const TableOfContents = props => (
 
 
 
+
+
 const MainPage = props => (
   <div
     className="showcaseSection paddingBottom"
@@ -126,8 +128,59 @@ const MainPage = props => (
 );
 //--
 
+const Block = props => (
+   <Container
+     padding={['bottom', 'top']}
+     id={props.id}
+     background={props.background}>
+     <GridBlock
+       align="center"
+       contents={props.children}
+       layout={props.layout}
+     />
+   </Container>
+ );
 
+const TryOut = () => (
+ <Block id="try">
+   {[
+     {
+       content: 'Talk about trying this out',
+       image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/moving_forward.svg?sanitize=true`,
+       imageAlign: 'left',
+       title: 'Try it Out',
+     },
+   ]}
+ </Block>
+);
 
+const Description = () => (
+  <Block background="white">
+    {[
+      {
+        content:
+          'This is another description of how this project is useful',
+        image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true`,
+        imageAlign: 'right',
+        title: 'Description',
+      },
+    ]}
+  </Block>
+);
+
+const Description2 = () => (
+  <Block background="white">
+    {[
+      {
+        content:
+          'This is another description of how this project is useful',
+        image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/wireframe.svg?sanitize=true`,
+        imageAlign: 'right',
+        title: 'Description',
+      },
+    ]}
+  </Block>
+);
 
 class Index extends React.Component {
 
@@ -139,18 +192,7 @@ class Index extends React.Component {
 
     const { baseUrl } = siteConfig;
 
-    const Block = props => (
-         <Container
-           padding={['bottom', 'top']}
-           id={props.id}
-           background={props.background}>
-           <GridBlock
-             align="center"
-             contents={props.children}
-             layout={props.layout}
-           />
-         </Container>
-       );
+
 
        // const FeatureCallout = () => (
        //   <div
@@ -171,32 +213,6 @@ class Index extends React.Component {
 // image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true`,
 
 
-       const TryOut = () => (
-         <Block id="try">
-           {[
-             {
-               content: 'Talk about trying this out',
-               image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/moving_forward.svg?sanitize=true`,
-               imageAlign: 'left',
-               title: 'Try it Out',
-             },
-           ]}
-         </Block>
-       );
-
-       const Description = () => (
-         <Block background="white">
-           {[
-             {
-               content:
-                 'This is another description of how this project is useful',
-               image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true`,
-               imageAlign: 'right',
-               title: 'Description',
-             },
-           ]}
-         </Block>
-       );
 
 
 
@@ -217,6 +233,7 @@ class Index extends React.Component {
 
               <TryOut />
               <Description />
+              <Description2 />
 
             <TableOfContents />
 

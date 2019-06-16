@@ -14,3 +14,13 @@ Last year I onboard 90 interns to my company. All of them have different level, 
 And each time, when they have some problems - I google links and put them at one place. I started to collect links because some questions are recurring: How to work with GitHub, How to code better on React, What project structure should be at Nodejs projects, etc. And right now I'm ready to present this website to ProductHunt community. It's not finished project --> we'll extend it in future.
 Feel free to take a look and give me your feedback. Thanks for your time.
 Have a nice day!
+
+
+
+
+Read/Learn about Jest/React testing?
+
+React Best practices
+How to find tech job or land an internship in tech company?
+
+You just want to read handpicked interested stories?
