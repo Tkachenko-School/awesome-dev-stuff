@@ -5,8 +5,8 @@ title: Unsorted Section
 
 
 * [Open source](open-source/open-source.md)
-* [Launch producthunt](product-hunt/launch-producthunt.md)
-* [Free code courses](courses.md)    
+* [Launch project at ProductHunt](product-hunt/launch-producthunt.md)
+* [Code courses for free](courses.md)    
 * [Design](design/design.md)
 * [Git](git/git.md)
 * [Cool Github Repositories](github/cool-github-repositories.md)

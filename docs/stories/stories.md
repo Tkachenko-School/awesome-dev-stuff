@@ -15,7 +15,9 @@ sidebar_label: Stories
 - [Microservices on Fargate Part 2](https://hackernoon.com/microservices-on-fargate-part2-f29c6d4d708f)
 - [Interviews with three amazing female web developers who promote diversity and inclusion in tech](https://hackernoon.com/interviews-with-three-amazing-female-web-developers-who-promote-diversity-and-inclusion-in-tech-5210b0f6035)
 - [Not all marketplaces are created equal tales of a marketplace founder](https://hackernoon.com/not-all-marketplaces-are-created-equal-tales-of-a-marketplace-founder-9fc0fb802706)
+
 - [The worst career advice I ever received](https://hackernoon.com/the-worst-career-advice-i-ever-received-54aaf2a50c93)
+
 - [I made myself a smart mirror](https://hackernoon.com/i-made-myself-a-smart-mirror-50e56966c478)
 - [Women in tech software engineer career advice](https://hackernoon.com/women-in-tech-software-engineer-career-advice-8cb70cc5c13c)
 - [Women as entrepreneurs a changing climate](https://hackernoon.com/women-as-entrepreneurs-a-changing-climate-3b3f1268d42a)
@@ -36,8 +38,11 @@ sidebar_label: Stories
 
 - [How I went from newbie to Software Engineer in 9 months while working full time](https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847)
 - [Answers to Ten Tricky Javascript Interview Questions](https://hackernoon.com/tricky-javascript-interview-questions-b67d5d278344)
+
 - [How I Learned to Code, Quit My Job, and Bootstrapped a Solution](https://www.indiehackers.com/interview/3d2afa0b80)
+
 - [What I’ve learned six months into my first job as a self-taught software engineer](https://medium.freecodecamp.org/what-ive-learned-six-months-into-my-first-job-as-a-self-taught-software-engineer-516b0703e86)
+
 - [The code I’m still ashamed of](https://medium.freecodecamp.org/the-code-im-still-ashamed-of-e4c021dff55e)
 - [Want to be a top developer? You should build things. Here’s another list to get you started.](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472)
 - [How To Improve The Odds Of Reaching Your Goals](https://medium.com/swlh/how-to-improve-the-odds-of-reaching-your-goals-71aff1ccf5c9)
