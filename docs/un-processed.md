@@ -80,10 +80,6 @@ https://medium.com/@clementb/what-i-learned-in-my-first-year-as-a-software-engin
 
 ------------------
 
-Welcome to awesome-dev-stuff(yeah, I should find a better name).
-It's a place, where I(Arthur) keeping all links, related to coding in my company.
-He sharing them frequently with his interns, and thinks you may like it too or find interesting.
-
 
 https://www.producthunt.com/stories/how-my-failed-startup-made-me-the-healthiest-version-of-myself
 
@@ -142,8 +138,6 @@ https://blog.bitsrc.io/building-a-consistent-ui-design-system-4481fb37470f
 
 
 https://hackernoon.com/10-life-lessons-from-8-startups-4ab261b784d3
-If you need some help let me now. I can help on food database, and diet also.
-We can use whatever is better for you to chat. my email is saalaure@gmail.com
 
 
 https://medium.freecodecamp.org/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d
