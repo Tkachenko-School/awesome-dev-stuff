@@ -15,21 +15,20 @@ Table of Contents
   * [JavaScript section](js/index.md)
     * [JS](js/js.md)
     * [Complex structures](js/complex-structures.md)
-    * [Publishing your module at npm](create-npm-module/create-npm-module.md)
 
-<!-- * React
-- React Children
-- React best practices
-- React project structure
-- Styled components -->
+  * [Publishing your module at npm](create-npm-module/index.md)
+    * [First articles to read](create-npm-module/create-npm-module.md)
+    * [Connect Babel](create-npm-module/babel.md)
+    * [RollupJS](create-npm-module/RollupJS.md)
+    * [Rollup + React configuration](create-npm-module/rollup-react.md)
 
   * [React Section](react/index.md)
-    * [Awesome React Book](react/awesome-react-book.md)
+    * [Awesome React Book by Flavio Copes](react/awesome-react-book.md)
     * [React](react/react.md)  
     * [React Children components](react/react.md)  
     * [Styled components](react/styling.md)
     * [React best practices](best-practices/react-best-practices.md)
-    * [React Project structure](project-structure/project-structure.md)
+    * [React project structure](project-structure/project-structure.md)
     * [Jest testing](jest/jest.md)
 
 
@@ -42,7 +41,7 @@ Table of Contents
 
 * [Machine learning](machine-learning/machine-learning.md)
 
-* [Unsorted content](unsorted-section/index.md)
+* [Unsorted content](unsorted/index.md)
     * [Open source](open-source/open-source.md)
     * [Launch on ProductHunt](product-hunt/launch-producthunt.md)
     * [Free code courses](courses.md)    
@@ -98,10 +97,7 @@ GraphQL
 
 
 
-<!-- * [Jobs]()
-    * [Startup Jobs](jobs/jobs.md)
-    * [Internships](jobs/internships.md)
-
+<!--
 
 
 <!-- * React
