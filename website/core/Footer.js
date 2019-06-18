@@ -66,7 +66,7 @@ class Footer extends React.Component {
           <div>
 
             <h5>More</h5>
-            <a href="https://github.com/ChickenKyiv/awesome-dev-stuff">GitHub</a>
+            <a href="https://github.com/ChickenKyiv/awesome-dev-stuff">GitHub Repository</a>
             <a
               className="github-button"
               href={this.props.config.repoUrl}
@@ -77,6 +77,10 @@ class Footer extends React.Component {
               aria-label="Star this project on GitHub">
               Star
             </a>
+
+
+
+            
           </div>
         </section>
 

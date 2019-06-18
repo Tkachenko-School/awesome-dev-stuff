@@ -8,17 +8,14 @@ Table of Contents
 
 
   * [Jobs section](jobs/index.md)
-    * [Startup Jobs](jobs/jobs.md)
+    * [Startup Jobs](jobs/tech-job.md)
     * [Internships](jobs/internships.md)
     * [Tech Job Boards](jobs/job-boards.md)
 
   * [JavaScript section](js/index.md)
     * [JS](js/js.md)
     * [Complex structures](js/complex-structures.md)
-    * [Create npm module](create-npm-module/create-npm-module.md)
-
-
-
+    * [Publishing your module at npm](create-npm-module/create-npm-module.md)
 
 <!-- * React
 - React Children
@@ -27,19 +24,21 @@ Table of Contents
 - Styled components -->
 
   * [React Section](react/index.md)
-    * [React](react/react.md)
-    * [Styling](react/styling.md)
     * [Awesome React Book](react/awesome-react-book.md)
-    * [Best practices](best-practices/react-best-practices.md)
-    * [Project structure](project-structure/project-structure.md)
-    * [Jest](jest/jest.md)
+    * [React](react/react.md)  
+    * [React Children components](react/react.md)  
+    * [Styled components](react/styling.md)
+    * [React best practices](best-practices/react-best-practices.md)
+    * [React Project structure](project-structure/project-structure.md)
+    * [Jest testing](jest/jest.md)
 
-* [Stories for developers](stories/stories.md)
 
-[CSS Section](css/index.md)
+  * [CSS Section](css/index.md)
     * [CSS](css/css.md)
     * [CSS Grid](css/css-grid.md)    
     * [Flexbox](css/flexbox.md)
+
+* [Stories for developers](stories/stories.md)
 
 * [Machine learning](machine-learning/machine-learning.md)
 
@@ -95,7 +94,7 @@ GraphQL
 
  -->
 
-## development
+<!-- ## development -->
 
 
 
@@ -103,11 +102,6 @@ GraphQL
     * [Startup Jobs](jobs/jobs.md)
     * [Internships](jobs/internships.md)
 
-* [JS]()
-    * [JS](js/js.md)
-    * [Complex structures](js/complex-structures.md)
-    * [Create npm module](create-npm-module/create-npm-module.md)
-* [Machine learning](machine-learning/machine-learning.md)
 
 
 <!-- * React
@@ -116,7 +110,7 @@ GraphQL
 - React project structure
 - Styled components -->
 
-* [React]()
+<!-- * [React]()
     * [React](react/react.md)
     * [Styling](react/styling.md)
     * [Awesome React Book](react/awesome-react-book.md)
@@ -139,47 +133,4 @@ GraphQL
     * [Git](git/git.md)
     * [Cool Github Repositories](github/cool-github-repositories.md)
     * [Graphqh](graphql/graphqh.md)    
-    * [Credits: Images](images.md)
-
-
- <!--
-
-future sections:
-
-* Stories to read
-* Publishing your module at npm
-* Design
-* Jobs/Internships
-
-* React
-- React Children
-- React best practices
-- React project structure
-- Styled components
-
-* JS
-* Cool Github repositories
-* Open Source
-Machine Learning
-CSS
-CSS Grid
-Flexbox
-Git
-GraphQL
-
-
- * [react](#react)
- * [React Book](#book)
- * [React Styling](#styling)
- * [JS](#js)
- * [CORB / CORS setup nodejs + react](#xxx)
- * [cool github repositories](#cool-github-repositories)
- * [Open Source](#oss)
- * [ML](#ml)
- * [CSS](#css)
- * [CSS Grid](#css-grid)
- * [Stories](#stories)
-
- -->
-
-## development -->
+    * [Credits: Images](images.md) -->

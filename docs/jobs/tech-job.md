@@ -1,5 +1,5 @@
 ---
-id: jobs
+id: tech-job
 title: Startup Jobs
 sidebar_label: Startup Jobs
 ---
