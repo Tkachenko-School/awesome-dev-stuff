@@ -1,3 +1,8 @@
+---
+id: create-npm-module
+title: Create npm module
+sidebar_label: Create npm module
+---
 
 #### Rollup.js
 - [**Rollupjs guide/en**](https://rollupjs.org/guide/en)

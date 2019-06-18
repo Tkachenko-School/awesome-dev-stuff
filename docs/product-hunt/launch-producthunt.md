@@ -1,7 +1,7 @@
 ---
 id: launch-producthunt
-title: Launch producthunt
-sidebar_label: Launch producthunt
+title: Launch your project on ProductHunt Collection
+sidebar_label: Launch on ProductHunt
 ---
 
 For details, check this repository

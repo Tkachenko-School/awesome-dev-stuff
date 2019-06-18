@@ -3,7 +3,11 @@ id: js
 title: JS
 sidebar_label: JS
 ---
-
+---
+id: create-npm-module
+title: Create npm module
+sidebar_label: Create npm module
+---
 
 - [a-map-to-modern-javascript-development-2017](https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c)
 - [why-i-still-use-javascript-function-statements](https://medium.freecodecamp.org/constant-confusion-why-i-still-use-javascript-function-statements-984ece0b72fd)

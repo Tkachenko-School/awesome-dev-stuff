@@ -2,7 +2,11 @@
 id: react-best-practices
 title: React Best practices
 ---
-
+---
+id: create-npm-module
+title: Create npm module
+sidebar_label: Create npm module
+---
 
 - [**Our best practices for writing React components**](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8)
 - [**React Dynamic creation of list item inside component**](https://stackoverflow.com/questions/46514351/react-dynamic-creation-of-list-item-inside-component)

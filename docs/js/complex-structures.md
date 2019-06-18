@@ -2,6 +2,11 @@
 id: complex-structures
 title: Complex structures
 ---
+---
+id: create-npm-module
+title: Create npm module
+sidebar_label: Create npm module
+---
 
 
 - [**Immutable Js**](https://facebook.github.io/immutable-js/docs/#/)

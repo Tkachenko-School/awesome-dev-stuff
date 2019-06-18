@@ -1,3 +1,8 @@
+---
+id: create-npm-module
+title: Create npm module
+sidebar_label: Create npm module
+---
 
 #### Rollup React
 - [**How i set up a React component library with rollup**](https://medium.com/tech-grandata-com/how-i-set-up-a-react-component-library-with-rollup-be6ccb700333)

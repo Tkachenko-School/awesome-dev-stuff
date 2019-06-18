@@ -1,14 +1,14 @@
 {
   "docs": {
     " ": [
-      "best-practices/best-practices",
+      "react/best-practices",
 
       "free-code-courses",
 
 
 
 
-      "create-npm-module/create-npm-module",
+      "create-npm-module/create-npm-module-section",
 
       "css/css",
 
@@ -20,11 +20,11 @@
       "git/git",
 
 
-      "graphql/graphqh",
+      "graphql/graphql",
 
-      "images",
+
       "jest/jest",
-
+      "jobs/jobs-section",
       "jobs/internships",
       "jobs/jobs",
 
@@ -34,16 +34,18 @@
 
 
 
-      "project-structure/project-structure",
+
 
       "react/react",
       "react/styling",
+      "react/project-structure",
 
       "machine-learning/machine-learning",
       "stories/stories",
       "open-source/open-source",
       "github/cool-github-repositories",
-      "product-hunt/launch-producthunt"
+      "product-hunt/launch-producthunt",
+      "images"
     ]
   }
 }

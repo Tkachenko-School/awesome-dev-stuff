@@ -1,7 +1,7 @@
 ---
 id: cool-github-repositories
 title: Cool Github Repositories
-sidebar_label: cool-github-repositories
+sidebar_label: Cool Github Repositories
 ---
 
 

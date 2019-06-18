@@ -2,6 +2,11 @@
 id: unsorted-section
 title: Unsorted Section
 ---
+---
+id: awesome-react-book
+title: Awesome React Book by Flavio Copes
+sidebar_label: Awesome React Book by Flavio Copes
+---
 
 
 * [Open source](open-source/open-source.md)

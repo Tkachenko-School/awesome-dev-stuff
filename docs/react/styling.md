@@ -1,7 +1,7 @@
 ---
 id: styling
-title: Styling
-sidebar_label: Styling
+title: Styled Components
+sidebar_label: Styled Components
 ---
 
 
