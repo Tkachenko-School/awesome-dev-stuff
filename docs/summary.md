@@ -18,13 +18,13 @@ Table of Contents
 
   * [Publishing your module at npm](create-npm-module/index.md)
     * [First articles to read](create-npm-module/create-npm-module.md)
-    * [Connect Babel](create-npm-module/babel.md)
+    * [Connect Babel to your project](create-npm-module/babel.md)
     * [RollupJS](create-npm-module/RollupJS.md)
     * [Rollup + React configuration](create-npm-module/rollup-react.md)
 
   * [React Section](react/index.md)
     * [Awesome React Book by Flavio Copes](react/awesome-react-book.md)
-    * [React](react/react.md)  
+    * [Different articles related to React ecosystem](react/react.md)  
     * [React Children components](react/react.md)  
     * [Styled components](react/styling.md)
     * [React best practices](best-practices/react-best-practices.md)
@@ -48,7 +48,7 @@ Table of Contents
     * [Design](design/design.md)
     * [Git](git/git.md)
     * [Cool Github Repositories](github/cool-github-repositories.md)
-    * [Graphqh](graphql/graphqh.md)    
+    * [GraphQL](graphql/graphql.md)    
     * [IndieHackers articles/podcasts collection](indie-hackers/indie-hackers.md)    
     * [Credits: Images](images.md)
 

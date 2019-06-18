@@ -1,7 +1,7 @@
 ---
-id: graphqh
-title: Graphqh
-sidebar_label: Graphqh
+id: graphql
+title: GraphQL
+sidebar_label: GraphQL
 ---
 
 For details, check this repository

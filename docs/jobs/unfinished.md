@@ -20,37 +20,37 @@ https://www.producthunt.com/posts/teamstack
 - []() https://marketingliftoff.thinkific.com/
 
 
-- **[Remotive 3.0]**(https://www.producthunt.com/posts/remotive-3-0)
+- [**Remotive 3.0]**(https://www.producthunt.com/posts/remotive-3-0)
 
 
 
-- **[hackreactor.com]**(https://www.hackreactor.com/)
+- [**hackreactor.com]**(https://www.hackreactor.com/)
 
 Reboot Kamp is the coding bootcamp of the Middle East.
-- **[rbk.org]**(http://rbk.org/)
+- [**rbk.org]**(http://rbk.org/)
 
 100+ best UX / HCI programs in the world
-- **[topuxschool.com]**(https://www.topuxschool.com/program/us?ref=producthunt)
+- [**topuxschool.com]**(https://www.topuxschool.com/program/us?ref=producthunt)
 
 
 it's more like a school
 
-- **[codeinstitute.net]**(https://codeinstitute.net/)
+- [**codeinstitute.net]**(https://codeinstitute.net/)
 
 
 
 schoooools
 
 Tool for showcasing your commits - Sourcerer - A visual profile for software engineers
-- **[sourcerer.io]**(https://sourcerer.io/)
+- [**sourcerer.io]**(https://sourcerer.io/)
 
 
-- **[microverse.org]**(https://www.microverse.org/)
+- [**microverse.org]**(https://www.microverse.org/)
 
 
 
 
-- **[sugarlabs.org]**(https://sugarlabs.org/)
+- [**sugarlabs.org]**(https://sugarlabs.org/)
 
 
 
