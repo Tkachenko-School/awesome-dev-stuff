@@ -27,8 +27,8 @@ Table of Contents
     * [Different articles related to React ecosystem](react/react.md)  
     * [React Children components](react/react.md)  
     * [Styled components](react/styling.md)
-    * [React best practices](best-practices/react-best-practices.md)
-    * [React project structure](project-structure/project-structure.md)
+    * [React best practices](react/react-best-practices.md)
+    * [React project structure](react/project-structure.md)
     * [Jest testing](jest/jest.md)
 
 
