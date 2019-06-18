@@ -211,7 +211,7 @@ https://jobbatical.com/blog/category/hiring/advice/
 
 
 
-- [**Algorithms in Javascript]**(https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
+- [**Algorithms in Javascript**](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
 
 
 https://medium.com/free-code-camp/software-engineering-interviews-744380f4f2af
