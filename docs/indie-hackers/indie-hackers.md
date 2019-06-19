@@ -13,6 +13,7 @@ sidebar_label: IndieHackers Article
 - []() https://www.indiehackers.com/podcast/092-derek-andersen-and-david-spinks-of-bevy
 - []() https://www.indiehackers.com/podcast/087-aj-of-carrd  
 - []() https://www.indiehackers.com/podcast/086-lynne-tye-of-key-values
+https://www.indiehackers.com/podcast/097-rosie-sherry-of-ministry-of-testing
 
 #### Interviews
 
@@ -43,3 +44,10 @@ https://www.indiehackers.com/post/57e24c342b
 https://www.indiehackers.com/post/c17aad0395
 https://www.indiehackers.com/post/f71ef9ae02
 https://www.indiehackers.com/post/440a3172e7
+
+
+https://www.indiehackers.com/interview/b46a87fe2a
+
+https://www.indiehackers.com/post/8fa914a990
+
+https://www.indiehackers.com/interview/44f603e402
