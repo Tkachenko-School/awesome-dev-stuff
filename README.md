@@ -37,3 +37,7 @@ How to find tech job or land an internship in tech company?
 You just want to read handpicked interested stories?
 
 Another topics like Jest testing, Open Source movement, CSS, Design, GraphQL and many more
+
+
+
+I should replace all old medium/freecodecamp with their new website....
