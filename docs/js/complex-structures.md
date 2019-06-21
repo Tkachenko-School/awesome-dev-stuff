@@ -25,3 +25,28 @@ sidebar_label: Create npm module
 - [**Javascript algorithms**](https://github.com/trekhleb/javascript-algorithms)
 - [**Luke Lin Js stl - Github**](https://github.com/LukeLin/js-stl)
 - [**Why is immutability so important or needed in Javascript**](https://stackoverflow.com/questions/34385243/why-is-immutability-so-important-or-needed-in-javascript)
+
+
+
+<!-- 
+
+
+observer pattern js
+https://medium.com/@patrickackerman/the-observer-pattern-with-vanilla-javascript-8f85ea05eaa8
+https://pawelgrzybek.com/the-observer-pattern-in-javascript-explained/
+https://joshbedo.github.io/JS-Design-Patterns/
+https://medium.com/@majdasab/observer-pattern-with-javascript-es6-classes-2a19851e1506
+https://www.sitepoint.com/javascript-design-patterns-observer-pattern/
+
+
+
+
+https://www.google.com/search?rlz=1C1GCEA_enUA850UA850&ei=pUMNXZD3AemBk74P4rmJ2AY&q=js+patterns+templates&oq=js+patterns+tem&gs_l=psy-ab.3.0.33i21l2.537678.547116..548682...1.0..0.120.1329.15j1......0....1..gws-wiz.......0i71j35i39j0i67j0j0i20i263j0i203j0i10i203j0i10j0i22i10i30j0i22i30j33i22i29i30.A-SvEu7yMGM
+
+
+
+
+https://shichuan.github.io/javascript-patterns/
+
+
+https://github.com/shichuan/javascript-patterns/blob/master/code-reuse-patterns/prototypal-inheritance.html -->
