@@ -28,7 +28,7 @@ sidebar_label: Create npm module
 
 
 
-<!-- 
+<!--
 
 
 observer pattern js
@@ -50,3 +50,6 @@ https://shichuan.github.io/javascript-patterns/
 
 
 https://github.com/shichuan/javascript-patterns/blob/master/code-reuse-patterns/prototypal-inheritance.html -->
+
+
+https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know
