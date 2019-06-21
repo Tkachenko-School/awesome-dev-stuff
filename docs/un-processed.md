@@ -12,6 +12,13 @@
 - []() https://coderstory.io/interviews/being-able-to-teach-what-youve-learned-is-key-to-your-knowledge
 
 
+#### free e-book
+https://blog.hubspot.com/marketing/how-to-create-an-ebook-free-templates
+https://offers.hubspot.com/ebook-templates?hubs_post-cta=anchor&hsCtaTracking=cb1ee805-aa9f-4cad-9c83-580e5c535243%7C86cbf137-0925-463e-bbce-5d1f86186f94
+https://www.canva.com/create/ebooks/
+
+
+
 
 
 
