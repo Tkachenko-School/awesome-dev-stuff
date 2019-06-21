@@ -257,19 +257,6 @@ https://github.com/github/explore/blob/master/CONTRIBUTING.md#curating-a-new-top
 
 
 
-Devops
-https://hackernoon.com/what-devops-taught-us-in-2018-e5f6637a4921
-https://hackernoon.com/devops-transformation-7-ways-to-hack-the-culture-909e84b34aa0
-https://hackernoon.com/gitops-or-why-the-future-has-no-dashboards-38ce026a3c56
-https://hackernoon.com/devops-makes-inefficient-development-for-search-a-thing-of-the-past-28ab1b432011
-
-
-
-
-Travis CI / CI
-https://hackernoon.com/automate-deployment-5f13b918f029
-https://hackernoon.com/anti-patterns-of-continuous-integration-e1cafd47556d
-https://hackernoon.com/becoming-awesome-creating-a-culture-of-continuous-improvement-c2a4d0288c99
 
 
 Rec
@@ -279,12 +266,7 @@ https://hackernoon.com/how-to-recruit-and-retain-great-engineers-91227165d23d
 
 
 
-Story Dev
-https://hackernoon.com/what-makes-a-good-software-development-manager-1323464e7615
-https://hackernoon.com/three-fundamental-soft-skills-for-software-engineers-96d7c3844232
-https://hackernoon.com/the-future-of-software-development-modular-intelligent-and-rickety-e24de6d5102f
-https://hackernoon.com/continuous-refactoring-whats-stopping-you-437c71bf94cf
-https://hackernoon.com/how-i-switched-career-and-what-i-have-achieved-in-the-last-4-years-as-a-developer-66cabf29a34a
+
 
 
 
