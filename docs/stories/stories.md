@@ -49,3 +49,14 @@ sidebar_label: Stories
 - [**What’s the Difference Between a Programmer, Coder, Developer, and Engineer?**](https://blog.codegiant.io/whats-the-difference-between-a-programmer-coder-developer-and-engineer-bd315404de7)
 <!-- - [****](https://medium.freecodecamp.org/the-most-important-skill-a-programmer-can-learn-9d410c786baf)
  -->
+
+
+
+ <!-- Story Dev
+ https://hackernoon.com/what-makes-a-good-software-development-manager-1323464e7615
+ https://hackernoon.com/three-fundamental-soft-skills-for-software-engineers-96d7c3844232
+ https://hackernoon.com/the-future-of-software-development-modular-intelligent-and-rickety-e24de6d5102f
+ https://hackernoon.com/continuous-refactoring-whats-stopping-you-437c71bf94cf
+ https://hackernoon.com/how-i-switched-career-and-what-i-have-achieved-in-the-last-4-years-as-a-developer-66cabf29a34a
+
+  -->

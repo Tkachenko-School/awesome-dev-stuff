@@ -291,16 +291,7 @@ https://hackernoon.com/how-i-switched-career-and-what-i-have-achieved-in-the-las
 jobboard gatsby
 https://hackernoon.com/building-a-jobs-board-with-gatsby-js-a-case-study-94eeb6bc9bd4
 
-Git
-https://hackernoon.com/resolving-tricky-situations-with-git-reset-and-rebase-b424915d7735
-https://hackernoon.com/trunk-based-development-vs-git-flow-b1b23044dfb
-https://hackernoon.com/gitops-or-why-the-future-has-no-dashboards-38ce026a3c56
-https://hackernoon.com/reset-101-ba05d9e3f2c7
 
-micro
-https://hackernoon.com/beginners-guide-to-microservices-explaining-it-to-a-5-year-old-4481f5aba466
-https://hackernoon.com/how-to-organize-your-monolith-before-breaking-it-into-services-69cbdb9248b0
-https://hackernoon.com/dont-use-microservices-c3b5484b329a
 
 Outsource
 https://hackernoon.com/outsourcing-vs-in-house-development-a27a1c910d1c
@@ -309,19 +300,6 @@ https://hackernoon.com/5-tips-for-effective-intercultural-communications-in-soft
 https://hackernoon.com/why-are-nordic-companies-falling-in-love-with-it-outsourcing-313009053736
 https://hackernoon.com/8-reasons-why-outsourcing-software-development-works-f399fcb5d2d2
 
-
-js websites to learn
-https://hackernoon.com/10-websites-to-learn-javascript-for-beginners-31e13bbdbb5c
-
-https://hackernoon.com/upgrade-your-javascript-array-knowledge-b917431408d0
-
-https://hackernoon.com/how-i-ruined-my-javascript-code-and-still-won-the-coding-challenge-b32ea4215b1
-https://hackernoon.com/why-you-should-know-latest-javascript-4a72a55fca5d
-https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104
-https://hackernoon.com/top-javascript-trends-to-watch-in-2019-3ff6dd3cbf48
-
-https://codeburst.io/javascript-es6-iterables-and-iterators-de18b54f4d4
-https://codeburst.io/why-to-use-javascript-proxy-5cdc69d943e3
 
 
 School

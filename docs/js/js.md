@@ -62,3 +62,29 @@ BOOK
 <!-- https://www.javascripter.co/basics/ OR https://github.com/russellrosario/JavaScripter
 
 https://github.com/kriasoft/Folder-Structure-Conventions -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- js websites to learn
+https://hackernoon.com/10-websites-to-learn-javascript-for-beginners-31e13bbdbb5c
+
+https://hackernoon.com/upgrade-your-javascript-array-knowledge-b917431408d0
+
+https://hackernoon.com/how-i-ruined-my-javascript-code-and-still-won-the-coding-challenge-b32ea4215b1
+https://hackernoon.com/why-you-should-know-latest-javascript-4a72a55fca5d
+https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104
+https://hackernoon.com/top-javascript-trends-to-watch-in-2019-3ff6dd3cbf48
+
+https://codeburst.io/javascript-es6-iterables-and-iterators-de18b54f4d4
+https://codeburst.io/why-to-use-javascript-proxy-5cdc69d943e3 -->
