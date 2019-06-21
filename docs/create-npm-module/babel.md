@@ -11,3 +11,8 @@ sidebar_label: Create npm module
 - [**Fast way to upgrade to babel 7-3**](https://medium.com/@tonypai/fast-way-to-upgrade-to-babel-7-3f8cf97b4b3d)
 - [**Parse react components with babel and visualize them**](https://itnext.io/parse-react-components-with-babel-and-visualize-them-45062046cb72)
 - [**Babel upgrade from babel 6x to 7 0**](https://medium.com/@maicmi/babel-upgrade-from-babel-6-x-to-7-0-58809bd63d8)
+
+
+<!-- 
+babel7
+https://medium.com/oredi/webpack-with-babel-7-b61f7caa9565 -->

@@ -264,3 +264,36 @@ https://itnext.io/server-side-rendering-with-react-redux-and-react-router-fa5b67
 
 
 https://github.com/lydiahallie/javascript-questions
+
+
+
+
+
+
+
+
+
+
+
+jobs
+https://hackernoon.com/how-your-job-may-be-crippling-your-tech-skills-1b1b7a8ff3fd
+https://hackernoon.com/interview-tackling-complex-architecture-dos-and-don-ts-d6f8f34d694d
+https://hackernoon.com/ready-to-hire-calculate-the-hidden-costs-of-scale-first-25a3c93b9d65
+https://hackernoon.com/how-to-choose-a-startup-to-work-for-by-thinking-like-an-investor-5567345a82c7
+https://hackernoon.com/no-portfolio-whats-your-excuse-fc2136a19672
+https://hackernoon.com/women-in-tech-software-engineer-career-advice-8cb70cc5c13c
+
+
+
+
+https://hackernoon.com/my-4-year-journey-from-bootcamp-attendee-to-senior-software-engineer-b369896d37b9
+https://hackernoon.com/software-development-bootcamp-survival-guide-636d725ac253
+
+
+
+https://hackernoon.com/what-companies-are-looking-for-in-a-frontend-developer-in-2019-60e59898c408
+https://hackernoon.com/why-your-tech-interview-process-may-be-flawed-47a0cb70b1d4
+https://hackernoon.com/what-tech-recruiters-actually-look-for-in-your-resume-and-first-interview-f27638c2f2de
+https://hackernoon.com/how-i-got-multiple-software-engineer-job-offers-switching-from-another-industry-d77651145b0e
+https://hackernoon.com/beyond-the-recruiting-funnel-the-candidate-climb-d9eb79ffcf0a
+https://www.freecodecamp.org/news/how-to-build-an-amazing-linkedin-profile-15-proven-tips/

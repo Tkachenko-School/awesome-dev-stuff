@@ -82,3 +82,10 @@ https://medium.com/the-code-review/add-badges-for-travisci-coveralls-and-code-cl
 
 https://medium.com/recraftrelic/building-a-react-component-as-a-npm-module-18308d4ccde9
 -->
+
+
+<!-- https://datree.io/npm-version/ -->
+
+
+
+<!-- https://github.com/conventional-changelog/standard-version -->
