@@ -1,6 +1,9 @@
 # awesome-dev-stuff
 
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChickenKyiv/awesome-dev-stuff) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/ChickenKyiv/awesome-dev-stuff)
+![astronaut](https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true)
+
 Welcome to awesome-dev-stuff website(yeah, I should find a better name).
 It's a place, where Arthur keeping all links, related to coding part in his company.
 He is sharing them frequently with his interns, and thinks you may like it too or find interesting.
