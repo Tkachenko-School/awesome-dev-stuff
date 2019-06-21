@@ -233,3 +233,17 @@ https://www.freecodecamp.org/news/the-real-life-secret-to-paying-off-student-loa
 
 
 =============
+https://github.com/sindresorhus/awesome#programming-languages
+https://github.com/sindresorhus/awesome#business
+https://github.com/lukasz-madon/awesome-remote-job#readme
+https://github.com/tramcar/awesome-job-boards#readme
+https://github.com/mezod/awesome-indie#readme
+https://github.com/mmccaff/PlacesToPostYourStartup#readme
+https://github.com/opencompany/awesome-open-company#readme
+
+
+
+https://github.com/collections/learn-to-code
+
+
+https://github.com/github/explore/blob/master/CONTRIBUTING.md#curating-a-new-topic-or-collection
