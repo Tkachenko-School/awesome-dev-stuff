@@ -35,7 +35,7 @@ https://www.indiehackers.com/podcast/097-rosie-sherry-of-ministry-of-testing
 - []() https://www.indiehackers.com/interview/834fc7820a
 https://www.indiehackers.com/interview/02d83c53e6
 
-
+<!--
 
 - []() https://www.indiehackers.com/post/be77a7fc52
 - []() https://www.indiehackers.com/post/29020022ef
@@ -51,3 +51,6 @@ https://www.indiehackers.com/interview/b46a87fe2a
 https://www.indiehackers.com/post/8fa914a990
 
 https://www.indiehackers.com/interview/44f603e402
+
+https://www.indiehackers.com/interview/dd465a1b2d
+https://www.indiehackers.com/podcast/098-adam-wathan-of-refactoring-ui -->
