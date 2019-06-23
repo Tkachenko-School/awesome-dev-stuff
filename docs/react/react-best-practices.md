@@ -1,6 +1,7 @@
 ---
 id: react-best-practices
-title: | React Best practices
+title: React Best practices
+sidebar_label: | React Best practices
 ---
 
 - [**Our best practices for writing React components**](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8)
