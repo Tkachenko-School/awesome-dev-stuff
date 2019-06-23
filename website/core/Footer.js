@@ -40,28 +40,22 @@ class Footer extends React.Component {
 
 
             <h5>Sections</h5>
-            <a href={this.docUrl('react/index.html', this.props.language)}>
-              React
+            <a href={this.docUrl('react/react-section', this.props.language)}>
+              React Section
             </a>
-            <a href={this.docUrl('js/index.html', this.props.language)}>
-              JS
+            <a href={this.docUrl('js/js-section', this.props.language)}>
+              JS Section
             </a>
-            <a href={this.docUrl('css/index.html', this.props.language)}>
+            <a href={this.docUrl('css/css', this.props.language)}>
               CSS
             </a>
-            <a href={this.docUrl('create-npm-module/index.html', this.props.language)}>
+            <a href={this.docUrl('create-npm-module/create-npm-module-section', this.props.language)}>
               Create a NPM Module
             </a>
-            <a href={this.docUrl('stories/stories.html', this.props.language)}>
+            <a href={this.docUrl('stories/stories', this.props.language)}>
               Tech stories
             </a>
-            <a href={this.docUrl('unsorted/index.html', this.props.language)}>
-              Unsorted
-            </a>
-
-
-
-
+            
           </div>
           <div>
 
