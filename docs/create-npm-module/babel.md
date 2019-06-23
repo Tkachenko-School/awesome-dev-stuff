@@ -1,7 +1,7 @@
 ---
 id: create-npm-module-babel
 title: Babel
-sidebar_label: Babel
+sidebar_label: | Babel
 ---
 
 #### Babel

@@ -1,7 +1,7 @@
 ---
 id: jobs
 title: Remote Jobs
-sidebar_label: Remote Jobs
+sidebar_label: | Remote Jobs
 ---
 
 Here Arthur plan to keep list of projects, that can help to find a startup job

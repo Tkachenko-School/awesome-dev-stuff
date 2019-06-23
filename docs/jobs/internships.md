@@ -1,7 +1,7 @@
 ---
 id: internships
 title: Internships
-sidebar_label: Internships
+sidebar_label: | Internships
 ---
 
 

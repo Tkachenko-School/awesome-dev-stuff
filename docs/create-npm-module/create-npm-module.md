@@ -1,7 +1,7 @@
 ---
 id: create-npm-module
 title: Create npm module
-sidebar_label: Create npm module
+sidebar_label: | Create npm module
 ---
 
 <!--  Add TOC here  -->

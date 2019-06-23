@@ -7,3 +7,4 @@ sidebar_label: > Jobs section
 * [Startup Jobs](jobs/tech-job.md)
 * [Internships](jobs/internships.md)
 * [Tech Job Boards](jobs/job-boards.md)
+* [Jobs](jobs/remote.md)

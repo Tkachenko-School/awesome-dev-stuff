@@ -1,7 +1,7 @@
 ---
 id: tech-job
 title: Startup Jobs
-sidebar_label: Startup Jobs
+sidebar_label: | Startup Jobs
 ---
 
 Here Arthur plan to keep list of projects, that can help to find a startup job

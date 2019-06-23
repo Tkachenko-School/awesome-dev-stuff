@@ -1,7 +1,7 @@
 ---
 id: create-npm-module-rollup
 title: RollupJS 
-sidebar_label: RollupJS
+sidebar_label: | RollupJS
 ---
 
 #### Rollup.js

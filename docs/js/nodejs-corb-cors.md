@@ -1,7 +1,7 @@
 ---
 id: nodejs-corb-cors
 title: NodeJS corb cors
-sidebar_label: NodeJS CORB CORS
+sidebar_label: | NodeJS CORB CORS
 ---
 
 - [https://stackoverflow.com/a/8572637](https://stackoverflow.com/a/8572637)

@@ -1,7 +1,7 @@
 ---
 id: job-boards
 title: Tech Job Boards
-sidebar_label: Tech Job Boards
+sidebar_label: | Tech Job Boards
 ---
 
 
