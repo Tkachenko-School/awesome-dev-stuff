@@ -5,11 +5,8 @@
 
       "free-code-courses",
 
-
-
-
       "create-npm-module/create-npm-module-section",
-
+    
       "css/css",
 
       "css-grid/css-grid",
@@ -19,9 +16,7 @@
       "flexbox/flexbox",
       "git/git",
 
-
       "graphql/graphql",
-
 
       "jest/jest",
       "jobs/jobs-section",
@@ -29,15 +24,16 @@
       "jobs/jobs",
 
 
-      "js/js",
-
-
-
-
-
-
+      "js/js-section",
+      "js/complex-structures",
+      "js/nodejs-corb-cors",
+      
+      "react/react-section",
       "react/react",
       "react/styling",
+      "react/awesome-react-book",
+      "react/react-best-practices",
+      "react/react-children",
       "react/project-structure",
 
       "machine-learning/machine-learning",

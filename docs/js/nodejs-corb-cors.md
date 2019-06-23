@@ -4,8 +4,6 @@ title: NodeJS corb cors
 sidebar_label: NodeJS CORB CORS
 ---
 
-
-
 - [https://stackoverflow.com/a/8572637](https://stackoverflow.com/a/8572637)
 - [https://expressjs.com/en/resources/middleware/cors.html](https://expressjs.com/en/resources/middleware/cors.html)
 - [avoid-cors-requests-for-a-react-app](https://medium.com/@nabil6391/avoid-cors-requests-for-a-react-app-2988e0061c1a)

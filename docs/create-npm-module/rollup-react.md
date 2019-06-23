@@ -1,7 +1,7 @@
 ---
-id: create-npm-module
-title: Create npm module
-sidebar_label: Create npm module
+id: create-npm-module-rollup-react
+title: Rollup ReactJS
+sidebar_label: | Rollup ReactJS
 ---
 
 #### Rollup React

@@ -1,7 +1,7 @@
 ---
 id: awesome-react-book
 title: Awesome React Book by Flavio Copes
-sidebar_label: Awesome React Book by Flavio Copes
+sidebar_label: |  Awesome React Book by Flavio Copes
 ---
 
 

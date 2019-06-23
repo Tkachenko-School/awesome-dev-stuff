@@ -6,11 +6,6 @@ sidebar_label: Free code courses
 
 Note: for different code languages there different platforms that better working for students.
 
-
-
-
-
-
 ---
 - [Khanacademy](https://www.khanacademy.org/)
 - [Codecademy](https://www.codecademy.com/)
@@ -25,21 +20,14 @@ Note: for different code languages there different platforms that better working
 - [LearnPython](https://www.learnpython.org/)
 - [Codeconquest](https://www.codeconquest.com/)
 - [Tutsplus](https://tutsplus.com/)
-
-
-
 - [The best free resources to learn programming online in 2019](https://medium.com/quick-code/the-best-free-resources-to-learn-programming-online-in-2019-4dfe23a62c7f)
 - [Sololearn](https://www.sololearn.com/)
 - [5 free sites to learn to code](https://hackernoon.com/5-free-sites-to-learn-to-code-c9c87ce24f5d)
 - [Alistapart](https://alistapart.com/)
 - [W3schools](https://www.w3schools.com/)
 - [CodingDojo](https://www.codingdojo.com/)
-
 ---------
-
-
 Different similar articles if you want to read more:
-
 - [What are the best sites to learn how to code for free](https://www.quora.com/What-are-the-best-sites-to-learn-how-to-code-for-free)
 - [learn code for free](https://coderseye.com/learn-code-for-free/)
 - [best places to learn to code for free](https://www.thebalancecareers.com/best-places-to-learn-to-code-for-free-2071392)

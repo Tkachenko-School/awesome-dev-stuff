@@ -3,11 +3,6 @@ id: js
 title: JS
 sidebar_label: JS
 ---
----
-id: create-npm-module
-title: Create npm module
-sidebar_label: Create npm module
----
 
 - [a-map-to-modern-javascript-development-2017](https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c)
 - [why-i-still-use-javascript-function-statements](https://medium.freecodecamp.org/constant-confusion-why-i-still-use-javascript-function-statements-984ece0b72fd)
@@ -20,9 +15,6 @@ sidebar_label: Create npm module
 - [joi-awesome-code-validation-for-node-js-and-express](https://itnext.io/joi-awesome-code-validation-for-node-js-and-express-514b5570ce20)
 - [the-definite-guide-to-handling-errors-gracefully-in-javascript](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
 - [javascript-fundamentals-syntax-structure](https://itnext.io/javascript-fundamentals-syntax-structure-5e9badd0cc4f)
-
-<!-- - []() -->
-
 - [3-javascript-performance-mistakes-you-should-stop-doing](https://hackernoon.com/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951)
 - [two-years-of-functional-programming-in-javascript-lessons-learned](https://hackernoon.com/two-years-of-functional-programming-in-javascript-lessons-learned-1851667c726)
 - [little-known-features-of-javascript](https://blog.usejournal.com/little-known-features-of-javascript-901665291387)

@@ -1,11 +1,6 @@
 ---
 id: react-best-practices
-title: React Best practices
----
----
-id: create-npm-module
-title: Create npm module
-sidebar_label: Create npm module
+title: | React Best practices
 ---
 
 - [**Our best practices for writing React components**](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8)

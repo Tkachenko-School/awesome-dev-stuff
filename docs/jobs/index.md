@@ -1,11 +1,7 @@
 ---
 id: jobs-section
 title: Jobs section
----
----
-id: create-npm-module
-title: Create npm module
-sidebar_label: Create npm module
+sidebar_label: > Jobs section
 ---
 
 * [Startup Jobs](jobs/tech-job.md)

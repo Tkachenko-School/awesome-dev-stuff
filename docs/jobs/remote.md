@@ -26,7 +26,7 @@ https://hackernoon.com/leading-a-remote-team-and-being-a-digital-nomad-cautionar
 
 - [**Why Naval Ravikant thinks remote work is the future?**](https://angel.co/blog/why-naval-ravikant-thinks-remote-work-is-the-future)
 
-- [How to Find Remote Work in 2019](https://hackernoon.com/finding-remote-work-in-2019-7927932f7b9)
+- [**How to Find Remote Work in 2019**](https://hackernoon.com/finding-remote-work-in-2019-7927932f7b9)
 - [**Why Naval Ravikant thinks remote work is the future?**](https://angel.co/blog/why-naval-ravikant-thinks-remote-work-is-the-future)
 
 
@@ -54,7 +54,7 @@ Article from entrepreneur - they list a few websites
 
 
 
-- [**RemoteOK.io - Remote Internships **](https://remoteok.io/)
+- [**RemoteOK.io - Remote Internships**](https://remoteok.io/)
 
 - [**Remote friendly**](https://www.producthunt.com/posts/remote-friendly)
 

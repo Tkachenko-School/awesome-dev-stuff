@@ -1,7 +1,7 @@
 ---
-id: create-npm-module
-title: Create npm module
-sidebar_label: Create npm module
+id: create-npm-module-babel
+title: Babel
+sidebar_label: Babel
 ---
 
 #### Babel
