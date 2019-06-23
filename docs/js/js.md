@@ -80,3 +80,6 @@ https://hackernoon.com/top-javascript-trends-to-watch-in-2019-3ff6dd3cbf48
 
 https://codeburst.io/javascript-es6-iterables-and-iterators-de18b54f4d4
 https://codeburst.io/why-to-use-javascript-proxy-5cdc69d943e3 -->
+
+
+<!-- https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced -->
