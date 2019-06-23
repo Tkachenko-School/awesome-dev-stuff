@@ -41,7 +41,7 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     // { doc: 'summary', label: 'Summary' },
-    // {doc: 'summary', label: 'Summary'}, //@TODO add jobs?
+    {doc: 'summary', label: 'Summary'}, 
     {
       href: 'https://github.com/ChickenKyiv/awesome-dev-stuff',
        label: 'GitHub repository'

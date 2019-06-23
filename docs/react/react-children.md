@@ -1,9 +1,8 @@
 ---
 id: react-children
 title: Articles around 'React children components'
-sidebar_label: React children
+sidebar_label: | React children
 ---
-
 
 - [Reactjs documentation - composition vs inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
 - [https://github.com/facebook/react/issues/3226](https://github.com/facebook/react/issues/3226)
@@ -14,15 +13,8 @@ sidebar_label: React children
 - [Learning React container components](https://css-tricks.com/learning-react-container-components/)
 - [Connect React App REST API](https://www.andreasreiterer.at/connect-react-app-rest-api/)
 - [React js forms controlled components](https://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/)
-- [](https://gerardnico.com/ui/container?404id=lang%3Ajavascript%3Areact%3Acontainer&404type=bestPageName)
-- [](https://gist.github.com/sebkouba/a5ac75153ef8d8827b98)
-<!-- - []()
-- []()
-- []()
-- []() -->
-
-
-
+- [Article](https://gerardnico.com/ui/container?404id=lang%3Ajavascript%3Areact%3Acontainer&404type=bestPageName)
+- [Article2](https://gist.github.com/sebkouba/a5ac75153ef8d8827b98)
 - [React children deepdive](https://mxstbr.blog/2017/02/react-children-deepdive/)
 - [On change event for react child component to update state](https://stackoverflow.com/questions/40795906/onchange-event-for-react-child-component-to-update-state/40851765)
 - [Conditional rendering react](https://www.robinwieruch.de/conditional-rendering-react/)

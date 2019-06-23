@@ -1,7 +1,7 @@
 ---
 id: project-structure
 title: Project structure
-sidebar_label: Project structure
+sidebar_label: | Project structure
 ---
 
 - [**React project structure**](https://daveceddia.com/react-project-structure/)

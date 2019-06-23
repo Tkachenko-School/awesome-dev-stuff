@@ -1,13 +1,8 @@
 ---
 id: complex-structures
 title: Complex structures
+sidebar_label: | Complex structures
 ---
----
-id: create-npm-module
-title: Create npm module
-sidebar_label: Create npm module
----
-
 
 - [**Immutable Js**](https://facebook.github.io/immutable-js/docs/#/)
 - [**Immutable Js is intimidating heres how to get started**](https://medium.freecodecamp.org/immutable-js-is-intimidating-heres-how-to-get-started-2db1770466d6)
@@ -17,7 +12,6 @@ sidebar_label: Create npm module
 - [**Immutable js**](https://facebook.github.io/immutable-js/docs/#/)
 - [**Immutable js is intimidating heres how to get started**](https://medium.freecodecamp.org/immutable-js-is-intimidating-heres-how-to-get-started-2db1770466d6)
 - [**Dealing with complex objects in Javascript with walk js**](https://medium.com/front-end-weekly/dealing-with-complex-objects-in-javascript-with-walk-js-a5826c64569f)
-
 - [**Gladchinda hacks for creating Javascript arrays**](https://medium.freecodecamp.org/https-medium-com-gladchinda-hacks-for-creating-javascript-arrays-a1b80cb372b)
 - [**Eloquent Javascript**](https://eloquentjavascript.net/04_data.html)
 - [**Accessing nested objects in Javascript**](https://hackernoon.com/accessing-nested-objects-in-javascript-f02f1bd6387f)

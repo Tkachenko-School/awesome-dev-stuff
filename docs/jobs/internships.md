@@ -1,18 +1,15 @@
 ---
 id: internships
 title: Internships
-sidebar_label: Internships
+sidebar_label: | Internships
 ---
 
 
 #### Intercom blogs
 
 - [**What i learned when choosing my internship**](https://www.intercom.com/blog/what-i-learned-when-choosing-my-internship/)
-
 - [**Inbound recruiting engineers**](https://www.intercom.com/blog/inbound-recruiting-engineers/)
-
 - [**How we hire engineers part-2 culture contribution**](https://www.intercom.com/blog/how-we-hire-engineers-part-2-culture-contribution/)
-
 
 
 #### https://www.outreachy.org/
@@ -20,23 +17,14 @@ sidebar_label: Internships
 - [**How i got a remote paid internship at mozilla through outreachy?**](https://medium.freecodecamp.org/how-i-got-a-remote-paid-internship-at-mozilla-through-outreachy-60958fe9264a)
 
 
-
 #### Websites/projects
 
 - [**Summer 2019 internships**](https://github.com/christine-hu/summer-2019-internships)
 - [**Open Source Internships**](https://github.com/tapaswenipathak/Open-Source-Internships)
-
-
-- [**RemoteOK.io - Remote Internships **](https://remoteok.io/remote-internships)
-
-
+- [**RemoteOK.io - Remote Internships**](https://remoteok.io/remote-internships)
 - [**Slogro posts - producthunt.com**](https://www.producthunt.com/posts/slogro)
 - [**Newcraft**](https://www.producthunt.com/posts/newcraft)
-
-
 - [**internwise.co.uk**](https://www.internwise.co.uk/)
-
-
 
 #### Stories
 
@@ -47,7 +35,6 @@ sidebar_label: Internships
 - [**First steps for the internship**](https://medium.com/hng-internship/first-steps-for-the-internship-8157b26f4c26)
 - [**Landing first internship**](https://medium.com/@minhhoang_50731/landing-first-internship-2e27d0163d3e)
 - [**My first data scientist internship**](https://towardsdatascience.com/my-first-data-scientist-internship-7f7aa2ee4040)
-
 - [**Landing a software engineering internship**](https://medium.freecodecamp.org/landing-a-software-engineering-internship-66e0d541539a)
 - [**3 valuable lessons from my first ux design internship**](https://uxplanet.org/3-valuable-lessons-from-my-first-ux-design-internship-2489ab31b9cb)
 - [**how-i-got-my-software-engineering-internship-after-4-months-of-self-study**](https://medium.freecodecamp.org/how-i-got-my-software-engineering-internship-after-4-months-of-self-study-5b5c4836bd6f)
@@ -57,15 +44,7 @@ sidebar_label: Internships
 - [**Ace your developer internship with these simple steps**](https://medium.freecodecamp.org/ace-your-developer-internship-with-these-simple-steps-38134130bab1)
 - [**The unspoken truths of your first ux design internship**](https://uxplanet.org/the-unspoken-truths-of-your-first-ux-design-internship-272684a140c2)
 - [**How to hire and retain web developers?**](https://www.roberthalf.com/blog/management-tips/how-to-hire-and-retain-web-developers)
-
-
-
-
-
 - [**Diversity in tech how one vc firm is partnering with historically black colleges to address the pipeline issue**](https://www.forbes.com/sites/ruthumoh/2019/03/13/diversity-in-tech-how-one-vc-firm-is-partnering-with-historically-black-colleges-to-address-the-pipeline-issue/#3b6cccca12fa)
-
-
-
 - [**What happens when we stop looking at careers through the lens of**](https://blog.dropbox.com/topics/work-culture/what-happens-when-we-stop-looking-at-careers-through-the-lens-of)
 
 

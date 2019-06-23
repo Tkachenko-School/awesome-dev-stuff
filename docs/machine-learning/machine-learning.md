@@ -18,7 +18,6 @@ sidebar_label: Machine learning
 - [**Recipe1M: A Dataset for Learning Cross-Modal Embeddings for Cooking Recipes and Food Images**](http://im2recipe.csail.mit.edu/)
 - [**Artificial intelligence suggests recipes based on food photos**](http://news.mit.edu/2017/artificial-intelligence-suggests-recipes-based-on-food-photos-0720)
 - [**OpenAI GYM**](https://github.com/openai/gym)
-
 - [**Food image recognition with deep convolutional features**](https://www.google.com.ua/search?safe=active&q=food+image+recognition+with+deep+convolutional+features&sa=X&ved=0ahUKEwig3t-ryP7YAhXO26QKHTmgAIkQ1QIIhgEoAQ)
 - [**Food 101 dataset**](https://www.google.com.ua/search?safe=active&q=food+101+dataset&sa=X&ved=0ahUKEwig3t-ryP7YAhXO26QKHTmgAIkQ1QIIiQEoBA)
 - [**Food recognition api**](https://www.google.com.ua/search?safe=active&q=food+recognition+api&sa=X&ved=0ahUKEwig3t-ryP7YAhXO26QKHTmgAIkQ1QIIiwEoBg)

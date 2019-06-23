@@ -1,7 +1,7 @@
 ---
 id: react-section
 title: React Section
-sidebar_label: Articles related to React universe
+sidebar_label: > React Section
 ---
 
 * [React](react/react.md)

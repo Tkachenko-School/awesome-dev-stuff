@@ -1,7 +1,7 @@
 ---
 id: create-npm-module
 title: Create npm module
-sidebar_label: Create npm module
+sidebar_label: | Create npm module
 ---
 
 <!--  Add TOC here  -->
@@ -27,7 +27,24 @@ sidebar_label: Create npm module
 - [**React webpack babel setup**](https://www.robinwieruch.de/minimal-react-webpack-babel-setup/ )
 - [**Npm package permissions an ide**](https://hackernoon.com/npm-package-permissions-an-idea-441a02902d9b)
 
+---
 
+- [**How to create Javascript libraries in 2018 part-2**](https://developers.livechatinc.com/blog/how-to-create-javascript-libraries-in-2018-part-2/)
+- [**Microbundle**](https://github.com/developit/microbundle/)
+- [**Babel-eslint #installation**](https://github.com/babel/babel-eslint#installation)
+- [**How do i use experimental Javascriptes next features**](https://standardjs.com/#how-do-i-use-experimental-javascript-es-next-features)
+- [**Babel minify plugin**](https://github.com/babel/minify)
+- [**Webpack and rollup the same but different**](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
+- [**Node js tc 39 and modules**](https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e)
+- [**Pkg.module**](https://github.com/rollup/rollup/wiki/pkg.module)
+- [**Package browser field spec**](https://github.com/defunctzombie/package-browser-field-spec)
+- [**Package.json**](https://github.com/rollup/rollup-starter-lib/blob/master/package.json)
+- [**Rollup plugin**](https://github.com/rollup/rollup-plugin-babel)
+- [**Rollup plugin local resolve**](https://www.npmjs.com/package/rollup-plugin-local-resolve)
+- [**Commitlint**](https://github.com/conventional-changelog/commitlint)
+- [**Fruit #readme**](https://github.com/jaebradley/fruit#readme)
+- [**How to write a Javascript library automating releases with semantic release**](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automating-releases-with-semantic-release)
+- [**Semantic release**](https://github.com/semantic-release/semantic-release)
 
 
 
@@ -47,29 +64,6 @@ sidebar_label: Create npm module
 
 
 
-
-
----
-
-- [**How to create Javascript libraries in 2018 part-2**](https://developers.livechatinc.com/blog/how-to-create-javascript-libraries-in-2018-part-2/)
-- [**Microbundle**](https://github.com/developit/microbundle/)
-
-
-- [**Babel-eslint #installation**](https://github.com/babel/babel-eslint#installation)
-- [**How do i use experimental Javascriptes next features**](https://standardjs.com/#how-do-i-use-experimental-javascript-es-next-features)
-- [**Babel minify plugin**](https://github.com/babel/minify)
-- [**Webpack and rollup the same but different**](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
-- [**Node js tc 39 and modules**](https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e)
-- [**Pkg.module**](https://github.com/rollup/rollup/wiki/pkg.module)
-- [**Package browser field spec**](https://github.com/defunctzombie/package-browser-field-spec)
-- [**Package.json**](https://github.com/rollup/rollup-starter-lib/blob/master/package.json)
-- [**Rollup plugin**](https://github.com/rollup/rollup-plugin-babel)
-
-- [**Rollup plugin local resolve**](https://www.npmjs.com/package/rollup-plugin-local-resolve)
-- [**Commitlint**](https://github.com/conventional-changelog/commitlint)
-- [**Fruit #readme**](https://github.com/jaebradley/fruit#readme)
-- [**How to write a Javascript library automating releases with semantic release**](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automating-releases-with-semantic-release)
-- [**Semantic release**](https://github.com/semantic-release/semantic-release)
 
 
 <!-- https://docs.travis-ci.com/user/coveralls/

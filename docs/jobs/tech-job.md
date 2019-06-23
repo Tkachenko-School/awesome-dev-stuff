@@ -1,7 +1,7 @@
 ---
 id: tech-job
 title: Startup Jobs
-sidebar_label: Startup Jobs
+sidebar_label: | Startup Jobs
 ---
 
 Here Arthur plan to keep list of projects, that can help to find a startup job
@@ -94,12 +94,7 @@ Finance your education through Income Share Agreements
 - [**How my friend got an internship at Tesla after only 8 months of coding?**](https://hackernoon.com/how-my-friend-got-an-internship-at-tesla-after-only-8-months-of-coding-6578c32f3e77)
 
 
-
-
 ---
-
--
-
 <!-- add freebootcamp articles like how-i=got-job
 
 find 200 different posts at LI and repost them inside one project.

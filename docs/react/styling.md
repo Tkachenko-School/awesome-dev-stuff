@@ -1,9 +1,8 @@
 ---
 id: styling
 title: Styled Components
-sidebar_label: Styled Components
+sidebar_label:   | Styled Components
 ---
-
 
 
 - [**Styling React components**](https://medium.com/@colebemis/styling-react-components-6dc1ac53c574)
@@ -13,13 +12,6 @@ sidebar_label: Styled Components
 - [**Writing customizable styled React components**](https://itnext.io/writing-customizable-styled-react-components-51d38ed20461)
 - [**Styling React**](https://survivejs.com/react/advanced-techniques/styling-react/)
 - [**stylable.io**](https://stylable.io/)
-
-
-
-
-
-
-
 - [**Designing reusable React components**](https://medium.freecodecamp.org/designing-reusable-react-components-1cbeb897b048)
 - [**Composing reusable components in React**](https://medium.com/@adamrackis/composing-reusable-components-in-react-de44d862fe5a)
 - [**Reusable components**](https://zhenyong.github.io/react/docs/reusable-components.html)

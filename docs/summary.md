@@ -6,8 +6,42 @@ title: Summary
 Table of Contents
 =================
 
+* [Free code courses](courses.md)
+* [Create a NPM Module section](create-npm-module/index.md)
+  * [Create npm module](create-npm-module/create-npm-module.md)
+  * [Babel](create-npm-module/create-npm-module-babel.md)
+  * [Rollup ReactJS](create-npm-module/create-npm-module-rollup-react.md)
+  * [RollupJS ](create-npm-module/create-npm-module-rollup.md)
+* [CSS Tutorials](css/css.md)
+* [Design](design/design.md)
+* [Git](git/git.md)
+* [Cool Github Repositories](github/cool-github-repositories.md)
+* [GraphQL](graphql/graphql.md)
+* [Jest](jest/jest.md)
+* [Jobs section](jobs/index.md)
+  * [Startup Jobs](jobs/tech-job.md)
+  * [Internships](jobs/internships.md)
+  * [Tech Job Boards](jobs/job-boards.md)
+  * [Remote Jobs](jobs/jobs.md)
+* [JavaScript section](js/index.md)
+  * [JS](js/js.md)
+  * [Complex structures](js/complex-structures.md)
+  * [NodeJS corb cors](js/nodejs-corb-cors.md)
+* [Machine learning](machine-learning/machine-learning.md)
+* [Open source](open-source/open-source.md)
+* [Launch your project on ProductHunt Collection](product-hunt/launch-producthunt.md)
+* [Awesome React Book by Flavio Copes](react/awesome-react-book.md)
+* [React Section](react/index.md)
+  * [Project structure](react/project-structure.md)
+  * [React Best practices](react/react-best-practices.md)
+  * [Articles around 'React children components'](react/react-children.md)
+  * [Articles related to React universe](react/react.md)
+  * [Styled Components](react/styling.md)
+* [Stories](stories/stories.md)
+* [images](images.md)
 
-  * [Jobs section](jobs/index.md)
+
+  <!-- * [Jobs section](jobs/index.md)
     * [Startup Jobs](jobs/tech-job.md)
     * [Internships](jobs/internships.md)
     * [Tech Job Boards](jobs/job-boards.md)
@@ -37,7 +71,7 @@ Table of Contents
     * [CSS Grid](css/css-grid.md)    
     * [Flexbox](css/flexbox.md)
 
-* [Stories for developers](stories/stories.md)
+<!-- * [Stories for developers](stories/stories.md)
 
 * [Machine learning](machine-learning/machine-learning.md)
 
@@ -51,7 +85,7 @@ Table of Contents
     * [GraphQL](graphql/graphql.md)    
     * [IndieHackers articles/podcasts collection](indie-hackers/indie-hackers.md)    
     * [Credits: Images](images.md)
-
+ --> 
 
  <!--
 
