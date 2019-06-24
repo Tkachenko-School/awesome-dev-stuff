@@ -297,3 +297,5 @@ https://hackernoon.com/what-tech-recruiters-actually-look-for-in-your-resume-and
 https://hackernoon.com/how-i-got-multiple-software-engineer-job-offers-switching-from-another-industry-d77651145b0e
 https://hackernoon.com/beyond-the-recruiting-funnel-the-candidate-climb-d9eb79ffcf0a
 https://www.freecodecamp.org/news/how-to-build-an-amazing-linkedin-profile-15-proven-tips/
+
+https://angel.co/blog/what-angellist-data-says-about-power-law-returns-in-venture-capital?fbclid=IwAR229q6R-9s65FH6W7Jm5o9e8PeLkkqsDxlAgH_KbXfWY22VGfHzbDNgr_s
