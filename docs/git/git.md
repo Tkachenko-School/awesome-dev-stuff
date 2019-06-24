@@ -15,3 +15,6 @@ For details, check this repository
 - https://hackernoon.com/trunk-based-development-vs-git-flow-b1b23044dfb
 - https://hackernoon.com/gitops-or-why-the-future-has-no-dashboards-38ce026a3c56
 - https://hackernoon.com/reset-101-ba05d9e3f2c7
+
+https://www.youtube.com/watch?v=aJnFGMclhU8
+https://www.youtube.com/user/GitHubGuides
