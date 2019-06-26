@@ -10,3 +10,4 @@ sidebar_label: Design
 - [**Wordreference ux case study-**](https://medium.muz.li/wordreference-ux-case-study-a60f8c55e0f8)
 - [**Gvs Kate Aronowitz and Vanessa Cho on leading through design**](https://www.intercom.com/blog/podcasts/gvs-kate-aronowitz-and-vanessa-cho-on-leading-through-design/)
 
+<!-- https://www.intercom.com/blog/product-designer-career -->
