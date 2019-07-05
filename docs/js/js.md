@@ -1,7 +1,7 @@
 ---
 id: js
-title: JS
-sidebar_label: | JS
+title: JS articles
+sidebar_label: | JS articles
 ---
 
 - [a-map-to-modern-javascript-development-2017](https://hackernoon.com/a-map-to-modern-javascript-development-2017-16d9eb86309c)
