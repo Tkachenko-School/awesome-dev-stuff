@@ -6,6 +6,11 @@ title: Summary
 Table of Contents
 =================
 
+ <!-- * [react](#react)
+ * [React Book](#book)
+ * [React Styling](#styling)
+
+ * [JS](#js) -->
 * [Free code courses](courses.md)
 * [Create a NPM Module section](create-npm-module/index.md)
   * [Create npm module](create-npm-module/create-npm-module.md)
@@ -85,7 +90,7 @@ Table of Contents
     * [GraphQL](graphql/graphql.md)    
     * [IndieHackers articles/podcasts collection](indie-hackers/indie-hackers.md)    
     * [Credits: Images](images.md)
- --> 
+ -->
 
  <!--
 
