@@ -8,9 +8,12 @@
 const React = require('react');
 
 const CompLibrary = require('../../core/CompLibrary.js');
+
 const MarkdownBlock = CompLibrary.MarkdownBlock; /* Used to read markdown */
 const Container = CompLibrary.Container;
 const GridBlock = CompLibrary.GridBlock;
+
+
 
 const siteConfig = require(process.cwd() + '/siteConfig.js');
 
@@ -121,7 +124,7 @@ const MainPage = props => (
   <div
     className="showcaseSection paddingBottom"
     style={{ textAlign: 'center' }}>
-    <div className="tableofcontents">
+    <div className="tableofcontents" style={{ textAlign: 'center' }}>
       <p>
         Welcome to awesome-dev-stuff website(yeah, I should find a better name).
       </p>
@@ -129,7 +132,7 @@ const MainPage = props => (
         It's a place, where Arthur keeping all links, related to coding part in his company.
       </p>
       <p>
-        He is sharing them frequently with his interns, and thinks you may like it too or find interesting.
+        He is sharing them frequently with his interns, and thinks that you may like it too or find interesting at least.
       </p>
 
     </div>
@@ -184,7 +187,7 @@ const Description2 = () => (
         content:
           'This is another description of how this project is useful',
         image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/wireframe.svg?sanitize=true`,
-        imageAlign: 'right',
+        imageAlign: 'left',
         title: 'Description',
       },
     ]}
