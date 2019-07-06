@@ -20,7 +20,7 @@ Table of Contents
 
 ---
 * [JavaScript index](js/index.md)
-  * [JS](js/js.md)
+  * [JS articles](js/js.md)
   * [Complex structures](js/complex-structures.md)
   * [NodeJS corb cors](js/nodejs-corb-cors.md)
 ---
@@ -41,16 +41,14 @@ Table of Contents
 ---
 * [Stories for developers](stories/stories.md)
 ---
-* [Design](design/design.md)
-* [Mastering Git](git/git.md)
-* [Jest](jest/jest.md)
-* [Machine learning](machine-learning/machine-learning.md)
+
+
 ---
 * [Unsorted content](unsorted/index.md)
     * [Free code courses](courses.md)
     * [Open source](open-source/open-source.md)
     * [Launch your project on ProductHunt Articles Collection](product-hunt/launch-producthunt.md)
-    * [Free code courses](courses.md)    
+    * [Machine learning](machine-learning/machine-learning.md)
     * [Design](design/design.md)
     * [Mastering Git](git/git.md)
     * [Cool Github Repositories](github/cool-github-repositories.md)
