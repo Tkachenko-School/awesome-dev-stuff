@@ -1,7 +1,7 @@
 ---
 id: create-npm-module-section
-title: Create a NPM Module section
-sidebar_label: > Create a NPM Module section
+title: Publishing your module at NPM section
+sidebar_label: > Publishing your module at NPM section
 ---
 
 * [**First articles to read**](create-npm-module/create-npm-module.md)

@@ -40,8 +40,6 @@ Table of Contents
   * [Flexbox](css/flexbox.md)
 ---
 * [Stories for developers](stories/stories.md)
----
-
 
 ---
 * [Unsorted content](unsorted/index.md)

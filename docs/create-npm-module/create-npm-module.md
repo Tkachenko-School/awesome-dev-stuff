@@ -1,7 +1,7 @@
 ---
 id: create-npm-module
-title: Create npm module
-sidebar_label: | Create npm module
+title: First articles to read
+sidebar_label: | First articles to read
 ---
 
 <!--  Add TOC here  -->

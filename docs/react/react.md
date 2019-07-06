@@ -1,7 +1,7 @@
 ---
 id: react
-title: Articles related to React universe
-sidebar_label: | Articles related to React universe
+title: Different articles related to React ecosystem
+sidebar_label: | Different articles related to React ecosystem
 ---
 
 

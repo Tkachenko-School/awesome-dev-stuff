@@ -1,7 +1,7 @@
 ---
 id: create-npm-module-babel
-title: Babel
-sidebar_label: | Babel
+title: Connect Babel to your project
+sidebar_label: | Connect Babel to your project
 ---
 
 #### Babel
@@ -13,6 +13,6 @@ sidebar_label: | Babel
 - [**Babel upgrade from babel 6x to 7 0**](https://medium.com/@maicmi/babel-upgrade-from-babel-6-x-to-7-0-58809bd63d8)
 
 
-<!-- 
+<!--
 babel7
 https://medium.com/oredi/webpack-with-babel-7-b61f7caa9565 -->

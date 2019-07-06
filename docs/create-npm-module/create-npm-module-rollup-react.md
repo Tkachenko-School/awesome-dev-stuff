@@ -1,7 +1,7 @@
 ---
 id: create-npm-module-rollup-react
-title: Rollup ReactJS
-sidebar_label: | Rollup ReactJS
+title: Rollup + React configuration
+sidebar_label: | Rollup + React configuration
 ---
 
 #### Rollup React

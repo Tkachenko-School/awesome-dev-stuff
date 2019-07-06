@@ -1,7 +1,7 @@
 ---
 id: git
-title: Git
-sidebar_label: Git
+title: Mastering Git
+sidebar_label: Mastering Git
 ---
 
 For details, check this repository
