@@ -1,7 +1,7 @@
 ---
 id: stories
-title: Stories
-sidebar_label: Stories
+title: Stories for developers
+sidebar_label: Stories for developers
 ---
 
 - [**Open letter to a software intern**](https://blog.codegiant.io/open-letter-to-a-software-intern-817fa1ce5319)

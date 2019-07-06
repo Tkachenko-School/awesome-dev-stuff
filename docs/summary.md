@@ -6,19 +6,18 @@ title: Summary
 Table of Contents
 =================
 
-* [Free code courses](courses.md)
----
-* [Publishing your module at NPM index](create-npm-module/index.md)
-  * [First articles to read](create-npm-module/create-npm-module.md)
-  * [Connect Babel to your project](create-npm-module/create-npm-module-babel.md)
-  * [RollupJS](create-npm-module/create-npm-module-rollup.md)
-  * [Rollup + React configuration](create-npm-module/create-npm-module-rollup-react.md)
----
 * [Jobs index](jobs/index.md)
   * [Startup Jobs](jobs/tech-job.md)
   * [Internships](jobs/internships.md)
   * [Tech Job Boards](jobs/job-boards.md)
   * [Remote Jobs](jobs/jobs.md)
+---  
+* [Publishing your module at NPM index](create-npm-module/index.md)
+  * [First articles to read](create-npm-module/create-npm-module.md)
+  * [Connect Babel to your project](create-npm-module/create-npm-module-babel.md)
+  * [RollupJS](create-npm-module/create-npm-module-rollup.md)
+  * [Rollup + React configuration](create-npm-module/create-npm-module-rollup-react.md)
+
 ---
 * [JavaScript index](js/index.md)
   * [JS](js/js.md)
@@ -48,6 +47,7 @@ Table of Contents
 * [Machine learning](machine-learning/machine-learning.md)
 ---
 * [Unsorted content](unsorted/index.md)
+    * [Free code courses](courses.md)
     * [Open source](open-source/open-source.md)
     * [Launch your project on ProductHunt Articles Collection](product-hunt/launch-producthunt.md)
     * [Free code courses](courses.md)    
@@ -105,5 +105,5 @@ future sections:
     * [Design](design/design.md)
     * [Git](git/git.md)
     * [Cool Github Repositories](github/cool-github-repositories.md)
-    
+
     * [Credits: Images](images.md) -->
