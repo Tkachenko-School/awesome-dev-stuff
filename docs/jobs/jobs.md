@@ -59,4 +59,7 @@ Article from entrepreneur - they list a few websites
 - [**Remote friendly**](https://www.producthunt.com/posts/remote-friendly)
 
 
-<!-- https://www.producthunt.com/posts/remote-tools-2-0 -->
+<!-- https://www.producthunt.com/posts/remote-tools-2-0
+
+https://www.remote.tools/?ref=producthunt
+-->
