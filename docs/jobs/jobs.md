@@ -62,4 +62,15 @@ Article from entrepreneur - they list a few websites
 <!-- https://www.producthunt.com/posts/remote-tools-2-0
 
 https://www.remote.tools/?ref=producthunt
+
+
+https://www.producthunt.com/posts/juniorjobs-1
+
+https://github.com/claeusdev?tab=repositories
+https://medium.com/@claeusdev/remotegigs-why-though-378757a8c83d
+
+https://codelabs.developers.google.com/codelabs/cloud-grpc/index.html?index=..%2F..index#0
+https://developers.google.com/web/fundamentals/
+
+
 -->
