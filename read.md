@@ -13,3 +13,6 @@ https://medium.com/e-residency-blog/9-ways-estonia-is-empowering-location-indepe
 https://hackernoon.com/seven-key-takeaways-from-our-journey-through-y-combinator-startup-school-f4249a2d4f42
 
 https://medium.com/swlh/why-programmers-need-creativity-982a38d345c8?sk=75a38e6ce3231f582c5d7b6eab134f1f
+
+
+https://medium.com/free-code-camp/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3
