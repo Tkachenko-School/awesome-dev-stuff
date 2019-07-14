@@ -11,12 +11,18 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 
 
 
-
+<!-- 
 
 
 https://www.producthunt.com/posts/remote-circle
 
-https://hackernoon.com/leading-a-remote-team-and-being-a-digital-nomad-cautionary-tale-5088195d7cf0
+https://www.producthunt.com/posts/torre-remote
+
+https://www.producthunt.com/posts/remote-job-lists
+
+https://www.producthunt.com/posts/remote-jobseeker-s-handbook
+
+https://hackernoon.com/leading-a-remote-team-and-being-a-digital-nomad-cautionary-tale-5088195d7cf0 -->
 
 
 
