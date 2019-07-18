@@ -57,43 +57,61 @@ https://www.indiehackers.com/podcast/098-adam-wathan-of-refactoring-ui
 
 
 
-https://www.indiehackers.com/article/have-a-co-founder-dont-let-these-7-toxic-scenarios-poison-you-2683018434?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190626&utm_medium=email
-https://www.indiehackers.com/post/igStory-f13cd5f4f0?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190626&utm_medium=email
+https://www.indiehackers.com/article/have-a-co-founder-dont-let-these-7-toxic-scenarios-poison-you-2683018434
 
-https://www.indiehackers.com/interview/4c2cfd2280?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190624&utm_medium=email
+https://www.indiehackers.com/post/igStory-f13cd5f4f0
 
-https://www.indiehackers.com/article/how-to-build-a-startup-without-quitting-your-day-job-f7697df2d7?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190624&utm_medium=email
+https://www.indiehackers.com/interview/4c2cfd2280
 
-https://www.indiehackers.com/interview/458c55b2ba?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190612&utm_medium=email
+https://www.indiehackers.com/article/how-to-build-a-startup-without-quitting-your-day-job-f7697df2d7
 
-https://www.indiehackers.com/article/the-alternative-funding-options-for-saas-startups-cheat-sheet-c770f5991e?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190612&utm_medium=email
+https://www.indiehackers.com/interview/458c55b2ba
 
-https://www.indiehackers.com/interview/f145d8be4f?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190610&utm_medium=email
+https://www.indiehackers.com/article/the-alternative-funding-options-for-saas-startups-cheat-sheet-c770f5991e
 
-https://www.indiehackers.com/article/how-developers-and-tech-founders-can-turn-their-ideas-into-ui-design-4f93e427e4?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190610&utm_medium=email
+https://www.indiehackers.com/interview/f145d8be4f
 
-https://www.indiehackers.com/podcast/100-sahil-lavingia-of-gumroad?utm_source=indie-hackers-emails&utm_campaign=indie-hackers-newsletter-daily&utm_medium=email
+https://www.indiehackers.com/article/how-developers-and-tech-founders-can-turn-their-ideas-into-ui-design-4f93e427e4
 
-https://www.indiehackers.com/interview/a926d3edfe?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190703&utm_medium=email
+https://www.indiehackers.com/podcast/100-sahil-lavingia-of-gumroad
 
-https://www.indiehackers.com/article/100-ways-to-promote-your-blog-posts-31e572696f?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190703&utm_medium=email
+https://www.indiehackers.com/interview/a926d3edfe
 
-https://www.indiehackers.com/interview/d9fe88d6df?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190701&utm_medium=email
+https://www.indiehackers.com/article/100-ways-to-promote-your-blog-posts-31e572696f
 
-https://www.indiehackers.com/article/pulling-the-plug-on-my-1-2mm-company-470d327158?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190701&utm_medium=email
+https://www.indiehackers.com/interview/d9fe88d6df
 
-https://www.indiehackers.com/article/how-to-ship-side-projects-0f8cc7df10?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190701&utm_medium=email
+https://www.indiehackers.com/article/pulling-the-plug-on-my-1-2mm-company-470d327158
 
-https://www.indiehackers.com/podcast/099-aline-lerner-of-interviewing-io?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190628&utm_medium=email
+https://www.indiehackers.com/article/how-to-ship-side-projects-0f8cc7df10
 
-https://www.indiehackers.com/interview/ce4055dcd1?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190628&utm_medium=email
+https://www.indiehackers.com/podcast/099-aline-lerner-of-interviewing-io
 
-https://www.indiehackers.com/article/best-countries-to-relocate-to-for-freelancers-and-solo-founders-10e61d136d?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190628&utm_medium=email
+https://www.indiehackers.com/interview/ce4055dcd1
 
-  
-
+https://www.indiehackers.com/article/best-countries-to-relocate-to-for-freelancers-and-solo-founders-10e61d136d
 
 
+
+
+https://www.indiehackers.com/interview/3aa3037d0c
+
+https://www.indiehackers.com/article/5-lean-growth-hacks-to-get-from-0-users-to-1-000-256ae8f0be
+
+https://www.indiehackers.com/interview/7bf1c20d4b
+
+https://www.indiehackers.com/article/how-i-monetized-free-content-through-t-shirt-sales-7edb298afb
+
+https://www.indiehackers.com/podcast/101-eric-zhang-of-scalable-press
+https://www.indiehackers.com/interview/b4903e2aad
+
+https://www.indiehackers.com/interview/57f19774db
+
+https://www.indiehackers.com/article/how-to-build-an-online-marketplace-a2798880ae
+
+https://www.indiehackers.com/interview/0ab0dd3b44
+
+https://www.indiehackers.com/article/why-running-a-business-is-80-marketing-and-only-20-product-57f748a821
 
 
 
