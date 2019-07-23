@@ -22,7 +22,11 @@ https://www.producthunt.com/posts/remote-job-lists
 
 https://www.producthunt.com/posts/remote-jobseeker-s-handbook
 
-https://hackernoon.com/leading-a-remote-team-and-being-a-digital-nomad-cautionary-tale-5088195d7cf0 -->
+https://hackernoon.com/leading-a-remote-team-and-being-a-digital-nomad-cautionary-tale-5088195d7cf0 
+
+https://github.com/lukasz-madon/awesome-remote-job
+
+-->
 
 
 
