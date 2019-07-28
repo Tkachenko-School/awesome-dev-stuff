@@ -28,22 +28,6 @@ Feel free to take a look and give me your feedback. Thanks for your time.
 
 Have a nice day! -->
 
-
-
-
-
-
----------
-
-Read/Learn about Jest/React testing?
-
-React Best practices
-
-How to find tech job or land an internship in tech company?
-
-You just want to read handpicked interested stories?
-
-Another topics like Jest testing, Open Source movement, CSS, Design, GraphQL and many more
 ---
 
 Stretch Goals

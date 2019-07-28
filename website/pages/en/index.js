@@ -65,44 +65,44 @@ const TableOfContents = props => (
     <h2>Table of contents</h2>
     <div className="tableofcontents" >
 
+    <ul className="border-bottom-3px">
+
+      <li>
+        <a href="/awesome-dev-stuff/docs/jobs/jobs-section">Jobs index</a>
+      </li>
+        <li><a href="/awesome-dev-stuff/docs/jobs/tech-job">Startup Jobs</a></li>
+        <li><a href="/awesome-dev-stuff/docs/jobs/internships">Internships</a></li>
+        <li><a href="/awesome-dev-stuff/docs/jobs/job-boards">Tech Job Boards</a></li>
+        <li><a href="/awesome-dev-stuff/docs/jobs/jobs">Remote Jobs</a></li>
+    </ul>
+
     <ul class="border-bottom-3px">
 
-    <li>
-      <a href="/awesome-dev-stuff/docs/jobs/jobs-section">Jobs index</a>
-    </li>
-      <li><a href="/awesome-dev-stuff/docs/jobs/tech-job">Startup Jobs</a></li>
-      <li><a href="/awesome-dev-stuff/docs/jobs/internships">Internships</a></li>
-      <li><a href="/awesome-dev-stuff/docs/jobs/job-boards">Tech Job Boards</a></li>
-      <li><a href="/awesome-dev-stuff/docs/jobs/jobs">Remote Jobs</a></li>
+        <li>
+        <a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module-section">
+        Publishing your module at NPM index</a></li>
+          <li><a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module">First articles to read</a></li>
+          <li><a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module-babel">Connect Babel to your project</a></li>
+          <li><a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module-rollup">RollupJS</a></li>
+          <li><a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module-rollup-react">Rollup + React configuration</a></li>
+    </ul>
+
+    <ul class="border-bottom-3px">
+      <li><a href="/awesome-dev-stuff/docs/js/js-section">JavaScript index</a></li>
+        <li><a href="/awesome-dev-stuff/docs/js/js">JS articles</a></li>
+        <li><a href="/awesome-dev-stuff/docs/js/complex-structures">Complex structures</a></li>
+        <li><a href="/awesome-dev-stuff/docs/js/nodejs-corb-cors">NodeJS CORB CORS</a></li>
       </ul>
 
     <ul class="border-bottom-3px">
-
-    <li>
-    <a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module-section">
-    Publishing your module at NPM index</a></li>
-      <li><a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module">First articles to read</a></li>
-      <li><a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module-babel">Connect Babel to your project</a></li>
-      <li><a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module-rollup">RollupJS</a></li>
-      <li><a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module-rollup-react">Rollup + React configuration</a></li>
-</ul>
-
-    <ul class="border-bottom-3px">
-    <li><a href="/awesome-dev-stuff/docs/js/js-section">JavaScript index</a></li>
-      <li><a href="/awesome-dev-stuff/docs/js/js">JS articles</a></li>
-      <li><a href="/awesome-dev-stuff/docs/js/complex-structures">Complex structures</a></li>
-      <li><a href="/awesome-dev-stuff/docs/js/nodejs-corb-cors">NodeJS CORB CORS</a></li>
-      </ul>
-
-<ul class="border-bottom-3px">
-    <li><a href="/awesome-dev-stuff/docs/react/react-section">React index</a></li>
-      <li><a href="/awesome-dev-stuff/docs/react/awesome-react-book">Awesome React Book by Flavio Copes</a></li>
-      <li><a href="/awesome-dev-stuff/docs/react/react">Different articles related to React ecosystem</a></li>
-      <li><a href="/awesome-dev-stuff/docs/react/react-children">React Children components</a></li>
-      <li><a href="/awesome-dev-stuff/docs/react/styling">Styled Components</a></li>
-      <li><a href="/awesome-dev-stuff/docs/react/react-best-practices">React best practices</a></li>
-      <li><a href="/awesome-dev-stuff/docs/react/project-structure">React project structure</a></li>
-</ul>
+        <li><a href="/awesome-dev-stuff/docs/react/react-section">React index</a></li>
+          <li><a href="/awesome-dev-stuff/docs/react/awesome-react-book">Awesome React Book by Flavio Copes</a></li>
+          <li><a href="/awesome-dev-stuff/docs/react/react">Different articles related to React ecosystem</a></li>
+          <li><a href="/awesome-dev-stuff/docs/react/react-children">React Children components</a></li>
+          <li><a href="/awesome-dev-stuff/docs/react/styling">Styled Components</a></li>
+          <li><a href="/awesome-dev-stuff/docs/react/react-best-practices">React best practices</a></li>
+          <li><a href="/awesome-dev-stuff/docs/react/project-structure">React project structure</a></li>
+    </ul>
 
     <ul class="border-bottom-3px">
     <li><a href="/awesome-dev-stuff/docs/css/ss-section">CSS index</a></li>
@@ -112,8 +112,10 @@ const TableOfContents = props => (
       </ul>
 
     <ul class="border-bottom-3px">
-    <li><a href="/awesome-dev-stuff/docs/stories/stories">
-    Stories for developers</a></li>
+      <li>
+      <a href="/awesome-dev-stuff/docs/stories/stories">
+        Stories for developers</a>
+        </li>
     </ul>
 
     <ul class="border-bottom-3px">
@@ -188,10 +190,10 @@ const TryOut = () => (
   <Block id="try">
     {[
       {
-        content: 'Talk about trying this out',
+        content: 'Perfect your React skills!',
         image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/moving_forward.svg?sanitize=true`,
         imageAlign: 'left',
-        title: 'Try it Out',
+        title: 'React Best practices',
       },
     ]}
   </Block>
@@ -201,11 +203,10 @@ const Description = () => (
   <Block background="white">
     {[
       {
-        content:
-          'This is another description of how this project is useful',
+        content: 'How to find tech job or land an internship in tech company?',
         image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true`,
         imageAlign: 'right',
-        title: 'Description',
+        title:  'How to find coding job',
       },
     ]}
   </Block>
@@ -215,11 +216,23 @@ const Description2 = () => (
   <Block background="white">
     {[
       {
-        content:
-          'This is another description of how this project is useful',
+        content: 'Just want to read hand-picked, interesting stories?',
         image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/wireframe.svg?sanitize=true`,
         imageAlign: 'left',
-        title: 'Description',
+        title:  'Handpicked stories',
+      },
+    ]}
+  </Block>
+);
+
+const Description3 = () => (
+  <Block background="white">
+    {[
+      {
+        content: 'Different stories',
+        image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/wireframe.svg?sanitize=true`,
+        imageAlign: 'left',
+        title: 'Different topics like GraphQL, Open Source movement, CSS, Design,  and many more',
       },
     ]}
   </Block>
@@ -247,11 +260,6 @@ class Index extends React.Component {
     // );
 
 
-    // Read / Learn about Jest testing / React
-    // React best practices
-    // How to find a job or land an internship
-    // Just want to read hand-picked, interesting stories
-
     // image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/moving_forward.svg?sanitize=true`,
     // image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true`,
 
@@ -277,6 +285,7 @@ class Index extends React.Component {
             <TryOut />
             <Description />
             <Description2 />
+            <Description3 />
 
             <TableOfContents />
 
