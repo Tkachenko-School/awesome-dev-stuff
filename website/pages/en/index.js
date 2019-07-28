@@ -229,9 +229,9 @@ const Description3 = () => (
   <Block background="white">
     {[
       {
-        content: 'Different stories',
-        image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/wireframe.svg?sanitize=true`,
-        imageAlign: 'left',
+        content: 'Different stories to read - give them a chance!',
+        image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/mind_map.svg?sanitize=true`,
+        imageAlign: 'right',
         title: 'Different topics like GraphQL, Open Source movement, CSS, Design,  and many more',
       },
     ]}
