@@ -11,7 +11,7 @@ Here Arthur plan to keep list of projects, that can help to find a startup job
 
 
 
-<!-- 
+<!--
 
 
 https://www.producthunt.com/posts/remote-circle
@@ -22,15 +22,15 @@ https://www.producthunt.com/posts/remote-job-lists
 
 https://www.producthunt.com/posts/remote-jobseeker-s-handbook
 
-https://hackernoon.com/leading-a-remote-team-and-being-a-digital-nomad-cautionary-tale-5088195d7cf0 
+https://hackernoon.com/leading-a-remote-team-and-being-a-digital-nomad-cautionary-tale-5088195d7cf0
 
 https://github.com/lukasz-madon/awesome-remote-job
 
 -->
 
+<!-- https://hackernoon.com/23-time-tested-apps-to-manage-your-remote-software-development-team-8m3vj3zjk
 
-
-- [**The problems in remote working**](https://medium.com/@rrhoover/the-problems-in-remote-working-1a6f165585d)
+- [**The problems in remote working**](https://medium.com/@rrhoover/the-problems-in-remote-working-1a6f165585d) -->
 
 - [**The problems in remote working**](https://medium.com/@rrhoover/the-problems-in-remote-working-1a6f165585d)
 

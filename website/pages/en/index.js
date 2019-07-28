@@ -14,7 +14,6 @@ const Container = CompLibrary.Container;
 const GridBlock = CompLibrary.GridBlock;
 
 
-
 const siteConfig = require(process.cwd() + '/siteConfig.js');
 
 
@@ -66,31 +65,37 @@ const TableOfContents = props => (
     <h2>Table of contents</h2>
     <div className="tableofcontents" >
 
-    <ul>
-    <li><a href="/awesome-dev-stuff/docs/jobs/index">Jobs index</a></li>
+    <ul class="border-bottom-3px">
+
+    <li>
+      <a href="/awesome-dev-stuff/docs/jobs/jobs-section">Jobs index</a>
+    </li>
       <li><a href="/awesome-dev-stuff/docs/jobs/tech-job">Startup Jobs</a></li>
       <li><a href="/awesome-dev-stuff/docs/jobs/internships">Internships</a></li>
       <li><a href="/awesome-dev-stuff/docs/jobs/job-boards">Tech Job Boards</a></li>
       <li><a href="/awesome-dev-stuff/docs/jobs/jobs">Remote Jobs</a></li>
       </ul>
 
-    <ul>
-    <li><a href="/awesome-dev-stuff/docs/create-npm-module/index">Publishing your module at NPM index</a></li>
+    <ul class="border-bottom-3px">
+
+    <li>
+    <a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module-section">
+    Publishing your module at NPM index</a></li>
       <li><a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module">First articles to read</a></li>
       <li><a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module-babel">Connect Babel to your project</a></li>
       <li><a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module-rollup">RollupJS</a></li>
       <li><a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module-rollup-react">Rollup + React configuration</a></li>
 </ul>
 
-    <ul>
-    <li><a href="/awesome-dev-stuff/docs/js/index">JavaScript index</a></li>
+    <ul class="border-bottom-3px">
+    <li><a href="/awesome-dev-stuff/docs/js/js-section">JavaScript index</a></li>
       <li><a href="/awesome-dev-stuff/docs/js/js">JS articles</a></li>
       <li><a href="/awesome-dev-stuff/docs/js/complex-structures">Complex structures</a></li>
       <li><a href="/awesome-dev-stuff/docs/js/nodejs-corb-cors">NodeJS CORB CORS</a></li>
       </ul>
 
-<ul>
-    <li><a href="/awesome-dev-stuff/docs/react/index">React index</a></li>
+<ul class="border-bottom-3px">
+    <li><a href="/awesome-dev-stuff/docs/react/react-section">React index</a></li>
       <li><a href="/awesome-dev-stuff/docs/react/awesome-react-book">Awesome React Book by Flavio Copes</a></li>
       <li><a href="/awesome-dev-stuff/docs/react/react">Different articles related to React ecosystem</a></li>
       <li><a href="/awesome-dev-stuff/docs/react/react-children">React Children components</a></li>
@@ -99,19 +104,20 @@ const TableOfContents = props => (
       <li><a href="/awesome-dev-stuff/docs/react/project-structure">React project structure</a></li>
 </ul>
 
-    <ul>
-    <li><a href="/awesome-dev-stuff/docs/css/index">CSS index</a></li>
+    <ul class="border-bottom-3px">
+    <li><a href="/awesome-dev-stuff/docs/css/ss-section">CSS index</a></li>
       <li><a href="/awesome-dev-stuff/docs/css/css">CSS</a></li>
       <li><a href="/awesome-dev-stuff/docs/css/css-grid">CSS Grid</a></li>
       <li><a href="/awesome-dev-stuff/docs/css/flexbox">Flexbox</a></li>
       </ul>
 
-    <ul>
-    <li><a href="/awesome-dev-stuff/docs/stories/stories">Stories for developers</a></li>
+    <ul class="border-bottom-3px">
+    <li><a href="/awesome-dev-stuff/docs/stories/stories">
+    Stories for developers</a></li>
     </ul>
 
-    <ul>
-    <li><a href="/awesome-dev-stuff/docs/unsorted/index">Unsorted content</a></li>
+    <ul class="border-bottom-3px">
+        <li><a href="/awesome-dev-stuff/docs/unsorted/unsorted-section">Unsorted content</a></li>
         <li><a href="/awesome-dev-stuff/docs/courses">Free code courses</a></li>
         <li><a href="/awesome-dev-stuff/docs/open-source/open-source">Open source</a></li>
         <li><a href="/awesome-dev-stuff/docs/product-hunt/launch-producthunt">Launch your project on ProductHunt Articles Collection</a></li>
@@ -123,13 +129,12 @@ const TableOfContents = props => (
         <li><a href="/awesome-dev-stuff/docs/graphql/graphql">GraphQL</a></li>
         <li><a href="/awesome-dev-stuff/docs/indie-hackers/indie-hackers">IndieHackers articles/podcasts collection</a></li>
         <li><a href="/awesome-dev-stuff/docs/images">Credits: Images</a></li>
-</ul>
+    </ul>
 
 
     </div>
   </div>
 );
-
 
 
 
@@ -140,19 +145,30 @@ const MainPage = props => (
     className="showcaseSection paddingBottom"
     style={{ textAlign: 'center' }}>
     <div className="tableofcontents" style={{ textAlign: 'center' }}>
+
       <p>
         Welcome to awesome-dev-stuff website(yeah, I should find a better name).
       </p>
       <p>
-        It's a place, where Arthur keeping all links, related to coding part in his company.
+        It's a place, where our team keeping different articles,
       </p>
       <p>
-        He is sharing them frequently with his interns, and thinks that you may like it too or find interesting at least.
+       related to software development.
       </p>
-
+      <p>
+        We sharing those links frequently with beginners, interns, juniors
+      </p>
+      <p>
+      and you may like it interesting as well.
+      </p>
+      <p>
+        There a lot of cool information, sorted by different topics.
+      </p>
     </div>
   </div>
 );
+
+
 //--
 
 const Block = props => (

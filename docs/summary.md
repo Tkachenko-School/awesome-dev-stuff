@@ -6,6 +6,7 @@ title: Summary
 Table of Contents
 =================
 
+
 * [Jobs index](jobs/index.md)
   * [Startup Jobs](jobs/tech-job.md)
   * [Internships](jobs/internships.md)
@@ -38,7 +39,9 @@ Table of Contents
   * [CSS](css/css.md)
   * [CSS Grid](css/css-grid.md)    
   * [Flexbox](css/flexbox.md)
+  
 ---
+
 * [Stories for developers](stories/stories.md)
 
 ---
