@@ -44,3 +44,6 @@ https://blog.travis-ci.com/2019-05-30-setting-up-a-ci-cd-process-on-github
 https://codeburst.io/learning-travis-ci-with-firebase-react-part-2-28a131913e28
 
 https://blog.travis-ci.com/2019-05-30-setting-up-a-ci-cd-process-on-github
+
+
+https://hackernoon.com/cicd-basics-with-travis-ci-1n23d3zay
