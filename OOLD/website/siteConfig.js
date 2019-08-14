@@ -1,4 +1,5 @@
 const siteConfig = {
+
   title: 'Awesome dev stuff', // Title for your website.
   tagline: 'Awesome-dev-stuff - website with links, related to coding',
   url: 'https://chickenkyiv.github.io', // Your website URL
