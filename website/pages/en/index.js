@@ -24,7 +24,9 @@ class HomeSplash extends React.Component {
     const SplashContainer = props => (
       <div className="homeContainer">
         <div className="homeSplashFade">
-          <div className="wrapper homeWrapper">{props.children}</div>
+          <div className="wrapper homeWrapper">
+            {props.children}
+          </div>
         </div>
       </div>
     );
@@ -101,6 +103,8 @@ class Index extends React.Component {
       </div>
     );
 
+
+
     const TryOut = () => (
       <Block id="try">
         {[
@@ -117,6 +121,8 @@ class Index extends React.Component {
       </Block>
     );
 
+
+
     const Description = () => (
       <Block background="dark">
         {[
@@ -131,6 +137,8 @@ class Index extends React.Component {
       </Block>
     );
 
+
+
     const LearnHow = () => (
       <Block background="light">
         {[
@@ -144,6 +152,8 @@ class Index extends React.Component {
         ]}
       </Block>
     );
+
+
 
     const Features = () => (
       <Block layout="fourColumn">
@@ -163,6 +173,8 @@ class Index extends React.Component {
         ]}
       </Block>
     );
+
+
 
     const Showcase = () => {
       if ((siteConfig.users || []).length === 0) {
@@ -193,17 +205,24 @@ class Index extends React.Component {
       );
     };
 
+
+
+
     return (
       <div>
-        <HomeSplash siteConfig={siteConfig} language={language} />
-        <div className="mainContainer">
-          <Features />
-          <FeatureCallout />
-          <LearnHow />
-          <TryOut />
-          <Description />
-          <Showcase />
-        </div>
+        <HomeSplash
+          siteConfig={siteConfig}
+          language={language} />
+
+          <div className="mainContainer">
+            <Features />
+            <FeatureCallout />
+            <LearnHow />
+            <TryOut />
+            <Description />
+            {/*<Showcase /> */}
+          </div>
+
       </div>
     );
   }
