@@ -423,7 +423,7 @@ const TOCC = () => (
         content: 'The content of my second feature',
         // image: `${baseUrl}img/undraw_operating_system.svg`,
         imageAlign: 'top',
-        title: 'Feature Two',
+        title: 'Publish NPM module',
         },
         {
         content: 'The content of my second feature',
