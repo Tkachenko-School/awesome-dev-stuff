@@ -60,15 +60,46 @@ class HomeSplash extends React.Component {
       </div>
     );
 
+// showcaseSection
+
     return (
       <SplashContainer>
         <Logo img_src={`${baseUrl}img/undraw_monitor.svg`} />
         <div className="inner">
           <ProjectTitle siteConfig={siteConfig} />
+
+          <p>
+            It's a place, where our team keeping different articles,
+          </p>
+          <p>
+            related to software development.
+        </p>
+        <p>
+            We sharing those links frequently with beginners, interns, juniors
+        </p>
+        <p>
+            and you may like it interesting as well.
+        </p>
+        <p>
+            There a lot of cool information, sorted by different topics.
+        </p>
+
+
           <PromoSection>
-            <Button href="#try">Try It Out</Button>
-            <Button href={docUrl('doc1.html')}>Example Link</Button>
-            <Button href={docUrl('doc2.html')}>Example Link 2</Button>
+            <Button href="#TOC">
+              Table Of Contents
+            </Button>
+
+            {/*
+            <Button href={docUrl('doc1.html')}>
+              Example Link
+            </Button>
+
+            <Button href={docUrl('doc2.html')}>
+              Example Link 2
+            </Button>
+            */}
+
           </PromoSection>
         </div>
       </SplashContainer>
@@ -90,14 +121,17 @@ const Block = props => (
     </Container>
 );
 
-    const FeatureCallout = () => (
-      <div
-        className="productShowcaseSection paddingBottom"
-        style={{textAlign: 'center'}}>
-        <h2>Feature Callout</h2>
-        <MarkdownBlock>These are features of this project</MarkdownBlock>
-      </div>
-    );
+
+const FeatureCallout = () => (
+  <div
+    className="productShowcaseSection paddingBottom"
+    style={{textAlign: 'center'}}>
+    <h2>Feature Callout</h2>
+    <MarkdownBlock>
+    These are features of this project
+    </MarkdownBlock>
+  </div>
+);
 
 
 {/*
@@ -130,30 +164,36 @@ const Block = props => (
   */}
 
 
-const MainPage = props => (
-
-    <div
-        className="productShowcaseSection paddingBottom showcaseSection"
-        style={{textAlign: 'center'}}>
-        <h2>Welcome to awesome-dev-stuff website(yeah, I should find a better name).</h2>
-        <MarkdownBlock>
-
-
-            It's a place, where our team keeping different articles,
-
-            related to software development.
-
-            We sharing those links frequently with beginners, interns, juniors
-
-            and you may like it interesting as well.
-
-            There a lot of cool information, sorted by different topics.
-
-
-        </MarkdownBlock>
-      </div>
-
-);
+// const MainPage = props => (
+//
+//     <div
+//         className="productShowcaseSection paddingBottom showcaseSection"
+//         style={{textAlign: 'center'}}>
+//         <h2>
+//           Welcome to awesome-dev-stuff website
+//
+//         </h2>
+//         <h3>
+//           (yeah, I should find a better name).
+//         </h3>
+//         <MarkdownBlock>
+//
+//
+//             It's a place, where our team keeping different articles,
+//
+//             related to software development.
+//
+//             We sharing those links frequently with beginners, interns, juniors
+//
+//             and you may like it interesting as well.
+//
+//             There a lot of cool information, sorted by different topics.
+//
+//
+//         </MarkdownBlock>
+//       </div>
+//
+// );
 
 
 
@@ -176,7 +216,7 @@ const FindTechJob = () => (
     {[
       {
         content: 'How to find tech job or land an internship in tech company?',
-        image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true`,
+        image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/interviewing.svg?sanitize=true`,
         imageAlign: 'right',
         title:  'How to find coding job',
       },
@@ -213,8 +253,6 @@ const Unsorted = () => (
 
 
 
-//
-// <TableOfContents />
 // image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/moving_forward.svg?sanitize=true`,
 
 
@@ -226,7 +264,7 @@ const Unsorted = () => (
 
 
 const TableOfContents = props => (
-  <div
+  <div id="TOC"
     className="showcaseSection paddingBottom"
     style={{ textAlign: 'center' }}>
 
@@ -250,7 +288,7 @@ const TableOfContents = props => (
         Remote Jobs</a></li>
     </ul>
 
-    <ul class="border-bottom-3px">
+    <ul className="border-bottom-3px">
 
         <li>
         <a href="/awesome-dev-stuff/docs/create-npm-module/create-npm-module-section">
@@ -265,7 +303,7 @@ const TableOfContents = props => (
           Rollup + React configuration</a></li>
     </ul>
 
-    <ul class="border-bottom-3px">
+    <ul className="border-bottom-3px">
       <li><a href="/awesome-dev-stuff/docs/js/js-section">
       JavaScript index</a></li>
         <li><a href="/awesome-dev-stuff/docs/js/js">
@@ -276,7 +314,7 @@ const TableOfContents = props => (
         NodeJS CORB CORS</a></li>
       </ul>
 
-    <ul class="border-bottom-3px">
+    <ul className="border-bottom-3px">
         <li><a href="/awesome-dev-stuff/docs/react/react-section">
         React index
         </a></li>
@@ -300,7 +338,7 @@ const TableOfContents = props => (
           </a></li>
     </ul>
 
-    <ul class="border-bottom-3px">
+    <ul className="border-bottom-3px">
     <li><a href="/awesome-dev-stuff/docs/css/ss-section">
     CSS index
     </a></li>
@@ -315,7 +353,7 @@ const TableOfContents = props => (
       </a></li>
       </ul>
 
-    <ul class="border-bottom-3px">
+    <ul className="border-bottom-3px">
       <li>
       <a href="/awesome-dev-stuff/docs/stories/stories">
         Stories for developers
@@ -323,7 +361,7 @@ const TableOfContents = props => (
         </li>
     </ul>
 
-    <ul class="border-bottom-3px">
+    <ul className="border-bottom-3px">
         <li><a href="/awesome-dev-stuff/docs/unsorted/unsorted-section">
         Unsorted content
         </a></li>
@@ -475,11 +513,12 @@ class Index extends React.Component {
 
           <div className="mainContainer">
 
-            <MainPage />
+            {/*<MainPage />*/}
             <ReactSkills />
             <FindTechJob />
             <Stories />
             <Unsorted />
+            <hr />
             <TableOfContents />
 
 
