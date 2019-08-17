@@ -76,9 +76,45 @@ class HomeSplash extends React.Component {
   }
 }
 
+// default block section
+const Block = props => (
+    <Container
+    padding={['bottom', 'top']}
+    id={props.id}
+    background={props.background}>
+    <GridBlock
+        align="center"
+        contents={props.children}
+        layout={props.layout}
+    />
+    </Container>
+);
+
+    const FeatureCallout = () => (
+      <div
+        className="productShowcaseSection paddingBottom"
+        style={{textAlign: 'center'}}>
+        <h2>Feature Callout</h2>
+        <MarkdownBlock>These are features of this project</MarkdownBlock>
+      </div>
+    );
 
 const MainPage = props => (
+
+    <div
+        className="productShowcaseSection paddingBottom showcaseSection"
+        style={{textAlign: 'center'}}>
+        <h2>Feature Callout</h2>
+        <MarkdownBlock>
+        These are features of this project
+        </MarkdownBlock>
+      </div>
+
+
+
+
   <div
+
     className="showcaseSection paddingBottom"
     style={{ textAlign: 'center' }}>
     <div className="tableofcontents" style={{ textAlign: 'center' }}>
@@ -106,63 +142,60 @@ const MainPage = props => (
 );
 
 
-// const TryOut = () => (
-//   <Block id="try">
-//     {[
-//       {
-//         content: 'Perfect your React skills!',
-//         image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/moving_forward.svg?sanitize=true`,
-//         imageAlign: 'left',
-//         title: 'React Best practices',
-//       },
-//     ]}
-//   </Block>
-// );
+const ReactSkills = () => (
+  <Block id="try">
+    {[
+      {
+        content: 'Perfect your React skills!',
+        image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/moving_forward.svg?sanitize=true`,
+        imageAlign: 'left',
+        title: 'React Best practices',
+      },
+    ]}
+  </Block>
+);
 
-// const Description = () => (
-//   <Block background="white">
-//     {[
-//       {
-//         content: 'How to find tech job or land an internship in tech company?',
-//         image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true`,
-//         imageAlign: 'right',
-//         title:  'How to find coding job',
-//       },
-//     ]}
-//   </Block>
-// );
+const FindTechJob = () => (
+  <Block background="white">
+    {[
+      {
+        content: 'How to find tech job or land an internship in tech company?',
+        image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true`,
+        imageAlign: 'right',
+        title:  'How to find coding job',
+      },
+    ]}
+  </Block>
+);
 
-// const Description2 = () => (
-//   <Block background="white">
-//     {[
-//       {
-//         content: 'Just want to read hand-picked, interesting stories?',
-//         image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/wireframe.svg?sanitize=true`,
-//         imageAlign: 'left',
-//         title:  'Handpicked stories',
-//       },
-//     ]}
-//   </Block>
-// );
+const Stories = () => (
+  <Block background="white">
+    {[
+      {
+        content: 'Just want to read hand-picked, interesting stories?',
+        image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/wireframe.svg?sanitize=true`,
+        imageAlign: 'left',
+        title:  'Handpicked stories',
+      },
+    ]}
+  </Block>
+);
 
-// const Description3 = () => (
-//   <Block background="white">
-//     {[
-//       {
-//         content: 'Different stories to read - give them a chance!',
-//         image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/mind_map.svg?sanitize=true`,
-//         imageAlign: 'right',
-//         title: 'Different topics like GraphQL, Open Source movement, CSS, Design,  and many more',
-//       },
-//     ]}
-//   </Block>
-// );
+const Unsorted = () => (
+  <Block background="white">
+    {[
+      {
+        content: 'Different stories to read - give them a chance!',
+        image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/mind_map.svg?sanitize=true`,
+        imageAlign: 'right',
+        title: 'Different topics like GraphQL, Open Source movement, CSS, Design,  and many more',
+      },
+    ]}
+  </Block>
+);
 
 
-// <TryOut />
-// <Description />
-// <Description2 />
-// <Description3 />
+
 //
 // <TableOfContents />
 // image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/moving_forward.svg?sanitize=true`,
@@ -254,32 +287,62 @@ const TableOfContents = props => (
   </div>
 );
 
+const Showcase = () => {
+    if ((siteConfig.users || []).length === 0) {
+    return null;
+    }
+
+    const showcase = siteConfig.users
+    .filter(user => user.pinned)
+    .map(user => (
+        <a href={user.infoLink} key={user.infoLink}>
+        <img src={user.image} alt={user.caption} title={user.caption} />
+        </a>
+    ));
+
+    const pageUrl = page => baseUrl + (language ? `${language}/` : '') + page;
+
+    return (
+    <div className="productShowcaseSection paddingBottom">
+        <h2>Who is Using This?</h2>
+        <p>This project is used by all these people</p>
+        <div className="logos">{showcase}</div>
+        <div className="more-users">
+        <a className="button" href={pageUrl('users.html')}>
+            More {siteConfig.title} Users
+        </a>
+        </div>
+    </div>
+    );
+};
+
+const Features = () => (
+    <Block layout="fourColumn">
+    {[
+        {
+        content: 'This is the content of my feature',
+        image: `${baseUrl}img/undraw_react.svg`,
+        imageAlign: 'top',
+        title: 'Feature One',
+        },
+        {
+        content: 'The content of my second feature',
+        image: `${baseUrl}img/undraw_operating_system.svg`,
+        imageAlign: 'top',
+        title: 'Feature Two',
+        },
+    ]}
+    </Block>
+);
+
 class Index extends React.Component {
   render() {
     const {config: siteConfig, language = ''} = this.props;
     const {baseUrl} = siteConfig;
 
-    const Block = props => (
-      <Container
-        padding={['bottom', 'top']}
-        id={props.id}
-        background={props.background}>
-        <GridBlock
-          align="center"
-          contents={props.children}
-          layout={props.layout}
-        />
-      </Container>
-    );
 
-    const FeatureCallout = () => (
-      <div
-        className="productShowcaseSection paddingBottom"
-        style={{textAlign: 'center'}}>
-        <h2>Feature Callout</h2>
-        <MarkdownBlock>These are features of this project</MarkdownBlock>
-      </div>
-    );
+
+
 
 
 
@@ -332,60 +395,6 @@ class Index extends React.Component {
     );
 
 
-
-    const Features = () => (
-      <Block layout="fourColumn">
-        {[
-          {
-            content: 'This is the content of my feature',
-            image: `${baseUrl}img/undraw_react.svg`,
-            imageAlign: 'top',
-            title: 'Feature One',
-          },
-          {
-            content: 'The content of my second feature',
-            image: `${baseUrl}img/undraw_operating_system.svg`,
-            imageAlign: 'top',
-            title: 'Feature Two',
-          },
-        ]}
-      </Block>
-    );
-
-
-
-    const Showcase = () => {
-      if ((siteConfig.users || []).length === 0) {
-        return null;
-      }
-
-      const showcase = siteConfig.users
-        .filter(user => user.pinned)
-        .map(user => (
-          <a href={user.infoLink} key={user.infoLink}>
-            <img src={user.image} alt={user.caption} title={user.caption} />
-          </a>
-        ));
-
-      const pageUrl = page => baseUrl + (language ? `${language}/` : '') + page;
-
-      return (
-        <div className="productShowcaseSection paddingBottom">
-          <h2>Who is Using This?</h2>
-          <p>This project is used by all these people</p>
-          <div className="logos">{showcase}</div>
-          <div className="more-users">
-            <a className="button" href={pageUrl('users.html')}>
-              More {siteConfig.title} Users
-            </a>
-          </div>
-        </div>
-      );
-    };
-
-
-
-
     return (
       <div>
         <HomeSplash
@@ -393,14 +402,25 @@ class Index extends React.Component {
           language={language} />
 
           <div className="mainContainer">
+
+            <MainPage />
+            <ReactSkills />
+            <FindTechJob />
+            <Stories />
+            <Unsorted />
+            <TableOfContents />
+
+
+            {/*
             <Features />
             <FeatureCallout />
             <LearnHow />
             <TryOut />
             <Description />
+            <Showcase />
+            */}
 
-            {/* <TableOfContents /> */}
-            {/*<Showcase /> */}
+
           </div>
 
       </div>
