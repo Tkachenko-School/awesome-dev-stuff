@@ -104,15 +104,30 @@ const MainPage = props => (
     <div
         className="productShowcaseSection paddingBottom showcaseSection"
         style={{textAlign: 'center'}}>
-        <h2>Feature Callout</h2>
+        <h2>Welcome to awesome-dev-stuff website(yeah, I should find a better name).</h2>
         <MarkdownBlock>
-        These are features of this project
+
+
+
+
+
+            It's a place, where our team keeping different articles,
+
+            related to software development.
+
+            We sharing those links frequently with beginners, interns, juniors
+
+            and you may like it interesting as well.
+
+            There a lot of cool information, sorted by different topics.
+
+
         </MarkdownBlock>
       </div>
 
 
 
-
+{/*
   <div
 
     className="showcaseSection paddingBottom"
@@ -139,6 +154,7 @@ const MainPage = props => (
       </p>
     </div>
   </div>
+  */}
 );
 
 
@@ -339,12 +355,6 @@ class Index extends React.Component {
   render() {
     const {config: siteConfig, language = ''} = this.props;
     const {baseUrl} = siteConfig;
-
-
-
-
-
-
 
     const TryOut = () => (
       <Block id="try">
