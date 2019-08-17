@@ -164,36 +164,6 @@ const FeatureCallout = () => (
   */}
 
 
-// const MainPage = props => (
-//
-//     <div
-//         className="productShowcaseSection paddingBottom showcaseSection"
-//         style={{textAlign: 'center'}}>
-//         <h2>
-//           Welcome to awesome-dev-stuff website
-//
-//         </h2>
-//         <h3>
-//           (yeah, I should find a better name).
-//         </h3>
-//         <MarkdownBlock>
-//
-//
-//             It's a place, where our team keeping different articles,
-//
-//             related to software development.
-//
-//             We sharing those links frequently with beginners, interns, juniors
-//
-//             and you may like it interesting as well.
-//
-//             There a lot of cool information, sorted by different topics.
-//
-//
-//         </MarkdownBlock>
-//       </div>
-//
-// );
 
 
 
@@ -245,7 +215,7 @@ const Unsorted = () => (
         content: 'Different stories to read - give them a chance!',
         image: `https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/mind_map.svg?sanitize=true`,
         imageAlign: 'right',
-        title: 'Different topics like GraphQL, Open Source movement, CSS, Design,  and many more',
+        // title: 'Different topics like GraphQL, Open Source movement, CSS, Design,  and many more',
       },
     ]}
   </Block>
@@ -432,6 +402,48 @@ const Showcase = () => {
     );
 };
 
+const jobsLink =
+'[**Startup Jobs**](/awesome-dev-stuff/docs/jobs/tech-job)<br />' +
+'[**Internships**](/awesome-dev-stuff/docs/jobs/internships)<br />' +
+'[**Tech Job Boards**](/awesome-dev-stuff/docs/jobs/job-boards)<br />' +
+'[**Remote Jobs**](/awesome-dev-stuff/docs/jobs/jobs)<br />' +
+'Index'
+;
+// 11  (<-- two spaces)
+const TOCC = () => (
+    <Block layout="fourColumn">
+    {[
+        {
+        content: jobsLink,
+        // image: `${baseUrl}img/undraw_react.svg`,
+        imageAlign: 'top',
+        title: 'Jobs Index',
+        },
+        {
+        content: 'The content of my second feature',
+        // image: `${baseUrl}img/undraw_operating_system.svg`,
+        imageAlign: 'top',
+        title: 'Feature Two',
+        },
+        {
+        content: 'The content of my second feature',
+        // image: `${baseUrl}img/undraw_operating_system.svg`,
+        imageAlign: 'top',
+        title: 'Feature 3',
+        },
+        {
+        content:
+        'To make your landing page more attractive, use illustrations! Check out ' +
+          '[**unDraw**](https://undraw.co/) which provides you with customizable illustrations which are free to use. ' +
+          'The illustrations you see on this page are from unDraw.',
+        // image: `${baseUrl}img/undraw_operating_system.svg`,
+        imageAlign: 'top',
+        title: 'Feature 4',
+        },
+    ]}
+    </Block>
+);
+
 const Features = () => (
     <Block layout="fourColumn">
     {[
@@ -519,6 +531,7 @@ class Index extends React.Component {
             <Stories />
             <Unsorted />
             <hr />
+            <TOCC />
             <TableOfContents />
 
 
