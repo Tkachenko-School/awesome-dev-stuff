@@ -409,6 +409,23 @@ const jobsLink =
 '[**Remote Jobs**](/awesome-dev-stuff/docs/jobs/jobs)<br />' +
 'Index'
 ;
+
+const npmModule =
+'[**First articles to read**](/awesome-dev-stuff/docs/create-npm-module/create-npm-module)<br />' +
+'[**Use Babel at your project**](/awesome-dev-stuff/docs/create-npm-module/create-npm-module-babel)<br />' +
+'[**RollupJS**](/awesome-dev-stuff/docs/create-npm-module/create-npm-module-rollup)<br />' +
+'[**Rollup + React configuration**](/awesome-dev-stuff/docs/create-npm-module/create-npm-module-rollup-react)<br />' +
+'Index'
+;
+
+const jsLinks =
+'[**JS articles**](/awesome-dev-stuff/docs/js/js)<br />' +
+'[**Complex structures**](/awesome-dev-stuff/docs/js/complex-structures)<br />' +
+'[**RollupJS**](/awesome-dev-stuff/docs/create-npm-module/create-npm-module-rollup)<br />' +
+'[**Rollup + React configuration**](/awesome-dev-stuff/docs/create-npm-module/create-npm-module-rollup-react)<br />' +
+'Index'
+;
+
 // 11  (<-- two spaces)
 const TOCC = () => (
     <Block layout="fourColumn">
@@ -420,7 +437,7 @@ const TOCC = () => (
         title: 'Jobs Index',
         },
         {
-        content: 'The content of my second feature',
+        content: npmModule,
         // image: `${baseUrl}img/undraw_operating_system.svg`,
         imageAlign: 'top',
         title: 'Publish NPM module',
