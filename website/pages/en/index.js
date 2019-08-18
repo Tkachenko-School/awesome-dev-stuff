@@ -418,11 +418,12 @@ const npmModule =
 'Index'
 ;
 
+// finish
 const jsLinks =
 '[**JS articles**](/awesome-dev-stuff/docs/js/js)<br />' +
 '[**Complex structures**](/awesome-dev-stuff/docs/js/complex-structures)<br />' +
 '[**RollupJS**](/awesome-dev-stuff/docs/create-npm-module/create-npm-module-rollup)<br />' +
-'[**Rollup + React configuration**](/awesome-dev-stuff/docs/create-npm-module/create-npm-module-rollup-react)<br />' +
+'[**NodeJS CORB CORS**](/awesome-dev-stuff/docs/js/nodejs-corb-cors)<br />' +
 'Index'
 ;
 
