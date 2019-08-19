@@ -406,24 +406,21 @@ const jobsLink =
 '[**Startup Jobs**](/awesome-dev-stuff/docs/jobs/tech-job)<br />' +
 '[**Internships**](/awesome-dev-stuff/docs/jobs/internships)<br />' +
 '[**Tech Job Boards**](/awesome-dev-stuff/docs/jobs/job-boards)<br />' +
-'[**Remote Jobs**](/awesome-dev-stuff/docs/jobs/jobs)<br />' +
-'Index'
+'[**Remote Jobs**](/awesome-dev-stuff/docs/jobs/jobs)<br />'
 ;
 
 const npmModule =
 '[**First articles to read**](/awesome-dev-stuff/docs/create-npm-module/create-npm-module)<br />' +
 '[**Use Babel at your project**](/awesome-dev-stuff/docs/create-npm-module/create-npm-module-babel)<br />' +
 '[**RollupJS**](/awesome-dev-stuff/docs/create-npm-module/create-npm-module-rollup)<br />' +
-'[**Rollup + React configuration**](/awesome-dev-stuff/docs/create-npm-module/create-npm-module-rollup-react)<br />' +
-'Index'
+'[**Rollup + React configuration**](/awesome-dev-stuff/docs/create-npm-module/create-npm-module-rollup-react)<br />'
 ;
 
 
 const jsLinks =
 '[**JS articles**](/awesome-dev-stuff/docs/js/js)<br />' +
 '[**Complex structures**](/awesome-dev-stuff/docs/js/complex-structures)<br />' +
-'[**NodeJS CORB CORS**](/awesome-dev-stuff/docs/js/nodejs-corb-cors)<br />' +
-'Index'
+'[**NodeJS CORB CORS**](/awesome-dev-stuff/docs/js/nodejs-corb-cors)<br />'
 ;
 
 const reactLinks =
@@ -432,35 +429,39 @@ const reactLinks =
 '[**React Children components**](/awesome-dev-stuff/docs/react/react-children)<br />' +
 '[**Styled Components**](/awesome-dev-stuff/docs/react/styling)<br />' +
 '[**React best practices**](/awesome-dev-stuff/docs/react/react-best-practices)<br />' +
-'[**React project structure**](/awesome-dev-stuff/docs/react/project-structure)<br />' +
-'Index'
+'[**React project structure**](/awesome-dev-stuff/docs/react/project-structure)<br />'
 ;
 
 
 const cssLinks =
 '[**CSS**](/awesome-dev-stuff/docs/css/css)<br />' +
 '[**CSS Grid**](/awesome-dev-stuff/docs/css/css-grid)<br />' +
-'[**Flexbox**](/awesome-dev-stuff/docs/css/flexbox)<br />' +
-'Index'
+'[**Flexbox**](/awesome-dev-stuff/docs/css/flexbox)<br />'
 ;
 
 const stories =
-'[**Stories for developers**](/awesome-dev-stuff/docs/stories/stories)<br />';
+'[**Read Stories**](/awesome-dev-stuff/docs/stories/stories)<br />';
 
 const unsortedLinks =
 '[**Free code courses**](/awesome-dev-stuff/docs/courses)<br />' +
 '[**Open source**](/awesome-dev-stuff/docs/open-source/open-source)<br />' +
-'[**Launch your project on ProductHunt Articles Collection**](/awesome-dev-stuff/docs/product-hunt/launch-producthunt)<br />' +
+'[**Launch your project on ProductHunt**](/awesome-dev-stuff/docs/product-hunt/launch-producthunt)<br />' +
 '[**Machine learning**](/awesome-dev-stuff/docs/machine-learning/machine-learning)<br />' +
 '[**Design**](/awesome-dev-stuff/docs/design/design)<br />' +
 '[**Mastering Git**](/awesome-dev-stuff/docs/git/git)<br />' +
 '[**Cool Github Repositories**](/awesome-dev-stuff/docs/github/cool-github-repositories)<br />' +
 '[**GraphQL**](/awesome-dev-stuff/docs/graphql/graphql)<br />' +
-'[**IndieHackers articles/podcasts collection**](/awesome-dev-stuff/docs/indie-hackers/indie-hackers)<br />' +
-'[**Credits: Images**](/awesome-dev-stuff/docs/images)<br />' +
-'Index'
+'[**IndieHackers articles/podcasts**](/awesome-dev-stuff/docs/indie-hackers/indie-hackers)<br />' +
+'[**Credits: Images**](/awesome-dev-stuff/docs/images)<br />'
 ;
+
 // 11  (<-- two spaces)
+
+
+
+
+
+
 const TOCC = () => (
     <Block layout="fourColumn">
     {[
@@ -477,20 +478,46 @@ const TOCC = () => (
         title: 'Publish NPM module',
         },
         {
-        content: 'The content of my second feature',
+        content: jsLinks,
         // image: `${baseUrl}img/undraw_operating_system.svg`,
         imageAlign: 'top',
-        title: 'Feature 3',
+        title: 'JavaScript',
         },
         {
-        content:
-        'To make your landing page more attractive, use illustrations! Check out ' +
-          '[**unDraw**](https://undraw.co/) which provides you with customizable illustrations which are free to use. ' +
-          'The illustrations you see on this page are from unDraw.',
+        content: stories,
         // image: `${baseUrl}img/undraw_operating_system.svg`,
         imageAlign: 'top',
-        title: 'Feature 4',
+        title: 'Stories with developers',
         },
+    ]}
+    </Block>
+);
+
+
+
+const TOCCC = () => (
+    <Block layout="fourColumn">
+    {[
+        {
+        content: cssLinks,
+        // image: `${baseUrl}img/undraw_react.svg`,
+        imageAlign: 'top',
+        title: 'CSS',
+        },
+        {
+        content: unsortedLinks,
+        // image: `${baseUrl}img/undraw_operating_system.svg`,
+        imageAlign: 'top',
+        title: 'Unsorted',
+      },
+      {
+      content: reactLinks,
+      // image: `${baseUrl}img/undraw_operating_system.svg`,
+      imageAlign: 'top',
+      title: 'React',
+      },
+
+
     ]}
     </Block>
 );
@@ -583,6 +610,7 @@ class Index extends React.Component {
             <Unsorted />
             <hr />
             <TOCC />
+            <TOCCC />
             <TableOfContents />
 
 
