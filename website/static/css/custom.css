@@ -37,3 +37,7 @@ li a {
 .border-bottom-3px {
   border-bottom: 3px solid black;
 }
+#TOC .container h2 {
+  font-size: 24px;
+  color: black;
+}
