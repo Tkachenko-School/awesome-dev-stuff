@@ -459,38 +459,37 @@ const unsortedLinks =
 
 
 
-
-
-
 const TOCC = () => (
-    <Block layout="fourColumn">
-    {[
-        {
-        content: jobsLink,
-        // image: `${baseUrl}img/undraw_react.svg`,
-        imageAlign: 'top',
-        title: 'Jobs Index',
-        },
-        {
-        content: npmModule,
-        // image: `${baseUrl}img/undraw_operating_system.svg`,
-        imageAlign: 'top',
-        title: 'Publish NPM module',
-        },
-        {
-        content: jsLinks,
-        // image: `${baseUrl}img/undraw_operating_system.svg`,
-        imageAlign: 'top',
-        title: 'JavaScript',
-        },
-        {
-        content: stories,
-        // image: `${baseUrl}img/undraw_operating_system.svg`,
-        imageAlign: 'top',
-        title: 'Stories with developers',
-        },
-    ]}
-    </Block>
+  <div
+    className="productShowcaseSection"
+    style={{textAlign: 'center'}}>
+      <h2>Table of contents</h2>
+      <Block layout="fourColumn">
+      {[
+          {
+            content: jobsLink,
+            imageAlign: 'top',
+            title: 'Jobs Index',
+          },
+          {
+            content: npmModule,
+            imageAlign: 'top',
+            title: 'Publish NPM module',
+          },
+          {
+            content: jsLinks,
+            imageAlign: 'top',
+            title: 'JavaScript',
+          },
+          {
+            content: stories,
+            imageAlign: 'top',
+            title: 'Stories with developers',
+          },
+      ]}
+      </Block>
+  </div>
+
 );
 
 
@@ -498,25 +497,22 @@ const TOCC = () => (
 const TOCCC = () => (
     <Block layout="fourColumn">
     {[
-        {
-        content: cssLinks,
-        // image: `${baseUrl}img/undraw_react.svg`,
-        imageAlign: 'top',
-        title: 'CSS',
-        },
-        {
+
+      {
         content: unsortedLinks,
-        // image: `${baseUrl}img/undraw_operating_system.svg`,
         imageAlign: 'top',
         title: 'Unsorted',
       },
       {
-      content: reactLinks,
-      // image: `${baseUrl}img/undraw_operating_system.svg`,
-      imageAlign: 'top',
-      title: 'React',
+        content: reactLinks,
+        imageAlign: 'top',
+        title: 'React',
       },
-
+      {
+        content: cssLinks,
+        imageAlign: 'top',
+        title: 'CSS',
+      },
 
     ]}
     </Block>
@@ -611,7 +607,7 @@ class Index extends React.Component {
             <hr />
             <TOCC />
             <TOCCC />
-            <TableOfContents />
+            {/*<TableOfContents />*/}
 
 
             {/*
