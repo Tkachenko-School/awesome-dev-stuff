@@ -73,16 +73,16 @@ class HomeSplash extends React.Component {
           </p>
           <p>
             related to software development.
-        </p>
-        <p>
-            We sharing those links frequently with beginners, interns, juniors
-        </p>
-        <p>
-            and you may like it interesting as well.
-        </p>
-        <p>
-            There a lot of cool information, sorted by different topics.
-        </p>
+          </p>
+          <p>
+              We sharing those links frequently with beginners, interns, juniors
+          </p>
+          <p>
+              and you may like it interesting as well.
+          </p>
+          <p>
+              There a lot of cool information, sorted by different topics.
+          </p>
 
 
           <PromoSection>
@@ -394,9 +394,9 @@ const Showcase = () => {
         <p>This project is used by all these people</p>
         <div className="logos">{showcase}</div>
         <div className="more-users">
-        <a className="button" href={pageUrl('users.html')}>
-            More {siteConfig.title} Users
-        </a>
+          <a className="button" href={pageUrl('users.html')}>
+              More {siteConfig.title} Users
+          </a>
         </div>
     </div>
     );
@@ -418,15 +418,48 @@ const npmModule =
 'Index'
 ;
 
-// finish
+
 const jsLinks =
 '[**JS articles**](/awesome-dev-stuff/docs/js/js)<br />' +
 '[**Complex structures**](/awesome-dev-stuff/docs/js/complex-structures)<br />' +
-'[**RollupJS**](/awesome-dev-stuff/docs/create-npm-module/create-npm-module-rollup)<br />' +
 '[**NodeJS CORB CORS**](/awesome-dev-stuff/docs/js/nodejs-corb-cors)<br />' +
 'Index'
 ;
 
+const reactLinks =
+'[**Awesome React Book by Flavio Copes**](/awesome-dev-stuff/docs/react/awesome-react-book)<br />' +
+'[**Different articles related to React ecosystem**](/awesome-dev-stuff/docs/react/react)<br />' +
+'[**React Children components**](/awesome-dev-stuff/docs/react/react-children)<br />' +
+'[**Styled Components**](/awesome-dev-stuff/docs/react/styling)<br />' +
+'[**React best practices**](/awesome-dev-stuff/docs/react/react-best-practices)<br />' +
+'[**React project structure**](/awesome-dev-stuff/docs/react/project-structure)<br />' +
+'Index'
+;
+
+
+const cssLinks =
+'[**CSS**](/awesome-dev-stuff/docs/css/css)<br />' +
+'[**CSS Grid**](/awesome-dev-stuff/docs/css/css-grid)<br />' +
+'[**Flexbox**](/awesome-dev-stuff/docs/css/flexbox)<br />' +
+'Index'
+;
+
+const stories =
+'[**Stories for developers**](/awesome-dev-stuff/docs/stories/stories)<br />';
+
+const unsortedLinks =
+'[**Free code courses**](/awesome-dev-stuff/docs/courses)<br />' +
+'[**Open source**](/awesome-dev-stuff/docs/open-source/open-source)<br />' +
+'[**Launch your project on ProductHunt Articles Collection**](/awesome-dev-stuff/docs/product-hunt/launch-producthunt)<br />' +
+'[**Machine learning**](/awesome-dev-stuff/docs/machine-learning/machine-learning)<br />' +
+'[**Design**](/awesome-dev-stuff/docs/design/design)<br />' +
+'[**Mastering Git**](/awesome-dev-stuff/docs/git/git)<br />' +
+'[**Cool Github Repositories**](/awesome-dev-stuff/docs/github/cool-github-repositories)<br />' +
+'[**GraphQL**](/awesome-dev-stuff/docs/graphql/graphql)<br />' +
+'[**IndieHackers articles/podcasts collection**](/awesome-dev-stuff/docs/indie-hackers/indie-hackers)<br />' +
+'[**Credits: Images**](/awesome-dev-stuff/docs/images)<br />' +
+'Index'
+;
 // 11  (<-- two spaces)
 const TOCC = () => (
     <Block layout="fourColumn">
