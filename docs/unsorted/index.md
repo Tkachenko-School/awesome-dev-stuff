@@ -15,5 +15,5 @@ sidebar_label: Awesome React Book by Flavio Copes
 * [Design](design/design.md)
 * [Git](git/git.md)
 * [Cool Github Repositories](github/cool-github-repositories.md)
-* [Graphqh](graphql/graphqh.md)    
+* [Graphqh](graphql/graphql.md)    
 * [Credits: Images](images.md)
