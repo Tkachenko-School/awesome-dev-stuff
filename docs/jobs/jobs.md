@@ -25,7 +25,7 @@ https://www.producthunt.com/posts/remote-jobseeker-s-handbook
 https://hackernoon.com/leading-a-remote-team-and-being-a-digital-nomad-cautionary-tale-5088195d7cf0
 
 https://github.com/lukasz-madon/awesome-remote-job
-
+https://remotehub.io/remote-tools
 -->
 
 <!-- https://hackernoon.com/23-time-tested-apps-to-manage-your-remote-software-development-team-8m3vj3zjk
