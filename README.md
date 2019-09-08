@@ -35,3 +35,7 @@ Stretch Goals
 - [ ] I should replace all old medium/freecodecamp with their new website.... from medium.freebootcamp to freebootcamp.com/posts/
 
 - [ ] Same with articles from Hackernoon, in order to drive traffic to a new website.
+
+
+#### Amazing artwork by ManyPixels team.
+[From ManyPixels Illustrations Gallery](https://gallery.manypixels.co/?ref=producthunt)
