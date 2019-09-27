@@ -138,7 +138,3 @@ https://www.linkedin.com/feed/update/urn:li:activity:6514099565891710976 -->
 
 
 <!-- https://medium.com/free-code-camp/software-engineering-interviews-744380f4f2af -->
-
-<!-- https://hackernoon.com/why-developers-hate-coding-skills-8m6u3za1 -->
-
-<!-- https://hackernoon.com/make-the-most-of-github-to-source-your-hires-5m2hd4zo1 -->

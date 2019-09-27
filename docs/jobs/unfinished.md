@@ -80,7 +80,6 @@ https://angel.co/alpha/stories/here-s-why-remote-workers-are-more-productive-tha
 
 https://medium.com/ilao/5-reasons-to-build-a-remote-company-3ff832b97017
 https://www.intercom.com/blog/product-designer-career/
-https://hackernoon.com/what-does-a-senior-engineer-look-like-6fd59520a11e
 
 https://hackercollective.co/self-taught-experiences/?
 
@@ -275,13 +274,6 @@ https://github.com/lydiahallie/javascript-questions
 
 
 
-jobs
-https://hackernoon.com/how-your-job-may-be-crippling-your-tech-skills-1b1b7a8ff3fd
-https://hackernoon.com/interview-tackling-complex-architecture-dos-and-don-ts-d6f8f34d694d
-https://hackernoon.com/ready-to-hire-calculate-the-hidden-costs-of-scale-first-25a3c93b9d65
-https://hackernoon.com/how-to-choose-a-startup-to-work-for-by-thinking-like-an-investor-5567345a82c7
-https://hackernoon.com/no-portfolio-whats-your-excuse-fc2136a19672
-https://hackernoon.com/women-in-tech-software-engineer-career-advice-8cb70cc5c13c
 
 
 
@@ -290,12 +282,6 @@ https://hackernoon.com/my-4-year-journey-from-bootcamp-attendee-to-senior-softwa
 https://hackernoon.com/software-development-bootcamp-survival-guide-636d725ac253
 
 
-
-https://hackernoon.com/what-companies-are-looking-for-in-a-frontend-developer-in-2019-60e59898c408
-https://hackernoon.com/why-your-tech-interview-process-may-be-flawed-47a0cb70b1d4
-https://hackernoon.com/what-tech-recruiters-actually-look-for-in-your-resume-and-first-interview-f27638c2f2de
-https://hackernoon.com/how-i-got-multiple-software-engineer-job-offers-switching-from-another-industry-d77651145b0e
-https://hackernoon.com/beyond-the-recruiting-funnel-the-candidate-climb-d9eb79ffcf0a
 https://www.freecodecamp.org/news/how-to-build-an-amazing-linkedin-profile-15-proven-tips/
 
 https://angel.co/blog/what-angellist-data-says-about-power-law-returns-in-venture-capital?fbclid=IwAR229q6R-9s65FH6W7Jm5o9e8PeLkkqsDxlAgH_KbXfWY22VGfHzbDNgr_s
