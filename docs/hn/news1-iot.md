@@ -120,3 +120,10 @@ Top 8 IoT market trends to look out for in 2019
 Nest cam IQ indoor is the example of a product using edge computing to distinguish faces and send alerts if someone doesn’t look alike. Other IoT cameras depend on the cloud for processing on the other and Nest’s Product is different.
 
 By https://hackernoon.com/@paresh.sagar86 @paresh.sagar86
+
+---
+
+Founder Interviews: Satyam Vaghani of Nutanix
+https://hackernoon.com/founder-interviews-satyam-vaghani-of-nutanix-hd13t34rm
+
+By @Davis https://hackernoon.com/@Davis
