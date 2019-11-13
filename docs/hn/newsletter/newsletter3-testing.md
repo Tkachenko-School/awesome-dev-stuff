@@ -198,5 +198,63 @@ By @dakic
 https://hackernoon.com/@dakic
 
 
+Code review test cases
+https://hackernoon.com/code-review-test-cases-5705a9689725
+One day, months after committing that code you’ll refactor it and it’s possible to delete a whole feature without even noticing it since there is no test case that describes that feature. This is really bad!
+By @thecodegang
+https://hackernoon.com/@thecodegang
 
 
+https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92
+Introduction to Test Driven Development (TDD)
+TDD is not a miracle solution for having an optimal unit test suite without effort. It is important to keep in mind that within this practice, the test code is as important if not more important than the production code!
+By @ssaurel
+https://hackernoon.com/@ssaurel
+
+The Green Build Deceit: Why passing tests are insidious
+https://hackernoon.com/the-green-build-deceit-why-passing-tests-are-insidious-14a7888712e3
+
+https://hackernoon.com/four-reasons-you-need-automated-tests-for-your-code-3fd4f6f4e720
+Four reasons you need automated tests for your code
+What happens if you go back to a piece of code after a few weeks and realise it is definitely not as well architected as it should be? You will probably have to refactor your code, one of life’s greatest joys! 
+
+
+https://hackernoon.com/things-that-arent-testing-frameworks-df35d522fb50
+Things that aren’t testing frameworks
+
+https://hackernoon.com/bdd-writing-a-test-suite-before-writing-code-6279e4cf4be6
+BDD: Writing an Automated Test Suite isn’t Rocket Science
+By @andymacdroo
+https://hackernoon.com/@andymacdroo
+
+https://hackernoon.com/how-i-learned-to-stop-worrying-and-love-tdd-ea22b7b7fcaa
+How I learned to stop worrying and love TDD
+By @james.kyle.lemon
+https://hackernoon.com/@james.kyle.lemon
+
+
+https://hackernoon.com/test-driven-development-with-alexa-sdk-777f6b5e5486
+Test Driven Development with Alexa SDK
+By @binhonglee
+https://hackernoon.com/@binhonglee
+
+
+https://hackernoon.com/unit-testing-redux-connected-components-692fa3c4441c
+Unit Testing Redux Connected Components
+By @lukepierotti
+https://hackernoon.com/@lukepierotti
+
+https://hackernoon.com/test-f-i-r-s-t-65e42f3adc17
+Test F.I.R.S.T
+https://hackernoon.com/@thecodegang
+By @thecodegang
+
+
+https://hackernoon.com/structure-your-javascript-code-for-testability-9bc93d9c72dc
+Structure Your JavaScript Code for Testability
+By @sdeleon28
+https://hackernoon.com/@sdeleon28
+
+
+https://hackernoon.com/tagged/quality-assurance
+https://hackernoon.com/tagged/qa
