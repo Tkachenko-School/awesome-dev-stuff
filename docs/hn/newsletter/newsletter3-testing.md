@@ -142,3 +142,61 @@ https://hackernoon.com/@michaeltomara
 
 
 https://www.google.com/search?q=site%3Ahackernoon.com+software%20testing
+
+====
+
+
+
+
+
+https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-1-b8a200bb7091
+https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-2-8d4cb2dc154c
+https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-3-f25c2289c54
+https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-4-edb62e113c9b
+
+https://hackernoon.com/implementing-basic-component-tests-using-jest-and-enzyme-d1d8788d627a
+Implementing basic Component tests using Jest and Enzyme
+By @lukepierotti
+https://hackernoon.com/@lukepierotti
+
+https://hackernoon.com/low-effort-high-value-integration-tests-in-redux-apps-d3a590bd9fd5
+Low effort, high value. Integration tests in Redux apps.
+The kind of integration tests that will give the most confidence in the correct functioning of the app are those that take the perspective of the user. The goal is to verify that once the user interacts with the application by clicking buttons, filling form elements etc., the app responds by modifying itself or performing side effects as expected.
+By @penzington
+https://hackernoon.com/@penzington
+
+https://hackernoon.com/redux-tdd-a-deep-dive-344cd7682a54
+Redux TDD: a deep dive
+By @lmatteis
+https://hackernoon.com/@lmatteis
+
+
+
+https://hackernoon.com/conditionally-flipping-a-coin-and-rock-paper-scissors-1174c0e4ff95
+Conditional Coin Flips with Rock Paper Scissors
+This process of writing a failing test, then making it pass is what is done for TDD. The next step would be to write one for returning 1. Each small step you take towards your final goal.
+By @puyan-wei
+https://hackernoon.com/@puyan-wei
+
+https://hackernoon.com/fast-prototyping-with-azure-functions-and-tdd-m7xb32c2
+Fast Prototyping With Azure Functions and TDD
+The business logic must not depend on any infrastructure. That way, it’s easy to test it with unit tests.
+By @Pcc
+https://hackernoon.com/@Pcc
+
+
+https://hackernoon.com/a-practical-intro-to-test-driven-development-hb63i319u
+The Untold Truth of Test Driven Development
+By @Pcc
+https://hackernoon.com/@Pcc
+The theory behind TDD is not that hard to understand, but applying it to the real world can be really complex if you don’t approach it the right way.
+
+https://hackernoon.com/testimonial-driven-development-5c1pk3z62
+Testimonial Driven Development
+A testimonial is a formal written statement about the qualities of a product or service.
+By @dakic
+https://hackernoon.com/@dakic
+
+
+
+
