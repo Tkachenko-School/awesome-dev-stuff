@@ -395,31 +395,36 @@ Team Lead — this is the position for the most experienced team member, who
 
 
 https://hackernoon.com/the-qa-engineer-role-is-changing-to-keep-pace-with-automation-e87853cf9a90
-
-
-
+The QA Engineer Role Is Changing To Keep Pace With Automation
+Today, engineers write open-source code and create automated processes for testing that code. So, many of the traditional tests performed by a QA engineer are now done by the developers.
+By @ajitkulkarni
+https://hackernoon.com/@ajitkulkarni
 
 
 https://hackernoon.com/deploying-production-infrastructure-should-it-be-hard-ad5ze3288
-
-
-
+Should Deploying Production Infrastructure be Hard?
+For simple applications not operating at massive scale, deploying application infrastructure should be cheap, easy, and immediate.
+By @charlieinthe6
+https://hackernoon.com/@charlieinthe6
 
 
 https://hackernoon.com/api-end-to-end-testing-with-docker-f6t3691
-
-
-
+End to End API Testing with Docker
+No need for any fancy framework. We'll build a generic mock in vanilla JS in ~20 lines of code. This will give us the opportunity to control what the API will return to our component. It allows to test error scenarios.
+By @jpfire
+https://hackernoon.com/@jpfire
 
 https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1
-
-
-
+Why is DevOps for Machine Learning so Different?
+Retraining can be necessary. For example, if your model is making predictions for data that varies a lot by season, such as predictions for how many items of types of clothing will sell in a month. In that case training on data from summer may give good predictions in summer but will not give good predictions in winter.
+By @ryandawsonuk
+https://hackernoon.com/@ryandawsonuk
 
 https://hackernoon.com/building-a-web-vulnerability-scanner-4cs3zh7
-
-
-
+Building a Web Vulnerability Scanner
+Remote scanning is generally limited to remote attacks and other forms of remote detection like our Security Audit Tool. Other remote scanners can attempt to detect the software then run a set of benign attacks from public exploit databases.
+By @LouisS
+https://hackernoon.com/@LouisS
 
 https://hackernoon.com/d-ftp-high-throughput-direct-file-transfer-using-nkn-client-s91j33no
 
