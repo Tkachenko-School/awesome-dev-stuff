@@ -254,12 +254,24 @@ https://hackernoon.com/@sdeleon28
 
 
 https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-1-b8a200bb7091
+Read More
+
+
 
 https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-2-8d4cb2dc154c
+Read More
+
+
 
 https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-3-f25c2289c54
+Read More
+
+
 
 https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-4-edb62e113c9b
+Read More
+
+
 
 
 
@@ -276,12 +288,18 @@ https://hackernoon.com/tagged/qa
 
 https://hackernoon.com/system-testing-complicated-process-in-simple-words-bu31g312s
 System Testing: Complicated Process in Simple Words
+Read More
+
+
 
 https://hackernoon.com/how-to-perform-mobile-geolocation-testing-and-why-it-is-important-pj4r4306y
 Why is Mobile Geolocation Testing Essential for Quality Assurance
 By @vlad.treshcheyko
 https://hackernoon.com/@vlad.treshcheyko
 In a food delivery app example, the Point represents the pick-up location of the order, the drop-off location for the customer, and the delivery person’s location, typically with only their latitude and longitude coordinates.
+Read More
+
+
 
 
 https://hackernoon.com/should-you-estimate-bugs-4ocf37t2
@@ -289,39 +307,60 @@ How Should You Estimate Bugs?
 By @makarov
 https://hackernoon.com/@makarov
 The biggest influence on whether you should estimate bugs or not, is the size of your team and company, as these two factors influence a lot of other things, so let’s take a look at a couple of different setups and what you might want to do in each case.
+Read More
+
+
 
 
 https://hackernoon.com/what-does-a-quality-engineer-do-interview-with-pushkala-test-architect-opengov-f38746044f2c
 What does a Quality Engineer do? Interview with Pushkala, Test Architect @ OpenGov
+Read More
+
+
 
 
 https://hackernoon.com/software-reliability-pt-2-code-for-the-best-by-preparing-for-the-worst-9f4109f608e1
 Software Reliability Pt. 2: Code For The Best By Preparing For The Worst
 Defense wins championships — Bear Bryant (Legendary Alabama football coach)
 It’s not just a cute quote. Though, we do have to ask the question, “What does that look like in programming?”
+Read More
+
+
 
 
 https://hackernoon.com/the-definitive-227-item-quality-assurance-checklist-to-test-before-launching-new-software-48a624574f35
 The Definitive 227 Item Quality Assurance Checklist to Test Before Launching New Software
 General: Check business rules if you have fields which are dependent on each other. E.g. if values filled in one field narrow the options available in the next field. Go back and change a previous field. Verify that dependent fields are updated/cleared.
+Read More
+
+
 
 https://hackernoon.com/qa-engineering-roles-skills-tools-and-responsibilities-in-a-testing-team-7c499adc8057
 QA Engineering Roles: Skills, Tools, and Responsibilities in a Testing Team
 By @AltexSoft
 https://hackernoon.com/@AltexSoft
 Having good communication and teamwork skills is essential for software testers, as they constantly interact with project team members, clients, and stakeholders. Mastering point-to-point communication will help a QA engineer accurately decide on what information to include in the daily status reports.
+Read More
+
+
 
 https://hackernoon.com/the-good-and-the-bad-of-selenium-test-automation-tool-49f3a6b29920
 The Good and the Bad of Selenium Test Automation Tool
 Selenium was following the Agile and DevOps narrative before these words were even put into practice. The whole nature of Selenium falls perfectly into the main principles behind Agile, DevOps, or Continuous Delivery.
 By @AltexSoft
 https://hackernoon.com/@AltexSoft
+Read More
+
+
 
 https://hackernoon.com/speaker-diarization-the-squad-way-2205e0accbda
 Speaker Diarization — The Squad Way
 Speaker Diarization aims to solve the problem of “Who Spoke When” in a multi-party audio recording.
 By @aniket_52307
 https://hackernoon.com/@aniket_52307
+Read More
+
+
 
 
 https://hackernoon.com/founder-interviews-fred-stevens-smith-of-rainforest-qa-56b34938fe22
@@ -329,17 +368,26 @@ Founder Interviews: Fred Stevens-Smith of Rainforest QA
 By @davis1
 https://hackernoon.com/@davis1
 Software companies will consume QA implicitly, as part of building software, and will stitch together our APIs to get the right balance of testing for them. In addition to the functional testing and usability testing we do for customers today, we’ll also do security and performance testing. And all of this will be easy to use and affordable.
+Read More
+
+
 
 https://hackernoon.com/is-there-such-a-thing-as-bug-free-software-320cd862af17
 Is There Such a Thing As Bug-free Software?
 Zero bug development is a myth that should be dispensed with. In order to stay relevant, you need to keep things fresh. Twitter, Facebook, Gmail, Dropbox, and other companies constantly improve their software, as we can see in the What’s new section of app store listings. They make improvements to meet end users’ evolving expectations along with changing web and mobile technology.
 By @SteelKiwiDev
 https://hackernoon.com/@SteelKiwiDev
+Read More
+
+
 
 https://hackernoon.com/infographic-performance-testing-the-basics-645f603485a7
 [Infographic] Performance Testing: The Basics
 By @AmsourceTech
 https://hackernoon.com/@AmsourceTech
+Read More
+
+
 
 
 https://hackernoon.com/take-your-software-quality-to-the-next-level-182cc4a0a9fe
@@ -347,18 +395,27 @@ Take Your Software Quality to the Next Level
 Prototype. Create a quick, functional prototype and get people using it. Quality doesn’t matter much here. It just has to work. You’re focusing on the design and UX. Iterate on the design. Users often don’t know what they want until they can touch it. This is one of the reasons by rapid, evolutionary prototyping is so successful.
 By @joseph.crick
 https://hackernoon.com/@joseph.crick
+Read More
+
+
 
 https://hackernoon.com/assertions-considered-harmful-d3770d818054
 Assertions considered Harmful
 By @roesslerj
 https://hackernoon.com/@roesslerj
 One of the reasons of the shape of the famous test pyramid is that tests on that level tend to break often and require a lot of maintenance effort.
+Read More
+
+
 
 https://hackernoon.com/test-automation-is-not-automated-testing-b88d748a7561
 Test Automation is not Automated Testing
 By @roesslerj
 https://hackernoon.com/@roesslerj
 It is about preventing bugs, rather than finding bugs and building the best system by iteratively questioning each and every aspect and underlying assumption, rather than breaking the system.
+Read More
+
+
 
 ``````````````
 ``````````````
@@ -370,6 +427,9 @@ The Big Bad Guide on Database Testing
 If the tester does not know SQL, he can verify the result of CRUD operations using the application's GUI, by viewing the tables of the database. This method of database checking requires excellent knowledge of the structure of the tables and can be a bit tedious and bulky, especially when the database and tables contain a large amount of data.
 By @nick119
 https://hackernoon.com/@nick119
+Read More
+
+
 
 
 
@@ -378,6 +438,9 @@ https://hackernoon.com/6-key-steps-to-follow-for-beta-testing-your-products-cba0
 Beta testing is also a kind of marketing strategy that you initiate for your product. It helps create a buzz among your target users, and this momentum would pave the way for a better, and perhaps, an eager reception during the official release
 By @cabot_solutions
 https://hackernoon.com/@cabot_solutions
+Read More
+
+
 
 
 
@@ -386,12 +449,18 @@ Self Testing for Solo Devs
 Randomizers can be as simple as a loop of few hundred iterations, that give every combination of ASCII characters, numbers and…mongo objects (ok, I am exaggerating a bit) as input to a field representing…age and then counting the number of errors, non-graceful handling, and success.
 By @periklisgkolias
 https://hackernoon.com/@periklisgkolias
+Read More
+
+
 
 https://hackernoon.com/devops-team-roles-and-responsibilities-6571cfb56843
 DevOps Team Roles And Responsibilities
 By @FedakV
 https://hackernoon.com/@FedakV
 Team Lead — this is the position for the most experienced team member, who can analyze the required skill set for each project and delegate the DevOps responsibilities across the team.
+Read More
+
+
 
 
 https://hackernoon.com/the-qa-engineer-role-is-changing-to-keep-pace-with-automation-e87853cf9a90
@@ -399,6 +468,9 @@ The QA Engineer Role Is Changing To Keep Pace With Automation
 Today, engineers write open-source code and create automated processes for testing that code. So, many of the traditional tests performed by a QA engineer are now done by the developers.
 By @ajitkulkarni
 https://hackernoon.com/@ajitkulkarni
+Read More
+
+
 
 
 https://hackernoon.com/deploying-production-infrastructure-should-it-be-hard-ad5ze3288
@@ -406,6 +478,9 @@ Should Deploying Production Infrastructure be Hard?
 For simple applications not operating at massive scale, deploying application infrastructure should be cheap, easy, and immediate.
 By @charlieinthe6
 https://hackernoon.com/@charlieinthe6
+Read More
+
+
 
 
 https://hackernoon.com/api-end-to-end-testing-with-docker-f6t3691
@@ -413,52 +488,99 @@ End to End API Testing with Docker
 No need for any fancy framework. We'll build a generic mock in vanilla JS in ~20 lines of code. This will give us the opportunity to control what the API will return to our component. It allows to test error scenarios.
 By @jpfire
 https://hackernoon.com/@jpfire
+Read More
+
+
 
 https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1
 Why is DevOps for Machine Learning so Different?
 Retraining can be necessary. For example, if your model is making predictions for data that varies a lot by season, such as predictions for how many items of types of clothing will sell in a month. In that case training on data from summer may give good predictions in summer but will not give good predictions in winter.
 By @ryandawsonuk
 https://hackernoon.com/@ryandawsonuk
+Read More
+
+
 
 https://hackernoon.com/building-a-web-vulnerability-scanner-4cs3zh7
 Building a Web Vulnerability Scanner
 Remote scanning is generally limited to remote attacks and other forms of remote detection like our Security Audit Tool. Other remote scanners can attempt to detect the software then run a set of benign attacks from public exploit databases.
 By @LouisS
 https://hackernoon.com/@LouisS
+Read More
+
+
 
 https://hackernoon.com/d-ftp-high-throughput-direct-file-transfer-using-nkn-client-s91j33no
-
+By @nkn.org
+https://hackernoon.com/@nkn.org
+Achieve High Throughput Direct File Transfers using NKN client [Decentralized FTP]
+When a file is being sent, it is first cut into many small chunks (each chunk is 1024 bytes by default) and each chunk is labeled by a sequence number.
+Then sender sends chunks concurrently using different path and waits for ACK of each chunk from receiver.
+Read More
 
 
 
 https://hackernoon.com/two-friendly-tools-of-a-developer-le7h32le
+By @karan.02031993
+https://hackernoon.com/@karan.02031993
+Two Friendly Tools Of a "10X Engineer"
+A modern fancy word for a smart and efficient coder. (According to me, 10x Engineer is a hype) . Trust me !! You don't want to put that tag in your cv. Only god knows the exact definition of a 10x engineer.
+Read More
 
 
 
 
 https://hackernoon.com/everything-as-code-explained-0ibg32a3
-
+By @mpron
+https://hackernoon.com/@mpron
+What is Everything-as-Code? Examining the Explosion of "as Code" Buzzwords
+While this article takes a more literal approach to the emerging term, everything as code, the term more commonly references the growing interest around flexible state engines
+Read More
 
 
 
 https://hackernoon.com/guide-to-pursue-devops-agile-development-cycle-yj18321e
-
+By @ashley-lipman
+https://hackernoon.com/@ashley-lipman
+Guide To Pursue DevOps Agile Development Cycle And Develop a Better Software
+Taking on a large scale development project is complicated enough. When you add the adoption of new methodologies to this recipe, it can lead to lots of problems.
+Read More
 
 
 
 https://hackernoon.com/java-developers-learn-maven-jenkins-and-docker-using-these-free-courses-pnuc320j
-
+By @javinpaul
+https://hackernoon.com/@javinpaul
+10 FREE Docker, Jenkins, and Maven Courses for Programmers and DevOps Engineers
+One of the things which makes Jenkins so popular and useful is its
+flexibility. It can handle just about any kind of build or continuous
+integration process you can think of through the hundreds of plugins
+that are available.
+Read More
 
 
 
 https://hackernoon.com/kubernetes-and-helm-a-deadly-combo-to-help-you-deploy-with-ease-rjr30x2
-
+By @PavanBelagatti
+https://hackernoon.com/@PavanBelagatti
+Kubernetes and Helm: A Deadly Combo to Help You Deploy with Ease
+ In terms of architecture, Helm has two sides, there is a client-side, which is the Helm command-line tool (helm CLI), and there is also a service side, which is called Tiller.
+ Read More
 
 
 
 https://hackernoon.com/docker-and-best-practices-for-devops-c53ta30ki
-
+By @PavanBelagatti
+https://hackernoon.com/@PavanBelagatti
+Why We Love Docker and Best Practices for DevOps
+In virtualization, we have something known as a Hypervisor. Because we are running these virtual machines, which are basically isolated desktop environments inside of a file, the Hypervisor is what’s going to understand how to read that file.
+Read More
 
 
 
 https://hackernoon.com/the-rise-of-mlops-what-we-can-all-learn-from-devops-wemm3xl3
+By @jackie-dejesse
+https://hackernoon.com/@jackie-dejesse
+The Rise of MLOps: What We Can All Learn from DevOps
+The challenge is that companies need to have the entire infrastructure underlying those technologies in order to implement machine learning.
+Read More
