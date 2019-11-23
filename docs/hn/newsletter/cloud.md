@@ -256,34 +256,39 @@ https://docs.google.com/document/d/1XWfUs0tVUJBsDN6ck2kIot43Budf7b9R0P9HyYSmuDg/
 
 
 
-Read full article or {TWEET_THIS} by 
 
+---
+---
+---
 ---
 
 
 
+
 - https://hackernoon.com/should-you-pack-the-aws-sdk-in-your-deployment-artefact-u5k3taj
+Packing AWS SDK in Deployment Artefact - Does it Help to Your Infrastructure
+The built-in AWS SDK is often out-dated and missing security patches and bug fixes. It invalidates integration tests since the runtime uses a different version of the AWS SDK to what was tested. AWS can update the built-in AWS SDK without notice
 
-
-
-Read full article or {TWEET_THIS} by 
-
+Read full article or {TWEET_THIS} by @theburningmonk
+https://hackernoon.com/@theburningmonk
 
 ----
 
 
 - https://hackernoon.com/how-to-run-symfony-on-google-cloud-run-with-the-demo-app-step-by-step-v9n32o9
+How To Run Symfony On Google Cloud Run With The Demo App [Step-by-Step Guide]
 
+The Symfony Demo app has been dockerized, have a look at this Dockerfile and the Apache config too. The Dockerfile uses multistage build, on stage to install dependencies with composer and another one with Apache to run the application.
 
-
-Read full article or {TWEET_THIS} by 
-
+Read full article or {TWEET_THIS} by @geshanm
+https://hackernoon.com/@geshanm
 
 ----
 
 
 - https://hackernoon.com/using-lvm-to-serve-old-laptop-as-a-cloud-storage-engine-service-at-home-with-all-external-hard-drive-qrl33bxs
-
+Using LVM to Serve Old Laptop as a Cloud Storage Engine Service at home with all External Hard Drive
+It is a storage device management technology which gives us the power to pool and abstract the physical layout of the component individual devices for easier and flexible administration. We can use to accumulate multiple storage system into a single groups and get a combined space.
 
 Read full article or {TWEET_THIS} by 
 
@@ -293,56 +298,67 @@ Read full article or {TWEET_THIS} by
 
 
 - https://hackernoon.com/how-does-the-google-key-management-service-work-a813w3z6d
+How Does Google's Cryptographic Key Management Service Work?
+This service, the Google KMS was released in 2017, in January and it is
+set to enable users the generation, use, rotation and destruction of
+AES – 256 encryption keys, also known as Advanced Encryption
+Standard which is there to protect the cloud data.
 
 
-Read full article or {TWEET_THIS} by 
-
+Read full article or {TWEET_THIS} by @nancy-j.-chavira
+https://hackernoon.com/@nancy-j.-chavira
 
 ----
 
 
 - https://hackernoon.com/how-to-test-your-blockchain-on-google-cloud-using-hyperledger-caliper-tug322k
+Test Your Blockchain On Google Cloud Using Hyperledger Caliper [A How To Guide]
+Do not forget to stop your machines in Google Cloud after finishing the experiments or else 💸.
 
-
-Read full article or {TWEET_THIS} by 
-
+Read full article or {TWEET_THIS} by @rafaelbelchior
+https://hackernoon.com/@rafaelbelchior
 
 ----
 
 
 - https://hackernoon.com/iot-electric-scooter-cloud-data-collection-and-visualization-w-soracom-raspberry-pi-part-2-hd2mj27si
+IoT Electric Scooter Cloud Data Collection and Visualization with Soracom + Raspberry Pi [Part 2]
+In this step, we’ll transition away from collecting data about each individual eScooter to aggregating data in the cloud. We’ll be able to see a broader overview of all our electric scooters, rather than manually querying each one.
 
-
-Read full article or {TWEET_THIS} by 
-
+Read full article or {TWEET_THIS} by @aahuang
+https://hackernoon.com/@aahuang
 
 ----
 
 
 - https://hackernoon.com/first-time-deployment-of-war-file-to-ibm-cloud-722o43s1g
+How To Deploy War File On IBM Cloud - A Guide for New Users
+I was facing problem while deploying the war file on the IBM Cloud for the first time. I am not a DevOps person who knows about the servers as well.
 
-
-Read full article or {TWEET_THIS} by 
-
+Read full article or {TWEET_THIS} by @vinodkashyap
+https://hackernoon.com/@vinodkashyap
 
 ----
 
 
 - https://hackernoon.com/severe-truth-about-serverless-security-and-ways-to-mitigate-major-risks-cd3i3x6f
+Severe Truth About Serverless Security and Ways to Mitigate Major Risks
 
+Vendors protect databases, operating systems, virtual machines, the network, and other cloud components.  But they are not in charge of the application layer, which includes the code, business logic, data, and cloud services configurations. It’s up to the app’s owner to defend these parts against possible cyber attacks. 
 
-Read full article or {TWEET_THIS} by 
-
+Read full article or {TWEET_THIS} by @Sachenko
+https://hackernoon.com/@Sachenko
 
 ----
 
 
 
 - https://hackernoon.com/why-hybrid-deployment-could-be-the-best-solution-for-better-devsecops-ad33730gh
+Why Hybrid Deployment Could be the Best Solution for Better DevSecOps
+The biggest drawback is that you must trust a third-party with your data. Many companies have regulations that will not allow them to store their data offsite. This is where cloud-based services hit a dead end.
 
-
-Read full article or {TWEET_THIS} by 
-
+Read full article or {TWEET_THIS} by @chaitanya_
+https://hackernoon.com/@chaitanya_
 
 ----
 
