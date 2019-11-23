@@ -372,164 +372,156 @@ https://hackernoon.com/@twaintaylor
 ----
 
 
-- https://hackernoon.com/stop-manually-provisioning-aws-for-laravel-use-terraform-instead-11b8b360617c
-
-
-Read full article or {TWEET_THIS} by 
-
 
 ----
 
 
 - https://hackernoon.com/how-to-play-pubg-on-aws-db2e75fa599b
-
-
-Read full article or {TWEET_THIS} by 
-
+How to play PUBG on AWS
+To get started, make sure you are in the AWS region closest to you, select Microsoft Windows Server to be the AMI and set the instance type to be g2.2xlarge. The instance is backed by Nvidia Grid GPU (Kepler GK104), 8x hardware hyper-threads from an Intel Xeon E5–2670 and 15GB of RAM.
+Read full article or {TWEET_THIS} by @mlabouardy
+https://hackernoon.com/@mlabouardy
 
 ----
 
 
 - https://hackernoon.com/what-does-the-future-of-cloud-computing-mean-for-media-c4894d0bbaa
-
-
-Read full article or {TWEET_THIS} by 
-
+What Does the Future of Cloud Computing Mean for Media?
+The amount of content we now produce, stream, watch online or download to our devices is mind-blowing. Each day, 2.5 quintillion bytes of data are generated in the digital sphere.
+Read full article or {TWEET_THIS} by @sbludov
+https://hackernoon.com/@sbludov
 
 ----
 
 
 - https://hackernoon.com/subscribe-sqs-to-a-sns-topic-in-another-aws-account-with-cloudformation-and-gotchas-b80f229d32e4
-
-
-Read full article or {TWEET_THIS} by 
-
+Subscribe SQS to a SNS topic in another AWS account with CloudFormation, and gotchas!
+We are strong believers in Infrastructure as Code and having someone do the subscription steps manually is not going to work, especially given that we’ll be repeating this process in many places.
+Read full article or {TWEET_THIS} by @theburningmonk
+https://hackernoon.com/@theburningmonk
 
 ----
 
 
 - https://hackernoon.com/open-season-for-research-alibaba-releases-cluster-data-from-4000-servers-12d013bd6b4e
+Open Season for Research: Alibaba Releases Cluster Data from 4000 Servers
+In IT articles about internet applications, you will often find words such as “large scale” and “mass requests”. These applications all run in large-scale data centers, and readers generally have many questions about those environments. For example, what is the operating status of each machine in the data center? What kinds of applications are running?
 
-
-Read full article or {TWEET_THIS} by 
-
+Read full article or {TWEET_THIS} by @alitech_2017
+https://hackernoon.com/@alitech_2017
 
 ----
 
 
 - https://hackernoon.com/writing-sky-high-applications-a-guide-to-cloud-native-development-9f3c1c020471
-
-
-Read full article or {TWEET_THIS} by 
-
+Writing Sky-high Applications: A Guide to Cloud Native Development
+Traditional applications are often akin to snowballs that continue to accumulate functions, meanwhile becoming increasingly cumbersome and difficult to modify while falling out of step with the businesses they support as they evolve. By contrast, one of the primary goals of cloud native development is to enable rapid iteration, trial and error, and business innovation.
+Read full article or {TWEET_THIS} by @alitech_2017
+https://hackernoon.com/@alitech_2017
 
 ----
 
 
 - https://hackernoon.com/what-is-serverless-and-what-it-means-for-you-part-1-d541329172c8
-
-
-Read full article or {TWEET_THIS} by 
-
+What is Serverless and What it Means for You — Part 1
+While Serverless offers a lot of benefits, implementing it successfully, alongside containers, comes with quite a few challenges — particularly for IT Ops. While Serverless speeds up development, it needs a Kubernetes cluster in order to run, and Kubernetes is notoriously difficult to deploy and manage.
+Read full article or {TWEET_THIS} by @vamsi.chemitiganti
+https://hackernoon.com/@vamsi.chemitiganti
 
 ----
 
 
 - https://hackernoon.com/getting-started-quebic-faas-framework-c05ca0e13e08
-
-
-Read full article or {TWEET_THIS} by 
-
+Getting started — Quebic FaaS Framework
+The key difference between Quebic and existing FaaS frameworks is, With Quebic you can develop highly available back-ends to serve real-time and also supports to execute on-demand tasks. Most of the existing FaaS frameworks are most suitable only for executing on-demand tasks.
+Read full article or {TWEET_THIS} by @tharanganilupul
+https://hackernoon.com/@tharanganilupul
 
 ----
 
 
 - https://hackernoon.com/decentralizing-the-cloud-with-greg-osuri-e377fd5d9865
-
-
-Read full article or {TWEET_THIS} by 
-
+Decentralizing the Cloud with Greg Osuri
+In this episode we discuss DevOps, and what it takes to scale and run a decentralized infrastructure network.
+Read full article or {TWEET_THIS} by @trentlapinski
+https://hackernoon.com/@trentlapinski
 
 ----
 
-
-- https://hackernoon.com/running-end-to-end-tests-as-google-cloud-functions-f5e34ffc3984
-
-
-Read full article or {TWEET_THIS} by 
 
 
 ----
 
 
 - https://hackernoon.com/trials-and-tribulations-of-google-cloud-hosting-a-tutorial-26395eb25636
-
-
-Read full article or {TWEET_THIS} by 
-
+Trials and tribulations of Google Cloud hosting — a tutorial
+The service part is crucial as you must deploy a default service before anything else. Picture services as standalone applications or as microservices that are part of a larger application.
+Read full article or {TWEET_THIS} by @radu.bogdan.gaspar
+https://hackernoon.com/@radu.bogdan.gaspar
 
 ----
 
 
 - https://hackernoon.com/gentle-guide-to-setup-keras-deep-learning-framework-and-build-a-travel-recommendation-engine-part-88d2ed4274d9
-
-
-Read full article or {TWEET_THIS} by 
-
+Gentle guide to setup Keras deep learning framework and build a travel recommendation engine
+Today you can eliminate the initial learning curve of deep learning. It is now possible to run your code entirely in the cloud with all necessary dependencies pre-installed for you. More importantly, you can run your model faster on a graphics card for free.
+Read full article or {TWEET_THIS} by @chengweizhang2012
+https://hackernoon.com/@chengweizhang2012
 
 ----
 
 
 - https://hackernoon.com/an-invitation-to-hack-microsofts-azure-security-lab-n8bt3z9f
-
-
-Read full article or {TWEET_THIS} by 
-
+An Invitation to Hack Microsoft’s Azure Security Lab.
+What’s interesting about the isolation capabilities which were built within the Microsoft’s Azure Security Lab is the fact that researchers and experts will be able to exploit Azure vulnerabilities — to see the actual results of an attack designed to abuse them.
+Read full article or {TWEET_THIS} by @Elimam
+https://hackernoon.com/@Elimam
 
 ----
 
 
 - https://hackernoon.com/server-less-debunked-top-things-you-thought-you-knew-1it32fu
+Serverless Myths Debunked - Top Things You Thought You Knew
+Debunk #2: Serverless is Costly.  Wrong. Cost is one of the huge benefits as to why organizations move to serverless. It allows them to leverage an extremely efficient and agile infrastructure;  only paying the providers for the compute used.
+Read full article or {TWEET_THIS} by @jessica-bruce
 
-
-Read full article or {TWEET_THIS} by 
-
-
+https://hackernoon.com/@jessica-bruce
 ----
 
 
 - https://www.hackernoon.com/the-convergance-of-ai-and-iot-r83532or
+The Convergence of AI + IOT is Imminent & Your Competitor is Already Preparing for It
+We wouldn’t want millions of smart devices deployed around us to be hacked now, would we?
+Read full article or {TWEET_THIS} by @thavash
 
-
-Read full article or {TWEET_THIS} by 
-
-
+https://www.hackernoon.com/@thavash
 ----
 
 
 - https://hackernoon.com/6-top-unified-communication-companies-to-consider-in-2019-vkfj38wh
+6 Top Unified Communication Companies to Consider in 2019
+As the world continues to move towards the future workplace, we’ve seen a shift in the way that we communicate. In an environment defined by remote working, mobile employees, and diverse offices, a disjointed and complicated communication stack is no longer manageable. Companies need something agile, aligned, and ready to scale at a moment’s notice.
 
-
-Read full article or {TWEET_THIS} by 
-
+Read full article or {TWEET_THIS} by @nowsourcing
+https://hackernoon.com/@nowsourcing
 
 ----
 
 
 - https://hackernoon.com/5-reasons-why-businesses-should-invest-in-cyber-security-in-2019-az16f302k
-
-
-Read full article or {TWEET_THIS} by 
-
+5 Reasons Why Businesses Should Invest In Cyber Security In 2019
+You may think your business is protected and secure, but what you don’t know is that cyber attackers are getting more adept at breaching even the most advanced security systems and are coming up with new and sophisticated attacks to bring down your system infrastructure. 
+Read full article or {TWEET_THIS} by @default@123
+https://hackernoon.com/@default@123
 
 ----
 
 
 - https://hackernoon.com/will-a-smart-city-with-et-city-brain-ever-rule-the-world-i32g31np
-
-
-Read full article or {TWEET_THIS} by 
-
+Could a Smart City with an ET City Brain Ever Rule the Entire World?
+ET city brain was first launched in October 2016 in Hangzhou city china and for the first time, it made a city to think. Various technologies were used to create this system such as cloud computing, big data, and artificial intelligence. Think of these technologies as the three fundamental peers and ET brain itself as a shipping vehicle of the technology.
+Read full article or {TWEET_THIS} by @Manali-Tiwari
+https://hackernoon.com/@Manali-Tiwari
 
 ----
 
