@@ -254,41 +254,113 @@ https://twitter.com/intent/tweet?text=The%2016%20Best%20AWS%20Blogs%20and%20Webs
 
 https://docs.google.com/document/d/1XWfUs0tVUJBsDN6ck2kIot43Budf7b9R0P9HyYSmuDg/edit
 
+---
 
 
-https://hackernoon.com/should-you-pack-the-aws-sdk-in-your-deployment-artefact-u5k3taj
-https://hackernoon.com/how-to-run-symfony-on-google-cloud-run-with-the-demo-app-step-by-step-v9n32o9
-https://hackernoon.com/using-lvm-to-serve-old-laptop-as-a-cloud-storage-engine-service-at-home-with-all-external-hard-drive-qrl33bxs
-https://hackernoon.com/how-does-the-google-key-management-service-work-a813w3z6d
-https://hackernoon.com/how-to-test-your-blockchain-on-google-cloud-using-hyperledger-caliper-tug322k
-https://hackernoon.com/iot-electric-scooter-cloud-data-collection-and-visualization-w-soracom-raspberry-pi-part-2-hd2mj27si
-https://hackernoon.com/first-time-deployment-of-war-file-to-ibm-cloud-722o43s1g?source=rss
-https://hackernoon.com/severe-truth-about-serverless-security-and-ways-to-mitigate-major-risks-cd3i3x6f
-https://hackernoon.com/why-hybrid-deployment-could-be-the-best-solution-for-better-devsecops-ad33730gh
-https://hackernoon.com/beyond-container-orchestration-kublrs-approach-to-kubernetes-infrastructure-abstraction-0palf440o
-https://hackernoon.com/stop-manually-provisioning-aws-for-laravel-use-terraform-instead-11b8b360617c
-https://hackernoon.com/how-to-play-pubg-on-aws-db2e75fa599b
-https://hackernoon.com/what-does-the-future-of-cloud-computing-mean-for-media-c4894d0bbaa
-https://hackernoon.com/subscribe-sqs-to-a-sns-topic-in-another-aws-account-with-cloudformation-and-gotchas-b80f229d32e4
-https://hackernoon.com/open-season-for-research-alibaba-releases-cluster-data-from-4000-servers-12d013bd6b4e
-https://hackernoon.com/writing-sky-high-applications-a-guide-to-cloud-native-development-9f3c1c020471
-https://hackernoon.com/what-is-serverless-and-what-it-means-for-you-part-1-d541329172c8
-https://hackernoon.com/getting-started-quebic-faas-framework-c05ca0e13e08
-https://hackernoon.com/decentralizing-the-cloud-with-greg-osuri-e377fd5d9865
-https://hackernoon.com/running-end-to-end-tests-as-google-cloud-functions-f5e34ffc3984
-https://hackernoon.com/trials-and-tribulations-of-google-cloud-hosting-a-tutorial-26395eb25636
-https://hackernoon.com/gentle-guide-to-setup-keras-deep-learning-framework-and-build-a-travel-recommendation-engine-part-88d2ed4274d9
-https://hackernoon.com/an-invitation-to-hack-microsofts-azure-security-lab-n8bt3z9f
-https://hackernoon.com/server-less-debunked-top-things-you-thought-you-knew-1it32fu
-https://www.hackernoon.com/the-convergance-of-ai-and-iot-r83532or
-https://hackernoon.com/6-top-unified-communication-companies-to-consider-in-2019-vkfj38wh
-https://hackernoon.com/5-reasons-why-businesses-should-invest-in-cyber-security-in-2019-az16f302k
-https://hackernoon.com/will-a-smart-city-with-et-city-brain-ever-rule-the-world-i32g31np
-https://hackernoon.com/stadia-and-the-coming-new-gaming-world-order-ge1uo306q
-https://hackernoon.com/today-i-learned-pull-docker-image-from-gcr-google-container-registry-in-any-non-gcp-kubernetes-5f8298f28969
-https://hackernoon.com/the-tactile-internet-a-new-iot-by1134od
-https://hackernoon.com/sync-terraform-config-and-tfstate-for-existing-aws-resources-mk1dz3tr0
-https://hackernoon.com/the-long-and-winding-road-to-k8s-z53g3zr7
-https://hackernoon.com/comparison-of-ipfs-and-edgefs-for-secure-edgeiot-computing-use-cases-0dgu30zk
-https://hackernoon.com/how-to-mount-gcp-vm-on-your-local-machine-through-ssh-084fk31vo
-https://hackernoon.com/what-future-holds-for-devops-in-2020-a-complete-guide-pqk30i6
+
+- https://hackernoon.com/should-you-pack-the-aws-sdk-in-your-deployment-artefact-u5k3taj
+
+
+- https://hackernoon.com/how-to-run-symfony-on-google-cloud-run-with-the-demo-app-step-by-step-v9n32o9
+
+
+- https://hackernoon.com/using-lvm-to-serve-old-laptop-as-a-cloud-storage-engine-service-at-home-with-all-external-hard-drive-qrl33bxs
+
+
+- https://hackernoon.com/how-does-the-google-key-management-service-work-a813w3z6d
+
+
+- https://hackernoon.com/how-to-test-your-blockchain-on-google-cloud-using-hyperledger-caliper-tug322k
+
+
+- https://hackernoon.com/iot-electric-scooter-cloud-data-collection-and-visualization-w-soracom-raspberry-pi-part-2-hd2mj27si
+
+
+- https://hackernoon.com/first-time-deployment-of-war-file-to-ibm-cloud-722o43s1g
+
+
+- https://hackernoon.com/severe-truth-about-serverless-security-and-ways-to-mitigate-major-risks-cd3i3x6f
+
+
+- https://hackernoon.com/why-hybrid-deployment-could-be-the-best-solution-for-better-devsecops-ad33730gh
+
+
+- https://hackernoon.com/beyond-container-orchestration-kublrs-approach-to-kubernetes-infrastructure-abstraction-0palf440o
+
+
+- https://hackernoon.com/stop-manually-provisioning-aws-for-laravel-use-terraform-instead-11b8b360617c
+
+
+- https://hackernoon.com/how-to-play-pubg-on-aws-db2e75fa599b
+
+
+- https://hackernoon.com/what-does-the-future-of-cloud-computing-mean-for-media-c4894d0bbaa
+
+
+- https://hackernoon.com/subscribe-sqs-to-a-sns-topic-in-another-aws-account-with-cloudformation-and-gotchas-b80f229d32e4
+
+
+- https://hackernoon.com/open-season-for-research-alibaba-releases-cluster-data-from-4000-servers-12d013bd6b4e
+
+
+- https://hackernoon.com/writing-sky-high-applications-a-guide-to-cloud-native-development-9f3c1c020471
+
+
+- https://hackernoon.com/what-is-serverless-and-what-it-means-for-you-part-1-d541329172c8
+
+
+- https://hackernoon.com/getting-started-quebic-faas-framework-c05ca0e13e08
+
+
+- https://hackernoon.com/decentralizing-the-cloud-with-greg-osuri-e377fd5d9865
+
+
+- https://hackernoon.com/running-end-to-end-tests-as-google-cloud-functions-f5e34ffc3984
+
+
+- https://hackernoon.com/trials-and-tribulations-of-google-cloud-hosting-a-tutorial-26395eb25636
+
+
+- https://hackernoon.com/gentle-guide-to-setup-keras-deep-learning-framework-and-build-a-travel-recommendation-engine-part-88d2ed4274d9
+
+
+- https://hackernoon.com/an-invitation-to-hack-microsofts-azure-security-lab-n8bt3z9f
+
+
+- https://hackernoon.com/server-less-debunked-top-things-you-thought-you-knew-1it32fu
+
+
+- https://www.hackernoon.com/the-convergance-of-ai-and-iot-r83532or
+
+
+- https://hackernoon.com/6-top-unified-communication-companies-to-consider-in-2019-vkfj38wh
+
+
+- https://hackernoon.com/5-reasons-why-businesses-should-invest-in-cyber-security-in-2019-az16f302k
+
+
+- https://hackernoon.com/will-a-smart-city-with-et-city-brain-ever-rule-the-world-i32g31np
+
+
+- https://hackernoon.com/stadia-and-the-coming-new-gaming-world-order-ge1uo306q
+
+
+- https://hackernoon.com/today-i-learned-pull-docker-image-from-gcr-google-container-registry-in-any-non-gcp-kubernetes-5f8298f28969
+
+
+- https://hackernoon.com/the-tactile-internet-a-new-iot-by1134od
+
+
+- https://hackernoon.com/sync-terraform-config-and-tfstate-for-existing-aws-resources-mk1dz3tr0
+
+
+- https://hackernoon.com/the-long-and-winding-road-to-k8s-z53g3zr7
+
+
+- https://hackernoon.com/comparison-of-ipfs-and-edgefs-for-secure-edgeiot-computing-use-cases-0dgu30zk
+
+
+- https://hackernoon.com/how-to-mount-gcp-vm-on-your-local-machine-through-ssh-084fk31vo
+
+- https://hackernoon.com/what-future-holds-for-devops-in-2020-a-complete-guide-pqk30i6
+
