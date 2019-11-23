@@ -364,10 +364,10 @@ https://hackernoon.com/@chaitanya_
 
 
 - https://hackernoon.com/beyond-container-orchestration-kublrs-approach-to-kubernetes-infrastructure-abstraction-0palf440o
-
-
-Read full article or {TWEET_THIS} by 
-
+Beyond Container Orchestration - Kublr's Approach to Kubernetes Infrastructure Abstraction
+“the main reason behind Kubernetes' unprecedented success, is infrastructure abstraction and the convenience with which Kubernetes provides it with.”
+Read full article or {TWEET_THIS} by @twaintaylor
+https://hackernoon.com/@twaintaylor
 
 ----
 
