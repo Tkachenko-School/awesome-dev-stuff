@@ -263,7 +263,7 @@ https://docs.google.com/document/d/1XWfUs0tVUJBsDN6ck2kIot43Budf7b9R0P9HyYSmuDg/
 ---
 
 
-
+### Part2
 
 - https://hackernoon.com/should-you-pack-the-aws-sdk-in-your-deployment-artefact-u5k3taj
 Packing AWS SDK in Deployment Artefact - Does it Help to Your Infrastructure
@@ -275,15 +275,6 @@ https://hackernoon.com/@theburningmonk
 ----
 
 
-- https://hackernoon.com/how-to-run-symfony-on-google-cloud-run-with-the-demo-app-step-by-step-v9n32o9
-How To Run Symfony On Google Cloud Run With The Demo App [Step-by-Step Guide]
-
-The Symfony Demo app has been dockerized, have a look at this Dockerfile and the Apache config too. The Dockerfile uses multistage build, on stage to install dependencies with composer and another one with Apache to run the application.
-
-Read full article or {TWEET_THIS} by @geshanm
-https://hackernoon.com/@geshanm
-
-----
 
 
 - https://hackernoon.com/using-lvm-to-serve-old-laptop-as-a-cloud-storage-engine-service-at-home-with-all-external-hard-drive-qrl33bxs
@@ -321,12 +312,6 @@ https://hackernoon.com/@rafaelbelchior
 ----
 
 
-- https://hackernoon.com/iot-electric-scooter-cloud-data-collection-and-visualization-w-soracom-raspberry-pi-part-2-hd2mj27si
-IoT Electric Scooter Cloud Data Collection and Visualization with Soracom + Raspberry Pi [Part 2]
-In this step, we’ll transition away from collecting data about each individual eScooter to aggregating data in the cloud. We’ll be able to see a broader overview of all our electric scooters, rather than manually querying each one.
-
-Read full article or {TWEET_THIS} by @aahuang
-https://hackernoon.com/@aahuang
 
 ----
 
