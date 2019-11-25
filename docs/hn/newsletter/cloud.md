@@ -281,8 +281,10 @@ https://hackernoon.com/@theburningmonk
 Using LVM to Serve Old Laptop as a Cloud Storage Engine Service at home with all External Hard Drive
 It is a storage device management technology which gives us the power to pool and abstract the physical layout of the component individual devices for easier and flexible administration. We can use to accumulate multiple storage system into a single groups and get a combined space.
 
-Read full article or {TWEET_THIS} by 
+Read full article or {TWEET_THIS} by @cprakashagr
+https://hackernoon.com/@cprakashagr
 
+https://twitter.com/intent/tweet?text=Using%20LVM%20to%20Serve%20Old%20Laptop%20as%20a%20Cloud%20Storage%20Engine%20Service%20at%20home%20with%20all%20External%20Hard%C2%A0Drive&url=https%3A%2F%2Fhackernoon.com%2Fusing-lvm-to-serve-old-laptop-as-a-cloud-storage-engine-service-at-home-with-all-external-hard-drive-qrl33bxs&via=cprakashagr&hashtags=linux,docker,storage
 
 ----
 
@@ -299,6 +301,8 @@ Standard which is there to protect the cloud data.
 Read full article or {TWEET_THIS} by @nancy-j.-chavira
 https://hackernoon.com/@nancy-j.-chavira
 
+https://twitter.com/intent/tweet?text=How%20Does%20Google%27s%20Cryptographic%20Key%20Management%20Service%20Work%3F&url=https%3A%2F%2Fhackernoon.com%2Fhow-does-the-google-key-management-service-work-a813w3z6d&hashtags=googlecloudkms,google,latesttechstories
+
 ----
 
 
@@ -308,6 +312,8 @@ Do not forget to stop your machines in Google Cloud after finishing the experime
 
 Read full article or {TWEET_THIS} by @rafaelbelchior
 https://hackernoon.com/@rafaelbelchior
+
+https://twitter.com/intent/tweet?text=Test%20Your%20Blockchain%20On%20Google%20Cloud%20Using%20Hyperledger%20Caliper%20%5BA%20How%20To%20Guide%5D&url=https%3A%2F%2Fhackernoon.com%2Fhow-to-test-your-blockchain-on-google-cloud-using-hyperledger-caliper-tug322k&hashtags=googlecloud,hyperledgerfabric,blockchain
 
 ----
 
@@ -323,6 +329,8 @@ I was facing problem while deploying the war file on the IBM Cloud for the first
 Read full article or {TWEET_THIS} by @vinodkashyap
 https://hackernoon.com/@vinodkashyap
 
+https://twitter.com/intent/tweet?text=How%20To%20Deploy%20War%20File%20On%20IBM%20Cloud%20-%20A%20Guide%20for%20New%20Users&url=https%3A%2F%2Fhackernoon.com%2Ffirst-time-deployment-of-war-file-to-ibm-cloud-722o43s1g&via=vinodkashyap&hashtags=deploywarfile,deploymentofjavawarfile,ibmcloud
+
 ----
 
 
@@ -333,6 +341,8 @@ Vendors protect databases, operating systems, virtual machines, the network, and
 
 Read full article or {TWEET_THIS} by @Sachenko
 https://hackernoon.com/@Sachenko
+
+https://twitter.com/intent/tweet?text=Severe%20Truth%20About%20Serverless%20Security%20and%20Ways%20to%20Mitigate%20Major%20Risks&url=https%3A%2F%2Fhackernoon.com%2Fsevere-truth-about-serverless-security-and-ways-to-mitigate-major-risks-cd3i3x6f&via=rsachenko&hashtags=serverless,cybersecurity,latesttechstories
 
 ----
 
@@ -345,6 +355,8 @@ The biggest drawback is that you must trust a third-party with your data. Many c
 Read full article or {TWEET_THIS} by @chaitanya_
 https://hackernoon.com/@chaitanya_
 
+https://twitter.com/intent/tweet?text=Why%20Hybrid%20Deployment%20Could%20be%20the%20Best%20Solution%20for%20Better%20DevSecOps&url=https%3A%2F%2Fhackernoon.com%2Fwhy-hybrid-deployment-could-be-the-best-solution-for-better-devsecops-ad33730gh&via=chits17&hashtags=devops,devsecops,cloud
+
 ----
 
 
@@ -353,6 +365,8 @@ Beyond Container Orchestration - Kublr's Approach to Kubernetes Infrastructure A
 “the main reason behind Kubernetes' unprecedented success, is infrastructure abstraction and the convenience with which Kubernetes provides it with.”
 Read full article or {TWEET_THIS} by @twaintaylor
 https://hackernoon.com/@twaintaylor
+
+https://twitter.com/intent/tweet?text=Beyond%20Container%20Orchestration%20-%20Kublr%27s%20Approach%20to%20Kubernetes%20Infrastructure%20Abstraction&url=https%3A%2F%2Fhackernoon.com%2Fbeyond-container-orchestration-kublrs-approach-to-kubernetes-infrastructure-abstraction-0palf440o&hashtags=containerorchestration,kubernetesinfrastructure,infrastructureabstraction
 
 ----
 
@@ -367,6 +381,8 @@ To get started, make sure you are in the AWS region closest to you, select Micro
 Read full article or {TWEET_THIS} by @mlabouardy
 https://hackernoon.com/@mlabouardy
 
+https://twitter.com/intent/tweet?text=How%20to%20play%20PUBG%20on%20AWS&url=https%3A%2F%2Fhackernoon.com%2Fhow-to-play-pubg-on-aws-db2e75fa599b&via=mlabouardy&hashtags=aws,gamedevelopment,cloud
+
 ----
 
 
@@ -376,6 +392,8 @@ The amount of content we now produce, stream, watch online or download to our de
 Read full article or {TWEET_THIS} by @sbludov
 https://hackernoon.com/@sbludov
 
+https://twitter.com/intent/tweet?text=What%20Does%20the%20Future%20of%20Cloud%20Computing%20Mean%20for%20Media%3F&url=https%3A%2F%2Fhackernoon.com%2Fwhat-does-the-future-of-cloud-computing-mean-for-media-c4894d0bbaa&via=sbludov&hashtags=cloudcomputing,cloudservices,cloudstorage
+
 ----
 
 
@@ -384,6 +402,9 @@ Subscribe SQS to a SNS topic in another AWS account with CloudFormation, and got
 We are strong believers in Infrastructure as Code and having someone do the subscription steps manually is not going to work, especially given that we’ll be repeating this process in many places.
 Read full article or {TWEET_THIS} by @theburningmonk
 https://hackernoon.com/@theburningmonk
+
+https://twitter.com/intent/tweet?text=Subscribe%20SQS%20to%20a%20SNS%20topic%20in%20another%20AWS%20account%20with%20CloudFormation%2C%20and%20gotchas!&url=https%3A%2F%2Fhackernoon.com%2Fsubscribe-sqs-to-a-sns-topic-in-another-aws-account-with-cloudformation-and-gotchas-b80f229d32e4&via=theburningmonk&hashtags=aws,cloud,cloudcomputing
+
 
 ----
 
@@ -395,14 +416,19 @@ In IT articles about internet applications, you will often find words such as �
 Read full article or {TWEET_THIS} by @alitech_2017
 https://hackernoon.com/@alitech_2017
 
+https://twitter.com/intent/tweet?text=Open%20Season%20for%20Research%3A%20Alibaba%20Releases%20Cluster%20Data%20from%204000%20Servers&url=https%3A%2F%2Fhackernoon.com%2Fopen-season-for-research-alibaba-releases-cluster-data-from-4000-servers-12d013bd6b4e&hashtags=cloudcomputing,bigdata,datacenter
+
 ----
 
 
 - https://hackernoon.com/writing-sky-high-applications-a-guide-to-cloud-native-development-9f3c1c020471
 Writing Sky-high Applications: A Guide to Cloud Native Development
 Traditional applications are often akin to snowballs that continue to accumulate functions, meanwhile becoming increasingly cumbersome and difficult to modify while falling out of step with the businesses they support as they evolve. By contrast, one of the primary goals of cloud native development is to enable rapid iteration, trial and error, and business innovation.
+
 Read full article or {TWEET_THIS} by @alitech_2017
+
 https://hackernoon.com/@alitech_2017
+https://twitter.com/intent/tweet?text=Writing%20Sky-high%20Applications%3A%20A%20Guide%20to%20Cloud%20Native%20Development&url=https%3A%2F%2Fhackernoon.com%2Fwriting-sky-high-applications-a-guide-to-cloud-native-development-9f3c1c020471&hashtags=microservices,cloudcomputing,cloudnative
 
 ----
 
@@ -422,6 +448,8 @@ The key difference between Quebic and existing FaaS frameworks is, With Quebic y
 Read full article or {TWEET_THIS} by @tharanganilupul
 https://hackernoon.com/@tharanganilupul
 
+https://twitter.com/intent/tweet?text=Getting%20started%20%E2%80%94%20Quebic%20FaaS%20Framework&url=https%3A%2F%2Fhackernoon.com%2Fgetting-started-quebic-faas-framework-c05ca0e13e08&hashtags=kubernetes,serverless,cloudnative
+
 ----
 
 
@@ -430,6 +458,8 @@ Decentralizing the Cloud with Greg Osuri
 In this episode we discuss DevOps, and what it takes to scale and run a decentralized infrastructure network.
 Read full article or {TWEET_THIS} by @trentlapinski
 https://hackernoon.com/@trentlapinski
+
+https://twitter.com/intent/tweet?text=Decentralizing%20the%20Cloud%20with%20Greg%20Osuri&url=https%3A%2F%2Fhackernoon.com%2Fdecentralizing-the-cloud-with-greg-osuri-e377fd5d9865&via=trentlapinski&hashtags=hackernoonpodcast,blockchain,decentralization
 
 ----
 
