@@ -11,6 +11,19 @@ https://www.google.com/search?q=hackernoon+startup+idea&rlz=1C1GCEA_enUA876UA876
 
 
 
+
+https://hackernoon.com/became-an-idea-generator-with-scamper-method-pncc3ysi
+Become an Idea Generator via the S.C.A.M.P.E.R. Method
+
+This method was initially theorized by Alex Faickney Osborn in 1953 (the OG inventor of the term "brainstorming", yup). Subsequently the SCAMPER was taken up and reworked in numerous texts and studies concerning the generation of ideas and the creative approach to business problems (for example I discovered it by reading the excellent text by Michael Michalko, Thinkertoys).
+
+https://hackernoon.com/@carlo
+@carlo
+
+Read More
+
+----
+
 https://hackernoon.com/the-growth-of-vertical-saas-challenges-market-leaders-aids-startups-r4q32hz
 Growth of Vertical SaaS Challenges Market Leaders, Benefits Startups
 
@@ -19,6 +32,9 @@ For the last few years, it's hard to argue that big horizontal SaaS providers ha
 @techlooter
 
 https://hackernoon.com/@techlooter
+
+Read More
+
 -------------
 
 https://hackernoon.com/how-firstbaseio-helps-technology-companies-scale-1o9832eu
@@ -31,6 +47,9 @@ Many parts of the world still have little to no VC transactions. It's also hard 
 
 https://hackernoon.com/@DmitryKardis
 
+Read More
+
+-
 ----
 https://hackernoon.com/5-reasons-why-your-business-needs-vr-today-z31642ul
 5 Reasons Why Your Business Needs VR Today
@@ -43,6 +62,9 @@ https://hackernoon.com/@anna_s
 
 
 
+Read More
+
+-
 
 
 -------------
@@ -58,6 +80,9 @@ We get out and observe and talk to people in those domains. We try to understand
 We identify a problem which is: A) Easy to describe; B) Causing significant challenges for people or businesses; D) So serious, people or businesses are willing to pay to have it solved
 Once we clearly understand the problem, then we brainstorm many possible solutions to that problem. We then focus on solutions which can be quickly implemented and deployed to clients
 
+Read More
+
+-
 ----
 
 
@@ -73,6 +98,9 @@ We called our solution “CabPool.” A very clever twist on the phrase “carpo
 
 https://hackernoon.com/@patrickleet
 
+Read More
+
+-
 ------
 
 https://hackernoon.com/online-business-ideas-to-earn-extra-money-in-2019-67dd9f40174d
@@ -84,6 +112,9 @@ Mirrorless camera saw their sales increase of 16,5% in the United States, result
 @AshishSharma31
 https://hackernoon.com/@AshishSharma31
 
+Read More
+
+-
 ---
 
 
@@ -101,6 +132,9 @@ Large companies fail to innovate because they’re great at what they do. But th
 https://hackernoon.com/@quoraanswers
 @quoraanswers
 
+Read More
+
+-
 ---
 https://hackernoon.com/10-000-new-business-ideas-using-heuristics-jd5e326s
 10,000+ Personalized Business Ideas Using Heuristics
@@ -112,6 +146,9 @@ https://hackernoon.com/@smepals
 @smepals
 
 
+Read More
+
+-
 ------
 
 
@@ -121,6 +158,9 @@ The MVP is dead. Long live the RAT.
 https://hackernoon.com/@rikhigham
 @rikhigham
 
+Read More
+
+-
 ----------
 
 https://hackernoon.com/what-does-it-mean-to-be-an-open-startup-f4446984189
@@ -133,6 +173,9 @@ Sharing statistics via an open page or on Twitter does help with promotion and c
 https://hackernoon.com/@dinkydani
 @dinkydani
 
+Read More
+
+-
 ----------
 
 https://hackernoon.com/startup-idea-make-people-more-ambitious-572d87a544b2
@@ -140,18 +183,12 @@ https://hackernoon.com/startup-idea-make-people-more-ambitious-572d87a544b2
 Startup Idea: Make People More Ambitious
 
 Look at how Lambda School,(A school where you pay nothing until you’re earning $50k or more. And if you don’t, it’s free) founded by Austen Allred, does it, it enables its students to think big, helps them increase their salary by a huge margin.
+
+
+Read More
+
+-
 ----
-
-
-The definitive guide to not going insane about your side-projects
-https://hackernoon.com/the-definitive-guide-to-not-going-insane-about-your-side-projects-7b6d13bcbf07
-
-
-----
-
-https://hackernoon.com/from-idea-to-mvp-part-1-6a0376712ba2
-From Idea to MVP — Part 1
-
 
 ----
 
@@ -163,6 +200,9 @@ Framework to build an MVP (Minimum Viable Product)
 https://hackernoon.com/@amarsaurabh
 @amarsaurabh
 
+Read More
+
+-
 
 ---------
 https://hackernoon.com/6-crucial-startup-lessons-i-would-share-with-my-younger-self-p24d32gw
@@ -173,6 +213,9 @@ It’s far easier to create a landing page that describes the product and offers
 @smepals
 https://hackernoon.com/@smepals
 
+Read More
+
+-
 --------------
 https://hackernoon.com/guide-to-the-main-stages-of-tech-startup-development-m42bs3ziq
 Start with a Prototype, Follow with an MVP and Then Get to the Final Product
@@ -182,6 +225,9 @@ https://hackernoon.com/@iryna-meshchankina
 Once you’ve conceptualized the idea, it’s time to build a product roadmap. Basically, it is a strategic plan of your product development which contains all the key stages, plans, and business objectives. Why do you want to launch your product? Who is your target audience? Where do you start? Include these and other details regarding timing, product vision, and metrics into the roadmap.
 
 
+Read More
+
+-
 ------
 
 https://hackernoon.com/how-i-built-and-shipped-my-revenue-ready-mvp-in-4-hours-yd1j3z70
@@ -195,6 +241,9 @@ Once my list of user stories was complete, I was ready to dive into the build. T
 This whole process took a good few hours, as there was a lot of tinkering about on my end trying to get everything working properly. I also got stuck on a few things where I had a good idea of what needed to happen, but not how to do it on Boundless.
 
 
+Read More
+
+-
 
 --------
 https://hackernoon.com/evaluating-your-app-idea-and-supercharging-your-chances-of-success-part-2-1pd32ln
@@ -206,6 +255,9 @@ Consider the entrepreneurial journey of Taylor Offer who sold millions of dollar
 https://hackernoon.com/@pburke24
 
 
+Read More
+
+-
 ------
 
 How I Designed, Built and Launched a product over the Weekend - A Breakdown of Events
@@ -217,6 +269,9 @@ Honestly, you could create the information architecture with crayon on a wall, I
 https://hackernoon.com/@madebycrevans
 @madebycrevans
 
+Read More
+
+-
 -----
 https://hackernoon.com/how-to-launch-without-a-product-7n2lj24vw
 How to Launch Without a Product
@@ -228,6 +283,9 @@ https://hackernoon.com/@qasim
 
 
 
+Read More
+
+-
 ---------
 
 About the MVP or the case for de-risking a venture
@@ -240,6 +298,9 @@ https://hackernoon.com/@hackernoon
 
 
 
+Read More
+
+-
 -------
 
 
@@ -258,3 +319,18 @@ MVP vs MDP = Viability vs Delight. What You Really Need?
 
 Making a Side Project
 https://hackernoon.com/making-a-side-project-808fc040d27a
+
+
+
+
+
+The definitive guide to not going insane about your side-projects
+https://hackernoon.com/the-definitive-guide-to-not-going-insane-about-your-side-projects-7b6d13bcbf07
+
+
+----
+
+https://hackernoon.com/from-idea-to-mvp-part-1-6a0376712ba2
+From Idea to MVP — Part 1
+
+
