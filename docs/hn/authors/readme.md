@@ -319,6 +319,29 @@ https://hackernoon.com/@a13n
 
 https://hackernoon.com/@robbieallen
 
+---
+https://hackernoon.com/@carlo
+https://hackernoon.com/@techlooter
+https://hackernoon.com/@DmitryKardis
+https://hackernoon.com/@anna_s
+https://hackernoon.com/@iamnoahwheeler
+https://hackernoon.com/@patrickleet
+https://hackernoon.com/@AshishSharma31
+https://hackernoon.com/@smepals 
+https://hackernoon.com/@rikhigham
+https://hackernoon.com/@dinkydani
+https://hackernoon.com/@amarsaurabh 
+https://hackernoon.com/@iryna-meshchankina
+https://hackernoon.com/@bethan
+https://hackernoon.com/@pburke24
+https://hackernoon.com/@madebycrevans
+https://hackernoon.com/@qasim
+https://hackernoon.com/@julian-molina
+https://hackernoon.com/@FrederikBussler
+https://hackernoon.com/@adam-todd
+https://hackernoon.com/@AleksandarSvetski
+https://hackernoon.com/@binaryoverdose
+https://hackernoon.com/@daniel-jeffries
 
 
 
