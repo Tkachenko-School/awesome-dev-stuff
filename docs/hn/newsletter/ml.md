@@ -21,6 +21,22 @@ https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037
 Learning AI if You Suck at Math
 
 
+https://hackernoon.com/four-novel-machine-learning-methods-can-help-with-the-analysis-of-blockchain-datasets-9m5t36v2
+Four Novel Machine Learning Methods for Analyzing Blockchain Datasets
+
+https://hackernoon.com/why-ai-blockchain-make-sense-5k4u3s6l
+Why AI + Blockchain Make Sense?
+
+https://hackernoon.com/5-best-sentiment-analysis-companies-and-tools-for-machine-learning-7v1ru321n
+Machine Learning, 5G and Data Science Will be Critical to the Future of the Internet of Things
+
+https://hackernoon.com/how-machine-learning-5g-and-data-science-will-be-critical-to-the-future-of-the-internet-of-things-q08830b7
+
+https://hackernoon.com/the-99percent-acurate-machine-learning-algorithms-you-shouldnt-buy-2f1473ta2
+
+https://hackernoon.com/using-machine-learning-to-recommend-investments-in-p2p-lending-cw2ll3yvh
+
+https://hackernoon.com/a-full-time-ml-role-1-million-blog-views-10k-podcast-downloads-a-community-taught-ml-engineer-gd1x308q
 
 
 
