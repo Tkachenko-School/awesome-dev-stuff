@@ -7,19 +7,6 @@ https://hackernoon.com/@stacy
 
 
 
-https://hackernoon.com/machine-learning-10-facts-everyone-needs-to-understand-w148222ni
-10 Machine Learning Facts Everyone Needs to Understand
-
-
-
-
-https://hackernoon.com/ai-basics-and-news-must-read-machine-learning-articles-ve1w32m4
-AI Basics & AI Latest News: Must-Read Machine Learning Articles
-
-
-
-https://hackernoon.com/9-reasons-why-you-should-keep-learning-machine-learning-7n7h307n
-9 Reasons Why You Should Keep Learning Machine Learning
 
 
 
@@ -104,19 +91,7 @@ https://hackernoon.com/@scarlett-rose
 
 
 
-https://hackernoon.com/a-full-time-ml-role-1-million-blog-views-10k-podcast-downloads-a-community-taught-ml-engineer-gd1x308q
-A Full Time ML Role, 1 Million Blog Views, 10k Podcast Downloads: A Community Taught ML Engineer
-by @init_27
-https://hackernoon.com/@init_27
 
-
-
-
-
-https://hackernoon.com/how-machine-learning-5g-and-data-science-will-be-critical-to-the-future-of-the-internet-of-things-q08830b7
-Machine Learning, 5G and Data Science Will be Critical to the Future of the Internet of Things
-by @lautarolobo
-https://hackernoon.com/@lautarolobo
 
 
 https://hackernoon.com/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analyis-wt6p32qz
@@ -133,6 +108,11 @@ https://hackernoon.com/@comet.ml
 
 
 
+https://hackernoon.com/how-machine-learning-5g-and-data-science-will-be-critical-to-the-future-of-the-internet-of-things-q08830b7
+Machine Learning, 5G and Data Science Will be Critical to the Future of the Internet of Things
+by @lautarolobo
+https://hackernoon.com/@lautarolobo
+
 
 
 
@@ -145,10 +125,20 @@ by @daniel-jeffries
 https://hackernoon.com/@daniel-jeffries
 
 
+
+https://hackernoon.com/a-full-time-ml-role-1-million-blog-views-10k-podcast-downloads-a-community-taught-ml-engineer-gd1x308q
+A Full Time ML Role, 1 Million Blog Views, 10k Podcast Downloads: A Community Taught ML Engineer
+by @init_27
+https://hackernoon.com/@init_27
+
+
+
 https://hackernoon.com/approach-pre-trained-deep-learning-models-with-caution-tl5d320v
 Approach Pre-Trained Deep Learning Models With Caution
-by @nicotupe
-https://hackernoon.com/@nicotupe
+by @comet.ml
+
+https://hackernoon.com/@comet.ml
+
 
 
 https://hackernoon.com/learning-ai-if-you-suck-at-math-p7-the-magic-of-natural-language-processing-f3819a689386
@@ -189,12 +179,12 @@ Five Real Machine Learning Use Cases in Cryptocurrencies
 
 
 
-https://hackernoon.com/challenges-in-successful-implementation-on-machine-learning-ai-in-smes-u336z3rf2
-Challenges in successful implementation of Machine Learning AI in SMEs
 
 
-
-
+https://hackernoon.com/the-99percent-acurate-machine-learning-algorithms-you-shouldnt-buy-2f1473ta2
+This Image is Red
+by @nicotupe
+https://hackernoon.com/@nicotupe
 
 
 https://hackernoon.com/10-must-know-open-source-tools-for-machine-learning-rb1wc34ce
@@ -206,6 +196,23 @@ https://hackernoon.com/10-must-know-open-source-tools-for-machine-learning-rb1wc
 
 -----------------
 
+
+https://hackernoon.com/machine-learning-10-facts-everyone-needs-to-understand-w148222ni
+10 Machine Learning Facts Everyone Needs to Understand
+
+
+
+
+https://hackernoon.com/ai-basics-and-news-must-read-machine-learning-articles-ve1w32m4
+AI Basics & AI Latest News: Must-Read Machine Learning Articles
+
+
+
+https://hackernoon.com/9-reasons-why-you-should-keep-learning-machine-learning-7n7h307n
+9 Reasons Why You Should Keep Learning Machine Learning
+
+
+
 https://hackernoon.com/16-best-resources-to-learn-ai-machine-learning-in-2019-f95c4f59018b
 16 Best Resources to Learn AI & Machine Learning in 2019
 
@@ -213,12 +220,14 @@ https://hackernoon.com/16-best-resources-to-learn-ai-machine-learning-in-2019-f9
 
 
 
-https://hackernoon.com/the-99percent-acurate-machine-learning-algorithms-you-shouldnt-buy-2f1473ta2
-This Image is Red
+
+https://hackernoon.com/challenges-in-successful-implementation-on-machine-learning-ai-in-smes-u336z3rf2
+Challenges in successful implementation of Machine Learning AI in SMEs
+
 
 
 https://hackernoon.com/using-machine-learning-to-recommend-investments-in-p2p-lending-cw2ll3yvh
-
+Using Machine Learning to Recommend Investments in P2P Lending
 
 
 https://hackernoon.com/integrating-machine-learning-into-game-development-c5a7f31ed839
