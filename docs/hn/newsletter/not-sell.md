@@ -1,1 +1,0 @@
-https://www.google.com/search?rlz=1C1GCEA_enUA876UA876&sxsrf=ACYBGNT84vtcu_EOx6nUrqZQcwSgP0flFg%3A1575835924628&ei=FFntXdz9JceRmwWn2oegCw&q=site%3Ahackernoon.com+salesforce&oq=site%3Ahackernoon.com+salesforce&gs_l=psy-ab.3...4054.5633..6074...0.0..0.82.495.7......0....1..gws-wiz.R1GGgz2l2nE&ved=0ahUKEwjc14uk7qbmAhXHyKYKHSftAbQQ4dUDCAs&uact=5
