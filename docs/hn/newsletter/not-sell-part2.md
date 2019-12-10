@@ -22,7 +22,7 @@ https://hackernoon.com/is-api-first-development-approach-right-for-your-business
 
 
 
-
+https://hackernoon.com/why-and-how-to-earn-a-salesforce-developer-certification-a56543ea6287
 
 
 
