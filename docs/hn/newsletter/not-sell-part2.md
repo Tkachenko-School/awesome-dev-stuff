@@ -1,4 +1,3 @@
-https://www.google.com/search?rlz=1C1GCEA_enUA876UA876&sxsrf=ACYBGNT84vtcu_EOx6nUrqZQcwSgP0flFg%3A1575835924628&ei=FFntXdz9JceRmwWn2oegCw&q=site%3Ahackernoon.com+salesforce&oq=site%3Ahackernoon.com+salesforce&gs_l=psy-ab.3...4054.5633..6074...0.0..0.82.495.7......0....1..gws-wiz.R1GGgz2l2nE&ved=0ahUKEwjc14uk7qbmAhXHyKYKHSftAbQQ4dUDCAs&uact=5
 
 
 https://hackernoon.com/an-engineers-guide-five-tools-for-hassle-free-business-software-development-79423aw5
@@ -65,6 +64,22 @@ https://hackernoon.com/interview-how-affiliate-marketing-is-saving-online-busine
 
 
 
+https://hackernoon.com/dont-learn-to-code-in-your-production-salesforce-instance-867383b5c8f2
+
+
+
+
+
+
+https://hackernoon.com/how-salesforce-is-poised-to-bring-legal-and-sales-together-f328262f9b7e
+
+
+
+
+
+
+
+
 
 
 
@@ -104,6 +119,17 @@ https://hackernoon.com/8-offline-marketing-techniques-to-boost-your-sales-d898r2
 
 
 
+https://hackernoon.com/interview-with-chief-scientist-at-salesforce-dr-richard-socher-c982b9edcd12
+
+
+
+
+
+
+
+
+
+
 https://hackernoon.com/why-interactive-sales-proposal-is-the-next-big-thing-g41t32yl
 
 
@@ -118,7 +144,47 @@ https://hackernoon.com/why-interactive-sales-proposal-is-the-next-big-thing-g41t
 
 
 
+
+
+https://hackernoon.com/5-ways-using-salesforce-is-like-dating-and-why-you-should-commit-615444d20fc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://hackernoon.com/7-ways-you-can-use-shopify-to-make-money-online-198b42c00724
+
+
+
+
+
+
+
+
+
+
+https://hackernoon.com/building-an-online-marketplace-from-scratch-the-dark-side-of-salesforce-limits-6834c2d5d71e
+
+
+
+
+
+
+
+
+
+https://hackernoon.com/10-ways-to-rock-your-company-culture-with-salesforce-community-cloud-part-1-d439b98ecac
 
 
 
@@ -145,6 +211,20 @@ https://hackernoon.com/how-to-select-the-right-business-model-to-create-a-top-pr
 
 
 
+https://hackernoon.com/the-first-day-of-work-at-nike-salesforce-ibm-and-sega-f911e4936b03
+
+
+
+
+
+
+
+https://hackernoon.com/salesforce-release-management-important-aspects-that-you-need-to-consider-l41ds2z0g
+
+
+
+
+
 
 
 https://hackernoon.com/learn-business-and-become-a-better-software-developer-6db96ef852b1
@@ -159,6 +239,16 @@ https://hackernoon.com/learn-business-and-become-a-better-software-developer-6db
 
 
 https://hackernoon.com/when-should-startups-pursue-partnerships-de59e6770e9
+
+
+
+
+
+
+
+https://hackernoon.com/getting-started-with-salesforce-dx-5e28e0d7d318
+
+
 
 
 
