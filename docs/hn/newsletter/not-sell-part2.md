@@ -1,13 +1,17 @@
 
 
 https://hackernoon.com/an-engineers-guide-five-tools-for-hassle-free-business-software-development-79423aw5
-
+An Engineer's Guide: Five Tools For Hassle-Free Business Software Development
+@MelvinTalk
+https://hackernoon.com/@MelvinTalk
 
 
 ---
 
 https://hackernoon.com/business-perspective-in-the-future-of-ai-development-by-2025-xz4fl3z2e
-
+Business perspective in the Future of AI development by 2025
+@Helen
+https://hackernoon.com/@Helen
 
 
 
@@ -21,21 +25,25 @@ https://hackernoon.com/business-perspective-in-the-future-of-ai-development-by-2
 
 
 https://hackernoon.com/is-api-first-development-approach-right-for-your-business-0lr2b58
-
+API First Development Approach And How It Can Help to Your Business
+@rachel
+https://hackernoon.com/@rachel
 
 ---
 
 
 https://hackernoon.com/why-and-how-to-earn-a-salesforce-developer-certification-a56543ea6287
-
-
+404
+Why and How to Earn a Salesforce Developer Certification
 
 ---
 
 https://hackernoon.com/digital-banking-2019-top-opportunities-and-cornerstones-in-it-product-development-9pr3z45
 
 
-
+Digital Banking 2019: Top Opportunities and Cornerstones in IT Product Development
+@igor-piatnytskyi
+https://hackernoon.com/@igor-piatnytskyi
 
 
 
@@ -47,9 +55,9 @@ https://hackernoon.com/digital-banking-2019-top-opportunities-and-cornerstones-i
 
 https://hackernoon.com/7-seeds-that-can-boom-your-business-in-2019-73b37f21dff7
 
+7 Seeds That Can Boom Your Business in 2019
 
-
-
+404
 
 
 
@@ -59,7 +67,9 @@ https://hackernoon.com/7-seeds-that-can-boom-your-business-in-2019-73b37f21dff7
 
 https://hackernoon.com/decentralized-enterprise-business-networks-5b96de23a31f
 
-
+Decentralized Enterprise Business Networks
+@trentlapinski
+https://hackernoon.com/@trentlapinski
 
 
 
@@ -71,7 +81,9 @@ https://hackernoon.com/decentralized-enterprise-business-networks-5b96de23a31f
 https://hackernoon.com/interview-how-affiliate-marketing-is-saving-online-business-n74e34ua
 
 
-
+[Interview] How Affiliate Marketing Is Saving Online Business
+@alexlash
+https://hackernoon.com/@alexlash
 
 
 
@@ -80,16 +92,18 @@ https://hackernoon.com/interview-how-affiliate-marketing-is-saving-online-busine
 
 https://hackernoon.com/dont-learn-to-code-in-your-production-salesforce-instance-867383b5c8f2
 
-
-
+Don’t learn to code in your production Salesforce instance
+@bob_buzzard
+https://hackernoon.com/@bob_buzzard
 
 
 
 ---
 
 https://hackernoon.com/how-salesforce-is-poised-to-bring-legal-and-sales-together-f328262f9b7e
-
-
+How Salesforce is poised to bring legal and sales together
+@J_Marciano
+https://hackernoon.com/@J_Marciano
 
 
 
@@ -103,6 +117,9 @@ https://hackernoon.com/how-salesforce-is-poised-to-bring-legal-and-sales-togethe
 
 https://hackernoon.com/what-really-influences-product-managers-job-satisfaction-x12n320j
 
+What Really Influences A Product Managers’ Job Satisfaction [Deep Dive]
+@yaroslav
+https://hackernoon.com/@yaroslav
 
 
 
@@ -117,7 +134,9 @@ https://hackernoon.com/what-really-influences-product-managers-job-satisfaction-
 
 https://hackernoon.com/sales-tips-for-founders-c0a635358485
 
-
+Sales Tips for Founders
+@fiiine
+https://hackernoon.com/@fiiine
 
 
 
@@ -131,7 +150,9 @@ https://hackernoon.com/sales-tips-for-founders-c0a635358485
 
 https://hackernoon.com/8-offline-marketing-techniques-to-boost-your-sales-d898r2yz2
 
-
+8 Offline Marketing Techniques to Boost Your Sales!
+https://hackernoon.com/@AshishSharma31
+@AshishSharma31
 
 
 
@@ -144,7 +165,9 @@ https://hackernoon.com/8-offline-marketing-techniques-to-boost-your-sales-d898r2
 
 
 https://hackernoon.com/interview-with-chief-scientist-at-salesforce-dr-richard-socher-c982b9edcd12
-
+Interview with Chief Scientist at Salesforce: Dr. Richard Socher
+@init_27
+https://hackernoon.com/@init_27
 
 
 
