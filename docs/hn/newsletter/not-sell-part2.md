@@ -181,7 +181,9 @@ https://hackernoon.com/@init_27
 
 https://hackernoon.com/why-interactive-sales-proposal-is-the-next-big-thing-g41t32yl
 
-
+Why Interactive Sales Proposal Is the Next Big Thing?
+@sne
+https://hackernoon.com/@sne
 
 
 
@@ -200,7 +202,9 @@ https://hackernoon.com/why-interactive-sales-proposal-is-the-next-big-thing-g41t
 https://hackernoon.com/5-ways-using-salesforce-is-like-dating-and-why-you-should-commit-615444d20fc
 
 
-
+5 Ways Using Salesforce Is Like Dating (and Why You Should Commit)
+@rtslabs
+https://hackernoon.com/@rtslabs
 
 
 
@@ -219,9 +223,10 @@ https://hackernoon.com/5-ways-using-salesforce-is-like-dating-and-why-you-should
 https://hackernoon.com/7-ways-you-can-use-shopify-to-make-money-online-198b42c00724
 
 
+7 Ways You Can Use Shopify to Make Money Online
+@homegrownincomeblog
 
-
-
+https://hackernoon.com/@homegrownincomeblog
 
 
 
@@ -232,8 +237,9 @@ https://hackernoon.com/7-ways-you-can-use-shopify-to-make-money-online-198b42c00
 https://hackernoon.com/building-an-online-marketplace-from-scratch-the-dark-side-of-salesforce-limits-6834c2d5d71e
 
 
-
-
+Building an online marketplace from scratch — the dark side of Salesforce limits
+@msedzielewski
+https://hackernoon.com/@msedzielewski
 
 
 
@@ -245,8 +251,9 @@ https://hackernoon.com/10-ways-to-rock-your-company-culture-with-salesforce-comm
 
 
 
-
-
+10 Ways to Rock Your Company Culture with Salesforce Community Cloud: Part 1
+@rtslabs
+https://hackernoon.com/@rtslabs
 
 
 
@@ -255,9 +262,9 @@ https://hackernoon.com/10-ways-to-rock-your-company-culture-with-salesforce-comm
 
 https://hackernoon.com/e-commerce-growth-to-be-spurred-by-blockchain-based-package-delivery-system-3df89705fc6d
 
-
-
-
+E-commerce growth to be spurred by blockchain based package delivery system
+@tanveerzafar
+https://hackernoon.com/@tanveerzafar
 
 
 
@@ -267,7 +274,9 @@ https://hackernoon.com/e-commerce-growth-to-be-spurred-by-blockchain-based-packa
 
 https://hackernoon.com/how-to-select-the-right-business-model-to-create-a-top-product-or-service-7bf21a3d9db4
 
-
+How to select the right business model to create a top product or service
+@avalonhost
+https://hackernoon.com/@avalonhost
 
 
 
@@ -275,7 +284,9 @@ https://hackernoon.com/how-to-select-the-right-business-model-to-create-a-top-pr
 
 
 https://hackernoon.com/the-first-day-of-work-at-nike-salesforce-ibm-and-sega-f911e4936b03
-
+The first day of work at Nike, Salesforce, IBM, and SEGA
+https://hackernoon.com/@VladimirPolo
+@VladimirPolo
 
 
 
@@ -285,7 +296,9 @@ https://hackernoon.com/the-first-day-of-work-at-nike-salesforce-ibm-and-sega-f91
 ---
 
 https://hackernoon.com/salesforce-release-management-important-aspects-that-you-need-to-consider-l41ds2z0g
-
+Salesforce Release Management: Important Aspects That You Need to Consider
+@SimonM
+https://hackernoon.com/@SimonM
 
 
 
@@ -296,7 +309,9 @@ https://hackernoon.com/salesforce-release-management-important-aspects-that-you-
 
 https://hackernoon.com/learn-business-and-become-a-better-software-developer-6db96ef852b1
 
-
+Learn Business and Become a Better Software Developer
+@stpe
+https://hackernoon.com/@stpe
 
 
 
@@ -309,7 +324,9 @@ https://hackernoon.com/learn-business-and-become-a-better-software-developer-6db
 
 https://hackernoon.com/when-should-startups-pursue-partnerships-de59e6770e9
 
-
+When Should Startups Pursue Partnerships?
+@ashrust
+https://hackernoon.com/@ashrust
 
 
 
@@ -319,10 +336,10 @@ https://hackernoon.com/when-should-startups-pursue-partnerships-de59e6770e9
 
 https://hackernoon.com/getting-started-with-salesforce-dx-5e28e0d7d318
 
+Getting Started with Salesforce DX
 
 
-
-
+404
 
 
 
