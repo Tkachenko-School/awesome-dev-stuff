@@ -61,3 +61,8 @@ https://hackernoon.com/@daniel-jeffries
 
 https://hackernoon.com/10-000-square-feet-of-opportunity-powered-by-a-i-bf733b39c305
 https://hackernoon.com/@pkwete
+
+
+https://hackernoon.com/why-software-engineering-processes-and-tools-dont-work-for-machine-learning-jd8i32zx
+https://hackernoon.com/@comet.ml
+by @comet.ml
