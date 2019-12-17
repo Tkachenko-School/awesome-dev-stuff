@@ -71,3 +71,32 @@ https://hackernoon.com/natural-language-processing-and-how-it-can-be-used-to-imp
 https://hackernoon.com/proposals-for-using-facial-recognition-technology-in-the-private-sector-yhr3zb7
 
 
+
+
+-----
+
+
+
+https://hackernoon.com/tagged/ai-applications
+
+https://hackernoon.com/tagged/neural-networks
+https://hackernoon.com/understanding-what-artificial-intelligence-actually-sees-7d4e5b9e648e
+
+https://hackernoon.com/a-look-at-the-ai-economy-ee8630k6
+
+https://hackernoon.com/the-essential-guide-to-organizing-an-ai-vs-human-showdown-fe435701d755
+
+https://hackernoon.com/how-ai-is-changing-the-future-of-digital-marketing-55c9585db075
+
+https://hackernoon.com/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5
+
+https://hackernoon.com/what-connects-mathematics-physics-and-technology-9e4097fc82ae
+
+https://hackernoon.com/how-ai-based-ux-design-will-shape-the-future-of-business-branding-b113ccfad84
+
+
+
+----
+
+
+
