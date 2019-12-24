@@ -1,17 +1,10 @@
+1\\\
 
 
-
-https://hackernoon.com/5-tips-every-recruiter-should-know-before-hiring-software-developers-45r225p
-
-https://hackernoon.com/i-got-an-intern-offer-from-google-and-the-resources-i-used-to-prepare-the-coding-interviews-xxk32xg
-
-https://hackernoon.com/6-work-from-home-positions-in-ai-data-collection-and-data-annotation-hj5932e1
 
 https://hackernoon.com/applications-of-predictive-analytics-in-your-recruitment-journey-l3n32g0
 
 https://hackernoon.com/looking-within-to-battle-intrinsic-bias-in-ai-b99v3te7
-
-https://hackernoon.com/why-startups-are-better-to-work-for-d8y3t9x
 
 https://hackernoon.com/10-tips-and-100-questions-to-crack-your-coding-interview-in-2019-038j3zk8
 
@@ -32,8 +25,6 @@ https://hackernoon.com/software-engineer-interview-at-facebook-tips-and-tricks-5
 
 https://hackernoon.com/fintech-talent-shortage-research-mk1l32g5
 
-https://hackernoon.com/how-gen-z-will-change-corporate-culture-and-how-we-might-prepare-for-it-cxb53tjr
-
 https://hackernoon.com/what-the-bitcoin-job-market-looks-like-in-2019-and-beyond-mnr4265
 
 https://hackernoon.com/5-pro-tips-to-build-a-startup-culture-in-the-nordics-jrq32cm
@@ -42,7 +33,6 @@ https://hackernoon.com/5-pro-tips-to-build-a-startup-culture-in-the-nordics-jrq3
 https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
 
 
-https://hackernoon.com/how-to-beat-ats-9a3y32zb
 
 https://hackernoon.com/like-a-bawse-what-to-ask-when-hiring-executives-w910m34pg
 
@@ -50,15 +40,9 @@ https://hackernoon.com/first-week-jitters-a21w630c8
 
 https://hackernoon.com/demystifying-culture-b5b20bfb8b21
 
-https://hackernoon.com/why-hiring-hustlers-and-differently-abled-is-good-for-innovation-z599v3crx
 
-https://hackernoon.com/a-better-approach-to-start-up-hiring-ow53308n
 
-https://hackernoon.com/making-a-fair-technical-hiring-challenge-iu12q30im
 
-https://hackernoon.com/insiders-guide-how-to-find-evaluate-and-hire-ux-designers-5q2fk30xz
-
-https://hackernoon.com/make-the-most-of-github-to-source-your-hires-5m2hd4zo1
 
 
 https://hackernoon.com/interviewing-senior-talent-made-easy-pz1fy389a
