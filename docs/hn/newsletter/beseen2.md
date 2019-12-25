@@ -135,6 +135,8 @@ Part3
 
 https://hackernoon.com/first-week-jitters-a21w630c8
 
+
+
 https://hackernoon.com/demystifying-culture-b5b20bfb8b21
 
 
@@ -144,20 +146,42 @@ https://hackernoon.com/demystifying-culture-b5b20bfb8b21
 
 https://hackernoon.com/interviewing-senior-talent-made-easy-pz1fy389a
 
+
+
+
 https://hackernoon.com/marketing-302-for-engineers-hiring-marketers-a3a6d4355a03
+
+
 
 https://hackernoon.com/interviewing-at-gitlab-66539aeb28c0
 
+
+
+
 https://hackernoon.com/the-tech-talent-landscape-in-austin-tx-ebb1826969e4
+
+
+
 
 https://hackernoon.com/the-roadmap-to-become-a-devops-dude-from-server-to-serverless-dd97420f640e
 
+
+
+
 https://hackernoon.com/4-ways-to-actually-get-quality-candidates-with-tech-recruiters-e40f02bd72a7
+
+
+
 
 https://hackernoon.com/how-to-pick-a-product-manager-you-can-trust-a193790a2503
 
 
+
+
 https://hackernoon.com/the-first-day-of-work-at-nike-salesforce-ibm-and-sega-f911e4936b03
+
+
+
 
 https://hackernoon.com/how-to-hire-your-first-head-of-marketing-67c43dd2cd73
 
@@ -167,41 +191,77 @@ https://hackernoon.com/how-to-hire-your-first-head-of-marketing-67c43dd2cd73
 https://hackernoon.com/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927
 
 
+
+
 https://hackernoon.com/robot-hr-how-hr-is-contributing-to-unemployment-1918f4b070f2
+
+
 
 https://hackernoon.com/7-hard-truths-about-starting-a-career-as-a-developer-z56u301p
 
+
+
 https://hackernoon.com/chatbots-are-not-a-replacement-for-human-agents-heres-why-7as32qx
+
+
 
 https://hackernoon.com/applications-of-predictive-analytics-in-your-recruitment-journey-l3n32g0
 
+
+
 https://hackernoon.com/artificial-intelligence-in-hr-processes-is-the-new-norm-wsr32kq
+
+
+
 
 https://hackernoon.com/impact-of-iot-from-recruiting-to-the-final-product-2fl32mt.
 
+
+
+
 https://hackernoon.com/interview-chatbots-are-now-a-thing-jwr32pv
+
+
 
 https://hackernoon.com/how-we-accidentally-fired-all-of-our-top-performers-f30910ad678
 
+
+
 https://hackernoon.com/how-to-bootstrap-your-startups-hr-and-when-not-to-8f2c46902e7
 
+
+
 https://hackernoon.com/bringing-human-back-into-hr-ae0e213ffc67
+
 
 
 https://hackernoon.com/top-20-java-interview-questions-from-investment-banks-80a2c405802
 
 
+
 https://hackernoon.com/could-you-stay-gdpr-compliant-if-you-hire-remote-developers-gf477306e
+
+
 
 https://hackernoon.com/towards-a-company-skills-matrix-408ca62fd8dd
 
+
+
 https://hackernoon.com/super-human-a-i-for-business-56ab91eb2462
+
+
 
 https://hackernoon.com/10-soft-skills-every-developer-needs-66f0cdcfd3f7
 
+
+
 https://hackernoon.com/dear-start-up-ceo-dont-hate-me-because-i-work-in-hr-bb61c9ee52a3
 
+
+
 https://hackernoon.com/having-too-little-to-do-makes-people-unhappy-8afa21ea098e
+
+
 
 https://hackernoon.com/angellist-blogs-about-work-and-people-gc7630mn
 
