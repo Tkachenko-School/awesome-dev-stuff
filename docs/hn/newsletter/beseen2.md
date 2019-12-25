@@ -34,38 +34,104 @@ https://hackernoon.com/make-the-most-of-github-to-source-your-hires-5m2hd4zo1
 **Part2**
 
 https://hackernoon.com/applications-of-predictive-analytics-in-your-recruitment-journey-l3n32g0
+Applications of Predictive Analytics in your Recruitment Journey
+
+by @nandhinibalajits
+https://hackernoon.com/@nandhinibalajits
+
 
 https://hackernoon.com/looking-within-to-battle-intrinsic-bias-in-ai-b99v3te7
+Looking Within to Battle Intrinsic Bias in AI
+by @adam-rogers
+https://hackernoon.com/@adam-rogers
+
+
 
 https://hackernoon.com/10-tips-and-100-questions-to-crack-your-coding-interview-in-2019-038j3zk8
+Top 10 Coding Interview Tips and some Programming Questions to get a Software Developer Job in 2020
+by @javinpaul
+https://hackernoon.com/@javinpaul
+
+
+
 
 https://hackernoon.com/what-glassdoor-interview-reviews-reveal-about-tech-hiring-cultures-q2v32h3
+Tech Hiring Cultures Analyzed via Glassdoor Interview Data
+by @chiphuyen
+https://hackernoon.com/@chiphuyen
 
 https://hackernoon.com/how-to-find-a-job-as-a-software-developer-in-japan-192o3t88
+How To Find A Job As A Software Developer In Japan
+by @etdev
+https://hackernoon.com/@etdev
 
 https://hackernoon.com/8-ways-to-avoid-cover-letter-mistakes-um3c3z1z
+8 Ways to Avoid Cover Letter Mistakes
+by @janehurst26
+https://hackernoon.com/@janehurst26
+
+
 
 https://hackernoon.com/9-soft-skills-every-qa-professional-needs-1q533xlm
+9 Soft Skills Every QA Professional Needs
+by @Maya.Kirianova
+https://hackernoon.com/@Maya.Kirianova
+
+
 
 https://hackernoon.com/how-to-crack-law-firms-secrete-job-assessment-watson-glaser-test-u31632vs
+How to Crack Law Firms' Secrete Job Assessment: Watson Glaser Test
+https://hackernoon.com/@anderson-lele
+by @anderson-lele
+
 
 https://hackernoon.com/what-to-considere-when-hiring-a-security-analyst-2k4f23ih
+What You Need To Consider When Hiring A Security Analyst
+https://hackernoon.com/@stanley-igboanugo
+by @stanley-igboanugo
+
+
 
 https://hackernoon.com/software-engineer-interview-at-facebook-tips-and-tricks-5k1236tp
-
+Software Engineer interview at Facebook :  Tips and Tricks
+https://hackernoon.com/@niksib
+by @niksib
 
 https://hackernoon.com/fintech-talent-shortage-research-mk1l32g5
+Fintech Talent Shortage Research : Risk of Inaction in 2020
+https://hackernoon.com/@vsolo
+by @vsolo
 
 https://hackernoon.com/what-the-bitcoin-job-market-looks-like-in-2019-and-beyond-mnr4265
+What the bitcoin job market looks like in 2019 (and beyond)
+https://hackernoon.com/@beseen
+by @beseen
+
 
 https://hackernoon.com/5-pro-tips-to-build-a-startup-culture-in-the-nordics-jrq32cm
-
+5 Pro Tips to Build a Startup Culture in the Nordics
+https://hackernoon.com/@anastasia-stefanuk
+by @anastasia-stefanuk
 
 https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
-
+50+ Data Structure and Algorithms Interview Questions for Programmers
+https://hackernoon.com/@javinpaul
+by @javinpaul
 
 
 https://hackernoon.com/like-a-bawse-what-to-ask-when-hiring-executives-w910m34pg
+Like a Bawse!   What to Ask When Hiring Executives
+https://hackernoon.com/@fritjofsson
+by @fritjofsson
+
+
+
+Part3
+
+
+
+
+
 
 https://hackernoon.com/first-week-jitters-a21w630c8
 
