@@ -207,7 +207,10 @@ https://hackernoon.com/chatbots-are-not-a-replacement-for-human-agents-heres-why
 
 https://hackernoon.com/applications-of-predictive-analytics-in-your-recruitment-journey-l3n32g0
 
+---
 
+
+**Part4**
 
 https://hackernoon.com/artificial-intelligence-in-hr-processes-is-the-new-norm-wsr32kq
 
