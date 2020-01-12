@@ -7,6 +7,8 @@ https://hackernoon.com/twitter-scraping-text-mining-and-sentiment-analysis-using
 
 https://hackernoon.com/when-a-small-piece-of-my-code-predicted-the-fate-of-us-presidential-elections-e6f2a0cced4a
 
+---
+
 https://hackernoon.com/backtesting-a-sentiment-analysis-strategy-for-bitcoin-3f79ddeb86f1
 
 https://hackernoon.com/the-era-of-artificial-intelligence-based-sentiment-analysis-tools-83aba8d2eff3
