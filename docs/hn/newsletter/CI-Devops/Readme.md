@@ -20,6 +20,11 @@ https://hackernoon.com/how-to-make-great-code-reviewstm-9yp3oq3
 
 https://hackernoon.com/why-your-devops-projects-first-commit-should-already-have-a-working-app-and-cicd-pipeline-to-produc-lpp32l6
 
+
+----
+----
+
+
 https://hackernoon.com/set-up-laravel-6-on-google-cloud-run-step-by-step-with-continuous-integration-ci-1c2y3zr4
 
 https://hackernoon.com/guide-to-pursue-devops-agile-development-cycle-yj18321e
